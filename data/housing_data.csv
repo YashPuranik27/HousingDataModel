@@ -1,0 +1,1001 @@
+BROKERTITLE,TYPE,PRICE,BEDS,BATH,PROPERTYSQFT,ADDRESS,STATE,MAIN_ADDRESS,ADMINISTRATIVE_AREA_LEVEL_2,LOCALITY,SUBLOCALITY,STREET_NAME,LONG_NAME,FORMATTED_ADDRESS,LATITUDE,LONGITUDE
+Broker C,Townhouse,694604,4,4,1161,1 Main St,FL,1 Main St,County A,City A,District B,Main St,Property 1,"1 Main St, City A, CA",38.66899953610616,-121.8773666549028
+Broker A,Townhouse,128380,2,3,2972,2 Main St,FL,2 Main St,County A,City A,District A,Main St,Property 2,"2 Main St, City A, CA",38.694770934130545,-121.50036172297132
+Broker C,Townhouse,734486,3,2,3177,3 Main St,WA,3 Main St,County C,City C,District B,Oak Ave,Property 3,"3 Main St, City A, CA",37.830056590601785,-121.51949045664533
+Broker C,Townhouse,364500,2,1,2808,4 Main St,WA,4 Main St,County C,City B,District A,Pine Blvd,Property 4,"4 Main St, City A, CA",38.595541560354484,-121.97123912663099
+Broker A,Single Family,170326,5,2,586,5 Main St,NY,5 Main St,County C,City A,District C,Main St,Property 5,"5 Main St, City A, CA",37.812597390422674,-122.14498736836431
+Broker A,Townhouse,978879,5,3,3012,6 Main St,WA,6 Main St,County A,City C,District C,Oak Ave,Property 6,"6 Main St, City A, CA",38.14206962569502,-122.02622956543573
+Broker C,Condo,739282,5,3,3442,7 Main St,NY,7 Main St,County C,City B,District C,Oak Ave,Property 7,"7 Main St, City A, CA",38.31719997562108,-122.03163567147024
+Broker B,Condo,320971,2,2,3273,8 Main St,NY,8 Main St,County C,City A,District C,Main St,Property 8,"8 Main St, City A, CA",37.92300079862713,-122.1325331250172
+Broker C,Townhouse,906481,4,1,3004,9 Main St,NY,9 Main St,County B,City B,District C,Main St,Property 9,"9 Main St, City A, CA",38.52121381256908,-122.15082039566703
+Broker C,Townhouse,568933,4,2,3810,10 Main St,FL,10 Main St,County B,City B,District B,Pine Blvd,Property 10,"10 Main St, City A, CA",37.783254704172144,-121.55833706352027
+Broker C,Condo,991793,1,1,2200,11 Main St,FL,11 Main St,County A,City A,District C,Pine Blvd,Property 11,"11 Main St, City A, CA",37.94349904843404,-122.34953807931534
+Broker C,Condo,902514,5,2,4170,12 Main St,WA,12 Main St,County B,City A,District C,Main St,Property 12,"12 Main St, City A, CA",38.35569682985348,-121.7417888179004
+Broker A,Single Family,887093,4,3,3200,13 Main St,FL,13 Main St,County B,City A,District C,Pine Blvd,Property 13,"13 Main St, City A, CA",38.4892875620373,-122.24657994854354
+Broker C,Condo,268484,1,4,4129,14 Main St,WA,14 Main St,County B,City B,District C,Oak Ave,Property 14,"14 Main St, City A, CA",38.69154310269392,-122.07489410660594
+Broker B,Condo,889352,4,4,2147,15 Main St,FL,15 Main St,County A,City B,District A,Pine Blvd,Property 15,"15 Main St, City A, CA",38.480396651934626,-122.35785696586515
+Broker A,Townhouse,584410,5,1,3818,16 Main St,CA,16 Main St,County B,City C,District C,Pine Blvd,Property 16,"16 Main St, City A, CA",38.44667927025487,-122.14942636314453
+Broker B,Condo,869666,3,1,4187,17 Main St,CA,17 Main St,County A,City B,District C,Oak Ave,Property 17,"17 Main St, City A, CA",38.169241146350664,-121.65097892888275
+Broker B,Single Family,441705,5,1,1096,18 Main St,WA,18 Main St,County C,City A,District B,Pine Blvd,Property 18,"18 Main St, City A, CA",37.77618442552681,-121.53438467545274
+Broker B,Condo,895378,2,3,984,19 Main St,FL,19 Main St,County B,City B,District A,Oak Ave,Property 19,"19 Main St, City A, CA",37.89505925873562,-122.19787284809763
+Broker B,Townhouse,325314,4,2,1145,20 Main St,FL,20 Main St,County A,City C,District B,Pine Blvd,Property 20,"20 Main St, City A, CA",38.30945454475604,-121.95585216074107
+Broker A,Townhouse,538716,4,3,3589,21 Main St,NY,21 Main St,County B,City C,District C,Main St,Property 21,"21 Main St, City A, CA",38.45002988584442,-121.94907595206278
+Broker A,Condo,859900,2,4,4884,22 Main St,TX,22 Main St,County C,City A,District B,Pine Blvd,Property 22,"22 Main St, City A, CA",38.192348283896465,-121.54582469424027
+Broker B,Townhouse,902741,2,1,1220,23 Main St,WA,23 Main St,County A,City A,District B,Main St,Property 23,"23 Main St, City A, CA",38.50557901152839,-121.65660094712419
+Broker B,Single Family,679518,3,2,998,24 Main St,TX,24 Main St,County A,City C,District C,Main St,Property 24,"24 Main St, City A, CA",38.29676229533218,-121.90632278163194
+Broker A,Single Family,998254,4,4,2173,25 Main St,TX,25 Main St,County A,City C,District A,Main St,Property 25,"25 Main St, City A, CA",37.849076195594314,-121.74865279952822
+Broker A,Condo,591872,4,4,3567,26 Main St,WA,26 Main St,County C,City C,District A,Main St,Property 26,"26 Main St, City A, CA",37.96691625096795,-121.57204494609063
+Broker A,Condo,616998,3,4,614,27 Main St,FL,27 Main St,County C,City A,District B,Main St,Property 27,"27 Main St, City A, CA",38.61489822324395,-122.40986104597445
+Broker C,Condo,619984,1,3,3479,28 Main St,WA,28 Main St,County C,City C,District C,Oak Ave,Property 28,"28 Main St, City A, CA",38.49981274662444,-122.01650996894995
+Broker C,Townhouse,565757,3,1,2236,29 Main St,TX,29 Main St,County A,City C,District B,Oak Ave,Property 29,"29 Main St, City A, CA",38.669661987012496,-121.51215683272292
+Broker C,Single Family,474484,5,4,4111,30 Main St,FL,30 Main St,County C,City A,District B,Oak Ave,Property 30,"30 Main St, City A, CA",37.89245724912094,-121.67908696915605
+Broker B,Single Family,608062,4,1,2753,31 Main St,CA,31 Main St,County B,City B,District B,Main St,Property 31,"31 Main St, City A, CA",38.765122534615074,-121.87655862566592
+Broker C,Townhouse,683609,2,3,2794,32 Main St,WA,32 Main St,County C,City B,District C,Pine Blvd,Property 32,"32 Main St, City A, CA",37.984306713949934,-121.88975547296486
+Broker B,Single Family,232028,5,4,4130,33 Main St,WA,33 Main St,County A,City C,District C,Oak Ave,Property 33,"33 Main St, City A, CA",37.78667987628664,-122.07162990239556
+Broker B,Condo,331447,4,3,646,34 Main St,FL,34 Main St,County B,City B,District A,Pine Blvd,Property 34,"34 Main St, City A, CA",38.77232293905356,-121.89887946635848
+Broker C,Condo,960563,3,3,4482,35 Main St,CA,35 Main St,County C,City B,District C,Pine Blvd,Property 35,"35 Main St, City A, CA",38.05597388544511,-121.76401680053654
+Broker B,Condo,541124,5,1,3953,36 Main St,CA,36 Main St,County B,City B,District B,Main St,Property 36,"36 Main St, City A, CA",38.44291945251256,-122.0010369615712
+Broker C,Single Family,912395,4,4,2910,37 Main St,FL,37 Main St,County B,City B,District B,Main St,Property 37,"37 Main St, City A, CA",37.95158231417631,-121.70524685360782
+Broker C,Condo,726045,1,3,636,38 Main St,NY,38 Main St,County A,City C,District A,Main St,Property 38,"38 Main St, City A, CA",38.355128532199146,-121.55816777273961
+Broker A,Townhouse,532659,1,4,3860,39 Main St,WA,39 Main St,County B,City B,District C,Oak Ave,Property 39,"39 Main St, City A, CA",38.678934986454564,-122.26471515181514
+Broker C,Townhouse,985691,2,1,3505,40 Main St,WA,40 Main St,County B,City B,District B,Main St,Property 40,"40 Main St, City A, CA",38.09508116742844,-121.96785297718257
+Broker A,Single Family,401207,4,3,4052,41 Main St,TX,41 Main St,County A,City A,District A,Oak Ave,Property 41,"41 Main St, City A, CA",38.44515397604436,-122.01137990871491
+Broker C,Townhouse,476369,1,1,518,42 Main St,FL,42 Main St,County A,City C,District A,Oak Ave,Property 42,"42 Main St, City A, CA",37.962803588798415,-121.73193519595027
+Broker C,Townhouse,478544,3,4,2742,43 Main St,TX,43 Main St,County A,City A,District B,Oak Ave,Property 43,"43 Main St, City A, CA",38.39969539871873,-122.16953253474206
+Broker A,Single Family,442962,4,4,948,44 Main St,TX,44 Main St,County B,City A,District B,Oak Ave,Property 44,"44 Main St, City A, CA",38.111350351817514,-121.77914908504772
+Broker A,Condo,366847,3,1,2448,45 Main St,CA,45 Main St,County B,City C,District C,Main St,Property 45,"45 Main St, City A, CA",37.986108258587954,-121.54191075826851
+Broker C,Condo,820488,3,2,1445,46 Main St,WA,46 Main St,County B,City B,District A,Oak Ave,Property 46,"46 Main St, City A, CA",38.08808205070364,-122.00126840020637
+Broker B,Condo,696387,1,3,4736,47 Main St,TX,47 Main St,County A,City A,District B,Main St,Property 47,"47 Main St, City A, CA",37.9537410685078,-121.50838430002078
+Broker A,Single Family,519065,4,4,2420,48 Main St,CA,48 Main St,County C,City C,District A,Main St,Property 48,"48 Main St, City A, CA",38.67681610783789,-121.42623626106652
+Broker B,Townhouse,787220,5,4,3477,49 Main St,FL,49 Main St,County B,City B,District C,Oak Ave,Property 49,"49 Main St, City A, CA",38.17208688631713,-122.31330795005205
+Broker B,Condo,131585,1,3,4688,50 Main St,TX,50 Main St,County C,City C,District B,Main St,Property 50,"50 Main St, City A, CA",38.02017930497437,-122.18634681201513
+Broker B,Condo,515231,1,1,4515,51 Main St,WA,51 Main St,County A,City A,District C,Pine Blvd,Property 51,"51 Main St, City A, CA",38.22330784101594,-121.46902024851791
+Broker A,Single Family,667873,4,1,738,52 Main St,TX,52 Main St,County B,City B,District A,Main St,Property 52,"52 Main St, City A, CA",38.0954361668065,-121.46107231351861
+Broker B,Condo,389102,4,1,704,53 Main St,FL,53 Main St,County C,City B,District C,Main St,Property 53,"53 Main St, City A, CA",38.51931925381333,-122.32169272461324
+Broker A,Single Family,388161,3,2,3107,54 Main St,TX,54 Main St,County B,City C,District C,Oak Ave,Property 54,"54 Main St, City A, CA",38.74611991188549,-122.40440149962286
+Broker B,Townhouse,486821,4,2,4840,55 Main St,WA,55 Main St,County B,City B,District A,Oak Ave,Property 55,"55 Main St, City A, CA",38.21293365669765,-122.25829997674357
+Broker C,Single Family,915858,3,4,3888,56 Main St,CA,56 Main St,County B,City A,District C,Main St,Property 56,"56 Main St, City A, CA",38.635933399972245,-121.42338721661775
+Broker C,Single Family,379922,1,1,3472,57 Main St,WA,57 Main St,County C,City A,District A,Oak Ave,Property 57,"57 Main St, City A, CA",38.34076307355962,-122.23940038338931
+Broker A,Single Family,800601,2,3,4890,58 Main St,CA,58 Main St,County A,City A,District B,Pine Blvd,Property 58,"58 Main St, City A, CA",37.932135665094236,-121.91685239327798
+Broker C,Single Family,142229,5,4,3187,59 Main St,NY,59 Main St,County B,City C,District A,Pine Blvd,Property 59,"59 Main St, City A, CA",38.46552274208135,-121.57098227356948
+Broker C,Townhouse,186652,1,3,4666,60 Main St,WA,60 Main St,County A,City B,District A,Oak Ave,Property 60,"60 Main St, City A, CA",38.288334497125824,-122.39899838931179
+Broker B,Townhouse,349474,4,4,1848,61 Main St,WA,61 Main St,County A,City B,District B,Main St,Property 61,"61 Main St, City A, CA",38.4255065232521,-121.81491101774154
+Broker A,Condo,803724,5,2,4900,62 Main St,FL,62 Main St,County C,City B,District A,Pine Blvd,Property 62,"62 Main St, City A, CA",38.66458741257167,-122.14237455113037
+Broker B,Townhouse,360116,2,4,1316,63 Main St,TX,63 Main St,County C,City A,District B,Pine Blvd,Property 63,"63 Main St, City A, CA",38.21533457065605,-121.55706508356026
+Broker B,Townhouse,971310,2,2,1320,64 Main St,CA,64 Main St,County A,City B,District B,Main St,Property 64,"64 Main St, City A, CA",38.67607762321736,-122.13593885073591
+Broker B,Condo,943488,3,4,692,65 Main St,CA,65 Main St,County B,City A,District A,Oak Ave,Property 65,"65 Main St, City A, CA",38.52556901428166,-121.73264427971809
+Broker B,Townhouse,620985,5,1,2276,66 Main St,FL,66 Main St,County C,City B,District C,Pine Blvd,Property 66,"66 Main St, City A, CA",38.26350492587799,-121.74518036755259
+Broker B,Single Family,119975,3,3,4145,67 Main St,FL,67 Main St,County B,City A,District C,Main St,Property 67,"67 Main St, City A, CA",38.37812213565797,-122.19790645114035
+Broker B,Single Family,257795,1,1,750,68 Main St,TX,68 Main St,County B,City B,District B,Main St,Property 68,"68 Main St, City A, CA",38.100481132519015,-122.38460080013165
+Broker B,Condo,516495,5,4,2288,69 Main St,TX,69 Main St,County B,City C,District C,Pine Blvd,Property 69,"69 Main St, City A, CA",38.75849729973878,-122.0101504262146
+Broker A,Condo,309373,1,4,4200,70 Main St,WA,70 Main St,County A,City C,District C,Oak Ave,Property 70,"70 Main St, City A, CA",38.4422511630504,-122.13020684803412
+Broker C,Condo,297133,3,4,2963,71 Main St,NY,71 Main St,County B,City A,District A,Pine Blvd,Property 71,"71 Main St, City A, CA",37.81874685249663,-121.61042225038629
+Broker B,Single Family,974829,5,2,1667,72 Main St,TX,72 Main St,County A,City A,District B,Main St,Property 72,"72 Main St, City A, CA",38.10152190574801,-121.61903581154465
+Broker B,Townhouse,804513,3,3,4393,73 Main St,FL,73 Main St,County A,City B,District B,Pine Blvd,Property 73,"73 Main St, City A, CA",38.39821443375906,-121.96237604780737
+Broker B,Single Family,395286,5,3,1596,74 Main St,TX,74 Main St,County B,City B,District A,Oak Ave,Property 74,"74 Main St, City A, CA",37.83123327779924,-121.81288777467678
+Broker B,Condo,913348,3,4,3179,75 Main St,CA,75 Main St,County B,City C,District C,Main St,Property 75,"75 Main St, City A, CA",37.79878419131914,-121.81514048401307
+Broker B,Townhouse,688612,2,4,2347,76 Main St,NY,76 Main St,County B,City B,District B,Oak Ave,Property 76,"76 Main St, City A, CA",38.2249242395278,-121.59224185157237
+Broker B,Townhouse,276037,3,2,4404,77 Main St,WA,77 Main St,County B,City A,District C,Pine Blvd,Property 77,"77 Main St, City A, CA",38.10759017969267,-121.9943975858768
+Broker C,Single Family,488076,2,1,1004,78 Main St,CA,78 Main St,County A,City A,District B,Pine Blvd,Property 78,"78 Main St, City A, CA",38.21319860803317,-122.14395332020949
+Broker C,Condo,760008,3,1,2121,79 Main St,CA,79 Main St,County B,City A,District B,Oak Ave,Property 79,"79 Main St, City A, CA",38.03759330988001,-122.15436508185945
+Broker B,Single Family,790493,5,3,2972,80 Main St,NY,80 Main St,County B,City A,District B,Pine Blvd,Property 80,"80 Main St, City A, CA",37.939617746942986,-121.88320772071779
+Broker C,Townhouse,720347,5,2,3046,81 Main St,WA,81 Main St,County A,City A,District B,Oak Ave,Property 81,"81 Main St, City A, CA",38.46404335698034,-121.97025179726778
+Broker A,Single Family,722605,5,4,1887,82 Main St,FL,82 Main St,County C,City C,District C,Pine Blvd,Property 82,"82 Main St, City A, CA",38.289471116267805,-121.97927922901506
+Broker B,Single Family,825495,4,3,3494,83 Main St,WA,83 Main St,County C,City C,District C,Oak Ave,Property 83,"83 Main St, City A, CA",37.97505421124937,-122.32826266091028
+Broker A,Condo,397190,1,2,4316,84 Main St,TX,84 Main St,County A,City A,District C,Oak Ave,Property 84,"84 Main St, City A, CA",38.09448942626,-121.7007962593098
+Broker A,Condo,540280,5,1,1217,85 Main St,CA,85 Main St,County C,City B,District C,Main St,Property 85,"85 Main St, City A, CA",38.366707907663326,-122.20566331201809
+Broker B,Townhouse,201459,2,2,3984,86 Main St,TX,86 Main St,County A,City A,District A,Main St,Property 86,"86 Main St, City A, CA",37.84712934827248,-122.22244636979127
+Broker C,Single Family,861985,5,1,4934,87 Main St,FL,87 Main St,County B,City C,District B,Oak Ave,Property 87,"87 Main St, City A, CA",37.92235300926618,-122.0066416797226
+Broker A,Single Family,300422,4,2,1158,88 Main St,TX,88 Main St,County B,City A,District B,Pine Blvd,Property 88,"88 Main St, City A, CA",37.848145604107394,-122.19162165838219
+Broker B,Single Family,932325,2,3,4508,89 Main St,WA,89 Main St,County C,City C,District B,Pine Blvd,Property 89,"89 Main St, City A, CA",38.58721733271412,-121.83554173269198
+Broker A,Townhouse,201520,4,1,4734,90 Main St,TX,90 Main St,County B,City C,District A,Pine Blvd,Property 90,"90 Main St, City A, CA",38.52730923321201,-122.04793666066553
+Broker A,Townhouse,685560,2,3,4264,91 Main St,FL,91 Main St,County C,City A,District C,Oak Ave,Property 91,"91 Main St, City A, CA",38.52821293187926,-121.9704882774072
+Broker A,Condo,847512,3,3,3489,92 Main St,FL,92 Main St,County C,City A,District B,Oak Ave,Property 92,"92 Main St, City A, CA",38.49122534347603,-121.88223067839597
+Broker A,Condo,616123,1,1,2604,93 Main St,FL,93 Main St,County B,City B,District C,Oak Ave,Property 93,"93 Main St, City A, CA",38.444285423669875,-122.2158644775182
+Broker C,Condo,429793,1,1,1755,94 Main St,WA,94 Main St,County B,City C,District C,Oak Ave,Property 94,"94 Main St, City A, CA",38.25189191537818,-122.26364837713447
+Broker A,Single Family,426818,4,4,2982,95 Main St,FL,95 Main St,County C,City B,District A,Main St,Property 95,"95 Main St, City A, CA",38.41717816350712,-121.53897809712639
+Broker A,Single Family,244832,1,4,883,96 Main St,CA,96 Main St,County B,City A,District A,Oak Ave,Property 96,"96 Main St, City A, CA",37.81326155478798,-121.98567629716858
+Broker A,Condo,252999,4,4,3107,97 Main St,FL,97 Main St,County A,City C,District C,Pine Blvd,Property 97,"97 Main St, City A, CA",38.39636442265679,-122.00730639036746
+Broker C,Single Family,448619,4,3,693,98 Main St,TX,98 Main St,County B,City B,District B,Main St,Property 98,"98 Main St, City A, CA",38.55277770553688,-122.38378784972716
+Broker A,Condo,161367,4,3,4307,99 Main St,TX,99 Main St,County B,City B,District B,Pine Blvd,Property 99,"99 Main St, City A, CA",38.27525836038439,-121.9214236974126
+Broker A,Townhouse,853315,1,4,4219,100 Main St,TX,100 Main St,County A,City B,District A,Oak Ave,Property 100,"100 Main St, City A, CA",38.13241332842724,-121.86523027838899
+Broker C,Condo,505804,4,3,3081,101 Main St,WA,101 Main St,County B,City A,District A,Main St,Property 101,"101 Main St, City A, CA",38.05232673480098,-121.86055912904533
+Broker C,Townhouse,857038,1,3,3065,102 Main St,TX,102 Main St,County B,City A,District A,Oak Ave,Property 102,"102 Main St, City A, CA",38.417702050162085,-121.71236883067711
+Broker C,Single Family,335806,4,1,3263,103 Main St,WA,103 Main St,County C,City A,District A,Main St,Property 103,"103 Main St, City A, CA",38.46770119862991,-122.24191816500898
+Broker A,Condo,807593,5,1,3298,104 Main St,WA,104 Main St,County B,City C,District A,Pine Blvd,Property 104,"104 Main St, City A, CA",38.64586759986255,-122.16717686576938
+Broker C,Single Family,144738,4,3,2839,105 Main St,FL,105 Main St,County B,City A,District A,Oak Ave,Property 105,"105 Main St, City A, CA",38.117234082460996,-121.60866953476959
+Broker C,Townhouse,657685,2,4,3906,106 Main St,CA,106 Main St,County A,City C,District A,Oak Ave,Property 106,"106 Main St, City A, CA",38.54467230738559,-121.4722293831566
+Broker A,Townhouse,444333,4,2,1231,107 Main St,FL,107 Main St,County C,City B,District B,Main St,Property 107,"107 Main St, City A, CA",38.33625582418934,-122.28346725263268
+Broker C,Townhouse,438511,3,4,3372,108 Main St,FL,108 Main St,County C,City B,District A,Main St,Property 108,"108 Main St, City A, CA",38.65773649067808,-121.92175044549478
+Broker A,Single Family,302332,4,2,3620,109 Main St,WA,109 Main St,County C,City A,District A,Oak Ave,Property 109,"109 Main St, City A, CA",38.30271210829562,-122.2052237472604
+Broker B,Single Family,482729,2,4,4677,110 Main St,WA,110 Main St,County B,City B,District B,Main St,Property 110,"110 Main St, City A, CA",38.29252982839797,-122.359326831645
+Broker C,Single Family,963051,2,1,3104,111 Main St,TX,111 Main St,County C,City A,District B,Oak Ave,Property 111,"111 Main St, City A, CA",38.35277708144091,-122.09389666187386
+Broker B,Single Family,211453,1,3,2882,112 Main St,TX,112 Main St,County A,City C,District C,Main St,Property 112,"112 Main St, City A, CA",38.52421535514244,-122.27571237481578
+Broker A,Townhouse,119816,5,3,1031,113 Main St,FL,113 Main St,County C,City B,District A,Pine Blvd,Property 113,"113 Main St, City A, CA",38.73959047882846,-121.70946692656575
+Broker C,Townhouse,869299,4,1,4816,114 Main St,NY,114 Main St,County A,City A,District A,Main St,Property 114,"114 Main St, City A, CA",37.84846335421577,-121.88567458632855
+Broker A,Condo,965962,1,2,1134,115 Main St,NY,115 Main St,County C,City B,District A,Pine Blvd,Property 115,"115 Main St, City A, CA",37.82833460239102,-122.27556552900968
+Broker B,Condo,516715,5,2,2269,116 Main St,TX,116 Main St,County C,City B,District A,Main St,Property 116,"116 Main St, City A, CA",38.71245033740734,-122.41015841159448
+Broker A,Single Family,471000,4,2,4304,117 Main St,NY,117 Main St,County A,City A,District C,Main St,Property 117,"117 Main St, City A, CA",38.30477562551821,-121.61124295097578
+Broker C,Townhouse,313567,3,1,2870,118 Main St,TX,118 Main St,County C,City B,District B,Oak Ave,Property 118,"118 Main St, City A, CA",38.38980301456694,-122.24320559383575
+Broker C,Townhouse,614933,4,2,502,119 Main St,WA,119 Main St,County C,City B,District B,Main St,Property 119,"119 Main St, City A, CA",38.257323601594734,-121.81318335777922
+Broker B,Townhouse,695923,2,1,705,120 Main St,FL,120 Main St,County C,City B,District A,Main St,Property 120,"120 Main St, City A, CA",37.868557452607476,-122.08247808692325
+Broker A,Condo,994235,2,4,4635,121 Main St,CA,121 Main St,County B,City B,District A,Pine Blvd,Property 121,"121 Main St, City A, CA",38.54298937841867,-121.83391406168496
+Broker C,Condo,316184,3,4,3121,122 Main St,FL,122 Main St,County A,City C,District A,Main St,Property 122,"122 Main St, City A, CA",38.52212464508859,-122.10374637301767
+Broker B,Townhouse,398090,1,1,3390,123 Main St,TX,123 Main St,County C,City B,District C,Oak Ave,Property 123,"123 Main St, City A, CA",38.08660332149282,-122.33246043930774
+Broker C,Townhouse,417348,5,3,3693,124 Main St,TX,124 Main St,County A,City B,District C,Pine Blvd,Property 124,"124 Main St, City A, CA",38.0811392452284,-122.19644999144224
+Broker C,Townhouse,282958,4,4,3166,125 Main St,FL,125 Main St,County A,City A,District B,Oak Ave,Property 125,"125 Main St, City A, CA",38.61274138090552,-122.23134143352092
+Broker A,Condo,377707,2,2,3806,126 Main St,TX,126 Main St,County A,City C,District A,Oak Ave,Property 126,"126 Main St, City A, CA",37.847257257741326,-121.99138064756035
+Broker C,Townhouse,192324,1,1,1397,127 Main St,NY,127 Main St,County C,City A,District A,Oak Ave,Property 127,"127 Main St, City A, CA",38.65600514835657,-121.76111621657384
+Broker A,Townhouse,323536,3,2,1585,128 Main St,NY,128 Main St,County C,City A,District A,Oak Ave,Property 128,"128 Main St, City A, CA",38.031561689895916,-122.15559392505364
+Broker C,Single Family,857232,2,2,1779,129 Main St,TX,129 Main St,County A,City A,District A,Pine Blvd,Property 129,"129 Main St, City A, CA",38.3678847477555,-122.40733006469938
+Broker B,Single Family,371991,3,3,1170,130 Main St,TX,130 Main St,County B,City C,District C,Main St,Property 130,"130 Main St, City A, CA",38.71089417900178,-121.90046263573524
+Broker C,Condo,126155,4,2,2005,131 Main St,NY,131 Main St,County A,City A,District B,Oak Ave,Property 131,"131 Main St, City A, CA",38.45302250153665,-121.81364051064102
+Broker A,Townhouse,441815,5,3,4075,132 Main St,TX,132 Main St,County B,City A,District B,Pine Blvd,Property 132,"132 Main St, City A, CA",38.18932981246704,-121.45652950599819
+Broker A,Townhouse,741179,2,4,2455,133 Main St,TX,133 Main St,County A,City A,District C,Oak Ave,Property 133,"133 Main St, City A, CA",38.464434208905416,-121.82992919690675
+Broker B,Single Family,969742,2,1,749,134 Main St,FL,134 Main St,County A,City B,District A,Main St,Property 134,"134 Main St, City A, CA",38.11887963631637,-121.94822744062185
+Broker C,Condo,560494,4,2,2392,135 Main St,CA,135 Main St,County A,City A,District B,Pine Blvd,Property 135,"135 Main St, City A, CA",38.05215841634919,-121.8459983741023
+Broker C,Single Family,249381,1,1,3939,136 Main St,NY,136 Main St,County C,City C,District B,Pine Blvd,Property 136,"136 Main St, City A, CA",38.77158327793468,-121.49149937013797
+Broker B,Single Family,231691,5,2,2353,137 Main St,FL,137 Main St,County B,City C,District C,Main St,Property 137,"137 Main St, City A, CA",38.52569023117979,-121.59102185439835
+Broker C,Single Family,576410,2,1,3354,138 Main St,CA,138 Main St,County B,City B,District A,Pine Blvd,Property 138,"138 Main St, City A, CA",38.41961997738182,-122.09642126663618
+Broker C,Single Family,543324,5,2,2003,139 Main St,TX,139 Main St,County A,City C,District B,Main St,Property 139,"139 Main St, City A, CA",38.130189643219325,-122.18214563634285
+Broker A,Townhouse,134707,2,2,3885,140 Main St,TX,140 Main St,County C,City C,District A,Pine Blvd,Property 140,"140 Main St, City A, CA",37.82406082915505,-122.15676638763392
+Broker C,Townhouse,618477,5,2,4071,141 Main St,FL,141 Main St,County C,City B,District B,Pine Blvd,Property 141,"141 Main St, City A, CA",37.80595687603516,-121.91497896028478
+Broker C,Single Family,967969,3,2,4292,142 Main St,TX,142 Main St,County B,City A,District C,Main St,Property 142,"142 Main St, City A, CA",38.3290812554488,-121.67535054877142
+Broker B,Condo,821864,2,2,3926,143 Main St,WA,143 Main St,County C,City B,District A,Main St,Property 143,"143 Main St, City A, CA",38.53693272103905,-121.91618079281703
+Broker B,Condo,802974,5,2,543,144 Main St,FL,144 Main St,County B,City A,District C,Pine Blvd,Property 144,"144 Main St, City A, CA",38.31227919044386,-122.35160360417188
+Broker A,Condo,846788,1,2,4112,145 Main St,CA,145 Main St,County B,City A,District B,Pine Blvd,Property 145,"145 Main St, City A, CA",38.61568507193912,-121.69581929956001
+Broker C,Condo,453299,3,2,3118,146 Main St,FL,146 Main St,County B,City C,District C,Main St,Property 146,"146 Main St, City A, CA",37.80832653309322,-121.61342987132905
+Broker C,Single Family,886713,3,2,3663,147 Main St,NY,147 Main St,County C,City B,District C,Main St,Property 147,"147 Main St, City A, CA",38.14165207642594,-122.12990213488028
+Broker C,Townhouse,258492,1,1,1788,148 Main St,FL,148 Main St,County B,City C,District C,Pine Blvd,Property 148,"148 Main St, City A, CA",38.01197039117418,-121.75527426071665
+Broker A,Condo,574112,5,3,3442,149 Main St,TX,149 Main St,County B,City C,District B,Pine Blvd,Property 149,"149 Main St, City A, CA",38.222172968157125,-121.9928080989456
+Broker A,Single Family,270102,4,2,719,150 Main St,TX,150 Main St,County A,City A,District A,Pine Blvd,Property 150,"150 Main St, City A, CA",37.84727639319412,-121.53028064427255
+Broker B,Condo,494274,1,3,2425,151 Main St,WA,151 Main St,County B,City C,District C,Main St,Property 151,"151 Main St, City A, CA",38.729031641571076,-121.57417444183926
+Broker A,Condo,317285,5,2,3472,152 Main St,WA,152 Main St,County B,City B,District A,Pine Blvd,Property 152,"152 Main St, City A, CA",37.99815540106936,-121.89396800169035
+Broker C,Single Family,438404,1,2,4013,153 Main St,WA,153 Main St,County A,City C,District B,Oak Ave,Property 153,"153 Main St, City A, CA",38.697207775483584,-121.7278944541864
+Broker C,Townhouse,259476,1,1,2948,154 Main St,CA,154 Main St,County A,City C,District A,Main St,Property 154,"154 Main St, City A, CA",38.200793155036685,-121.5360502989779
+Broker A,Townhouse,858842,2,4,3971,155 Main St,WA,155 Main St,County C,City A,District C,Pine Blvd,Property 155,"155 Main St, City A, CA",38.76042413325522,-121.92368298992172
+Broker C,Single Family,260928,5,4,3274,156 Main St,CA,156 Main St,County B,City B,District C,Main St,Property 156,"156 Main St, City A, CA",38.32895838346021,-122.10614925951117
+Broker C,Townhouse,764560,4,1,1490,157 Main St,WA,157 Main St,County C,City C,District C,Oak Ave,Property 157,"157 Main St, City A, CA",38.70573286417581,-121.66573386209042
+Broker A,Single Family,950610,2,3,3446,158 Main St,CA,158 Main St,County C,City A,District C,Main St,Property 158,"158 Main St, City A, CA",37.780248988694225,-122.1993337452153
+Broker A,Single Family,396141,1,4,2312,159 Main St,FL,159 Main St,County A,City C,District C,Pine Blvd,Property 159,"159 Main St, City A, CA",38.5231388061809,-122.03086885199396
+Broker C,Single Family,743561,1,1,1303,160 Main St,FL,160 Main St,County C,City B,District C,Oak Ave,Property 160,"160 Main St, City A, CA",38.67795065310252,-121.5536727628932
+Broker C,Townhouse,796595,1,1,989,161 Main St,TX,161 Main St,County B,City C,District B,Oak Ave,Property 161,"161 Main St, City A, CA",37.914620566978954,-121.69497765973068
+Broker C,Single Family,348500,5,4,4056,162 Main St,CA,162 Main St,County A,City C,District B,Pine Blvd,Property 162,"162 Main St, City A, CA",37.871025851732156,-122.01558899475249
+Broker B,Condo,790417,5,3,1993,163 Main St,NY,163 Main St,County B,City A,District B,Pine Blvd,Property 163,"163 Main St, City A, CA",38.19947260718596,-122.20465549759165
+Broker B,Townhouse,232311,2,1,4145,164 Main St,TX,164 Main St,County B,City C,District A,Pine Blvd,Property 164,"164 Main St, City A, CA",38.708578906132935,-122.06343160916776
+Broker B,Townhouse,859034,4,2,3391,165 Main St,FL,165 Main St,County A,City A,District A,Main St,Property 165,"165 Main St, City A, CA",38.31728656019044,-122.13529585077256
+Broker A,Townhouse,345546,2,3,2205,166 Main St,CA,166 Main St,County B,City B,District B,Main St,Property 166,"166 Main St, City A, CA",38.302356463721736,-122.24331071205614
+Broker B,Townhouse,296733,3,3,4016,167 Main St,WA,167 Main St,County A,City C,District A,Main St,Property 167,"167 Main St, City A, CA",37.91602611829932,-121.67606708643434
+Broker A,Condo,751233,1,4,3840,168 Main St,NY,168 Main St,County B,City B,District A,Pine Blvd,Property 168,"168 Main St, City A, CA",37.77568951109322,-122.16733011314983
+Broker A,Townhouse,669560,1,4,553,169 Main St,FL,169 Main St,County A,City B,District C,Pine Blvd,Property 169,"169 Main St, City A, CA",38.585040090745466,-121.96523252983224
+Broker B,Townhouse,975825,1,2,3075,170 Main St,TX,170 Main St,County C,City C,District C,Main St,Property 170,"170 Main St, City A, CA",37.86247456298624,-122.03354055316389
+Broker B,Single Family,947644,2,1,4091,171 Main St,CA,171 Main St,County B,City A,District A,Oak Ave,Property 171,"171 Main St, City A, CA",38.40874981873532,-121.43732262136436
+Broker B,Townhouse,246470,2,4,1115,172 Main St,NY,172 Main St,County A,City B,District A,Main St,Property 172,"172 Main St, City A, CA",38.68951645451519,-122.02830775585177
+Broker C,Condo,744318,1,4,1454,173 Main St,CA,173 Main St,County B,City B,District B,Oak Ave,Property 173,"173 Main St, City A, CA",37.983551913158436,-122.33941751720324
+Broker B,Condo,418647,2,3,2933,174 Main St,WA,174 Main St,County B,City C,District A,Pine Blvd,Property 174,"174 Main St, City A, CA",38.44017283623691,-122.32957424742791
+Broker C,Condo,106570,5,4,2129,175 Main St,TX,175 Main St,County B,City C,District C,Pine Blvd,Property 175,"175 Main St, City A, CA",37.85359857670751,-121.82864627864693
+Broker A,Condo,430929,5,4,3281,176 Main St,CA,176 Main St,County A,City C,District A,Main St,Property 176,"176 Main St, City A, CA",38.37865514383761,-121.82003644826173
+Broker C,Townhouse,633398,2,4,1149,177 Main St,FL,177 Main St,County C,City C,District B,Main St,Property 177,"177 Main St, City A, CA",37.9388317209532,-122.00064100951734
+Broker B,Townhouse,599115,1,4,2847,178 Main St,TX,178 Main St,County C,City C,District C,Pine Blvd,Property 178,"178 Main St, City A, CA",38.51085356051518,-121.98755630768797
+Broker A,Condo,179141,2,3,4990,179 Main St,FL,179 Main St,County C,City C,District C,Main St,Property 179,"179 Main St, City A, CA",38.07613129479391,-122.36546741715912
+Broker A,Condo,112115,2,2,3778,180 Main St,CA,180 Main St,County A,City A,District C,Pine Blvd,Property 180,"180 Main St, City A, CA",38.23829100880465,-121.90285348961073
+Broker A,Townhouse,139062,2,2,3140,181 Main St,TX,181 Main St,County C,City B,District C,Pine Blvd,Property 181,"181 Main St, City A, CA",38.37433054202762,-121.91466052461965
+Broker C,Condo,909343,3,1,4301,182 Main St,FL,182 Main St,County A,City A,District A,Oak Ave,Property 182,"182 Main St, City A, CA",37.94617341066624,-122.26985068144305
+Broker B,Single Family,728349,5,4,3061,183 Main St,WA,183 Main St,County B,City A,District B,Main St,Property 183,"183 Main St, City A, CA",38.51653781861762,-122.31556061388906
+Broker A,Condo,394700,4,3,3749,184 Main St,WA,184 Main St,County B,City C,District A,Pine Blvd,Property 184,"184 Main St, City A, CA",38.077540340636816,-122.29582750940051
+Broker A,Condo,490479,4,1,870,185 Main St,CA,185 Main St,County C,City B,District A,Main St,Property 185,"185 Main St, City A, CA",38.437271859912755,-122.31837175350874
+Broker A,Single Family,626257,3,1,1357,186 Main St,TX,186 Main St,County A,City A,District C,Oak Ave,Property 186,"186 Main St, City A, CA",37.93318305069938,-121.80969180446324
+Broker C,Single Family,930185,2,2,883,187 Main St,NY,187 Main St,County B,City C,District B,Oak Ave,Property 187,"187 Main St, City A, CA",38.46301765920635,-122.22291734759708
+Broker C,Townhouse,497686,3,3,4377,188 Main St,TX,188 Main St,County A,City C,District C,Main St,Property 188,"188 Main St, City A, CA",37.90308807281046,-122.16796984781253
+Broker B,Townhouse,221863,3,3,3052,189 Main St,WA,189 Main St,County A,City B,District A,Main St,Property 189,"189 Main St, City A, CA",38.200256496269986,-122.24582785584856
+Broker C,Single Family,896657,1,3,4834,190 Main St,FL,190 Main St,County B,City A,District A,Pine Blvd,Property 190,"190 Main St, City A, CA",38.02210607373888,-121.46156469555149
+Broker A,Single Family,601076,5,2,4790,191 Main St,NY,191 Main St,County A,City A,District C,Oak Ave,Property 191,"191 Main St, City A, CA",38.52327524942819,-121.56478253684816
+Broker B,Townhouse,747296,4,2,3225,192 Main St,CA,192 Main St,County B,City A,District A,Oak Ave,Property 192,"192 Main St, City A, CA",38.03693500450688,-122.18890516264848
+Broker A,Condo,600726,2,2,4534,193 Main St,NY,193 Main St,County B,City C,District A,Oak Ave,Property 193,"193 Main St, City A, CA",38.6566173063954,-122.09183370607786
+Broker A,Single Family,778556,4,2,3793,194 Main St,CA,194 Main St,County B,City B,District C,Main St,Property 194,"194 Main St, City A, CA",38.66672021140661,-122.209507157695
+Broker C,Townhouse,730111,4,2,4751,195 Main St,NY,195 Main St,County A,City B,District A,Pine Blvd,Property 195,"195 Main St, City A, CA",37.97134131522279,-121.92752404053917
+Broker B,Condo,900101,5,4,4488,196 Main St,CA,196 Main St,County B,City A,District B,Main St,Property 196,"196 Main St, City A, CA",38.38874594500773,-122.39978946752574
+Broker C,Single Family,734965,4,4,1422,197 Main St,CA,197 Main St,County A,City C,District C,Main St,Property 197,"197 Main St, City A, CA",37.862617641719964,-121.7480319911032
+Broker C,Condo,871246,4,3,3415,198 Main St,NY,198 Main St,County B,City A,District B,Main St,Property 198,"198 Main St, City A, CA",38.16643709960163,-121.89624185018235
+Broker B,Townhouse,148320,3,1,3450,199 Main St,NY,199 Main St,County B,City B,District A,Pine Blvd,Property 199,"199 Main St, City A, CA",38.48822172950128,-121.5207610716989
+Broker A,Single Family,596758,5,3,3546,200 Main St,CA,200 Main St,County C,City C,District A,Main St,Property 200,"200 Main St, City A, CA",38.43432324684992,-122.25500731567158
+Broker A,Condo,246649,1,1,1474,201 Main St,WA,201 Main St,County C,City A,District C,Oak Ave,Property 201,"201 Main St, City A, CA",38.39960066940661,-121.61529075393887
+Broker B,Single Family,225354,2,2,1730,202 Main St,NY,202 Main St,County C,City A,District A,Oak Ave,Property 202,"202 Main St, City A, CA",38.05744086366244,-121.62743898553327
+Broker A,Condo,712297,4,1,2935,203 Main St,TX,203 Main St,County A,City C,District C,Oak Ave,Property 203,"203 Main St, City A, CA",38.15292494943441,-122.29221881078311
+Broker B,Townhouse,881725,2,3,2314,204 Main St,FL,204 Main St,County A,City B,District C,Pine Blvd,Property 204,"204 Main St, City A, CA",37.877846144700285,-122.02084077585587
+Broker B,Townhouse,548625,1,3,3434,205 Main St,CA,205 Main St,County B,City C,District C,Main St,Property 205,"205 Main St, City A, CA",38.4939228204336,-122.24924735885548
+Broker C,Single Family,128625,2,1,1863,206 Main St,CA,206 Main St,County B,City A,District C,Pine Blvd,Property 206,"206 Main St, City A, CA",38.278788796791275,-122.16467949954244
+Broker B,Condo,836400,1,4,4440,207 Main St,FL,207 Main St,County B,City A,District C,Main St,Property 207,"207 Main St, City A, CA",38.483665632345655,-122.15615382516945
+Broker C,Single Family,386233,3,2,703,208 Main St,WA,208 Main St,County B,City A,District B,Oak Ave,Property 208,"208 Main St, City A, CA",38.023843524796874,-121.86316360597422
+Broker A,Single Family,136487,4,2,660,209 Main St,FL,209 Main St,County A,City A,District C,Main St,Property 209,"209 Main St, City A, CA",38.09933822863507,-122.00798906823952
+Broker A,Condo,559054,1,3,4987,210 Main St,NY,210 Main St,County B,City B,District B,Main St,Property 210,"210 Main St, City A, CA",38.109115337260114,-121.47166719599369
+Broker A,Condo,328071,2,4,1268,211 Main St,FL,211 Main St,County B,City B,District A,Main St,Property 211,"211 Main St, City A, CA",37.80064240974722,-122.29302985805299
+Broker A,Condo,996880,4,1,4248,212 Main St,CA,212 Main St,County C,City A,District C,Pine Blvd,Property 212,"212 Main St, City A, CA",38.115947872830624,-121.4457078651498
+Broker C,Townhouse,588011,3,2,3081,213 Main St,FL,213 Main St,County B,City B,District A,Main St,Property 213,"213 Main St, City A, CA",38.578204573518036,-122.18876135978573
+Broker A,Single Family,412282,4,4,1593,214 Main St,TX,214 Main St,County B,City B,District C,Main St,Property 214,"214 Main St, City A, CA",38.67219849574974,-121.64652606361814
+Broker B,Single Family,273895,1,2,1107,215 Main St,NY,215 Main St,County B,City B,District B,Main St,Property 215,"215 Main St, City A, CA",38.29311831563593,-122.08043007382717
+Broker B,Townhouse,530424,3,4,2040,216 Main St,FL,216 Main St,County A,City A,District B,Pine Blvd,Property 216,"216 Main St, City A, CA",38.23040169521922,-122.27631860458268
+Broker B,Condo,416205,2,4,3375,217 Main St,CA,217 Main St,County C,City C,District B,Pine Blvd,Property 217,"217 Main St, City A, CA",37.80572461869937,-121.56151081475376
+Broker C,Townhouse,201376,3,3,3691,218 Main St,NY,218 Main St,County B,City C,District A,Pine Blvd,Property 218,"218 Main St, City A, CA",38.65410433758539,-122.11053910076353
+Broker A,Townhouse,525106,3,2,2337,219 Main St,CA,219 Main St,County B,City C,District C,Main St,Property 219,"219 Main St, City A, CA",37.787910213425874,-121.76054459577315
+Broker A,Townhouse,965566,5,1,1189,220 Main St,WA,220 Main St,County C,City A,District A,Oak Ave,Property 220,"220 Main St, City A, CA",38.719650080210215,-121.85295631491337
+Broker A,Single Family,933487,3,3,4259,221 Main St,TX,221 Main St,County B,City B,District B,Oak Ave,Property 221,"221 Main St, City A, CA",38.26411624868809,-121.94764369060913
+Broker C,Townhouse,867629,3,3,3449,222 Main St,WA,222 Main St,County A,City B,District A,Oak Ave,Property 222,"222 Main St, City A, CA",38.11683449357473,-121.92358052735146
+Broker B,Single Family,381652,4,1,2603,223 Main St,TX,223 Main St,County B,City A,District B,Main St,Property 223,"223 Main St, City A, CA",38.69911843484266,-121.68716208590772
+Broker B,Single Family,572132,2,3,865,224 Main St,FL,224 Main St,County A,City A,District B,Oak Ave,Property 224,"224 Main St, City A, CA",37.7992909931101,-122.33162708587656
+Broker A,Single Family,258056,4,4,4075,225 Main St,NY,225 Main St,County A,City C,District B,Oak Ave,Property 225,"225 Main St, City A, CA",38.35632489486909,-121.75121933804209
+Broker B,Condo,734457,4,4,4699,226 Main St,FL,226 Main St,County B,City C,District C,Oak Ave,Property 226,"226 Main St, City A, CA",38.32383252449934,-121.52358789860142
+Broker B,Single Family,894557,1,2,4672,227 Main St,TX,227 Main St,County C,City A,District C,Main St,Property 227,"227 Main St, City A, CA",37.994220401211386,-122.36161180298014
+Broker C,Single Family,660347,4,2,4825,228 Main St,TX,228 Main St,County A,City C,District B,Oak Ave,Property 228,"228 Main St, City A, CA",38.203787431350214,-122.27874666076633
+Broker C,Condo,562785,5,1,2878,229 Main St,TX,229 Main St,County C,City B,District A,Oak Ave,Property 229,"229 Main St, City A, CA",38.42716400594377,-121.70276806329797
+Broker C,Single Family,727697,5,2,1705,230 Main St,CA,230 Main St,County B,City A,District A,Main St,Property 230,"230 Main St, City A, CA",38.50203119688193,-121.98211835175537
+Broker C,Townhouse,599653,1,4,4339,231 Main St,NY,231 Main St,County A,City A,District C,Pine Blvd,Property 231,"231 Main St, City A, CA",37.775616858706584,-122.0158513791863
+Broker A,Townhouse,629992,2,1,3235,232 Main St,FL,232 Main St,County B,City B,District B,Oak Ave,Property 232,"232 Main St, City A, CA",38.711753430091015,-122.28243336545576
+Broker C,Single Family,828744,2,1,3847,233 Main St,FL,233 Main St,County C,City B,District A,Pine Blvd,Property 233,"233 Main St, City A, CA",37.93942537239281,-121.91262995928221
+Broker B,Condo,842488,4,2,2175,234 Main St,WA,234 Main St,County B,City B,District B,Oak Ave,Property 234,"234 Main St, City A, CA",38.00848043422236,-122.29285468880362
+Broker A,Townhouse,735567,4,4,798,235 Main St,TX,235 Main St,County B,City C,District A,Main St,Property 235,"235 Main St, City A, CA",38.03837344569385,-121.94277954368945
+Broker B,Condo,782568,4,1,1456,236 Main St,TX,236 Main St,County A,City A,District C,Pine Blvd,Property 236,"236 Main St, City A, CA",37.81272013655204,-121.65578470103834
+Broker B,Condo,742804,2,4,1614,237 Main St,TX,237 Main St,County B,City C,District B,Pine Blvd,Property 237,"237 Main St, City A, CA",37.89795212359033,-122.16113564211284
+Broker B,Townhouse,622828,3,4,3005,238 Main St,FL,238 Main St,County B,City B,District B,Pine Blvd,Property 238,"238 Main St, City A, CA",38.76124992294417,-121.93861383182026
+Broker C,Condo,578366,5,4,1974,239 Main St,WA,239 Main St,County B,City C,District A,Pine Blvd,Property 239,"239 Main St, City A, CA",38.090116737377286,-121.42738403060316
+Broker C,Townhouse,821384,3,2,4960,240 Main St,CA,240 Main St,County A,City B,District A,Oak Ave,Property 240,"240 Main St, City A, CA",37.890201090339055,-121.73274957664596
+Broker A,Condo,519139,3,3,4946,241 Main St,NY,241 Main St,County C,City C,District A,Oak Ave,Property 241,"241 Main St, City A, CA",37.88189126117462,-121.5780432286948
+Broker A,Townhouse,619777,2,3,4226,242 Main St,CA,242 Main St,County C,City C,District B,Pine Blvd,Property 242,"242 Main St, City A, CA",38.49435996766997,-122.00455239343945
+Broker C,Single Family,476188,3,1,3971,243 Main St,FL,243 Main St,County B,City B,District C,Oak Ave,Property 243,"243 Main St, City A, CA",38.62946866403264,-121.65153907687414
+Broker B,Townhouse,332549,1,4,3328,244 Main St,TX,244 Main St,County A,City C,District C,Pine Blvd,Property 244,"244 Main St, City A, CA",38.03185229950847,-122.37889082705867
+Broker A,Townhouse,653453,4,2,3350,245 Main St,NY,245 Main St,County B,City A,District A,Pine Blvd,Property 245,"245 Main St, City A, CA",37.79580951233524,-122.29648881745776
+Broker C,Townhouse,691491,1,4,3006,246 Main St,FL,246 Main St,County C,City C,District C,Main St,Property 246,"246 Main St, City A, CA",37.99799001844536,-122.21632940707994
+Broker C,Townhouse,584965,5,4,4270,247 Main St,FL,247 Main St,County A,City C,District A,Pine Blvd,Property 247,"247 Main St, City A, CA",37.83141569079676,-122.01744807538478
+Broker C,Condo,890546,4,2,3464,248 Main St,FL,248 Main St,County C,City A,District C,Oak Ave,Property 248,"248 Main St, City A, CA",37.87829493663004,-121.57365512167424
+Broker B,Single Family,136321,3,3,1449,249 Main St,NY,249 Main St,County C,City B,District B,Pine Blvd,Property 249,"249 Main St, City A, CA",38.206408119847644,-122.07313394921206
+Broker C,Townhouse,435441,5,4,3350,250 Main St,NY,250 Main St,County A,City A,District A,Main St,Property 250,"250 Main St, City A, CA",38.004818370861635,-121.76477880648453
+Broker C,Condo,983084,4,4,665,251 Main St,WA,251 Main St,County A,City C,District C,Oak Ave,Property 251,"251 Main St, City A, CA",38.290845878525424,-121.71008570519652
+Broker C,Single Family,985736,3,3,3986,252 Main St,WA,252 Main St,County B,City B,District B,Main St,Property 252,"252 Main St, City A, CA",38.02839375325719,-121.83321764591166
+Broker C,Single Family,345014,1,2,3009,253 Main St,CA,253 Main St,County B,City C,District C,Main St,Property 253,"253 Main St, City A, CA",38.71543730110295,-122.06215803182985
+Broker A,Single Family,256498,4,1,1419,254 Main St,NY,254 Main St,County C,City C,District B,Pine Blvd,Property 254,"254 Main St, City A, CA",38.680843967926265,-121.84234665828644
+Broker A,Single Family,117772,3,3,613,255 Main St,NY,255 Main St,County A,City A,District B,Main St,Property 255,"255 Main St, City A, CA",38.341706105010466,-122.07713440721025
+Broker C,Townhouse,990186,1,1,4004,256 Main St,NY,256 Main St,County A,City A,District C,Main St,Property 256,"256 Main St, City A, CA",38.12932399198739,-122.33552626144798
+Broker B,Townhouse,890144,5,1,1491,257 Main St,WA,257 Main St,County B,City B,District C,Oak Ave,Property 257,"257 Main St, City A, CA",38.15604688203474,-121.42659602181398
+Broker A,Condo,494583,5,3,4339,258 Main St,FL,258 Main St,County C,City B,District B,Main St,Property 258,"258 Main St, City A, CA",38.1867522831445,-122.29221754636748
+Broker C,Condo,338389,5,4,1758,259 Main St,TX,259 Main St,County C,City B,District B,Pine Blvd,Property 259,"259 Main St, City A, CA",38.502479322134946,-122.34705161616394
+Broker A,Condo,739430,5,1,3926,260 Main St,WA,260 Main St,County B,City C,District B,Pine Blvd,Property 260,"260 Main St, City A, CA",38.22653899551884,-121.54086925079284
+Broker A,Single Family,716024,2,1,1014,261 Main St,NY,261 Main St,County A,City A,District A,Pine Blvd,Property 261,"261 Main St, City A, CA",38.6316299465059,-122.1175653391071
+Broker B,Single Family,151924,4,2,3696,262 Main St,WA,262 Main St,County B,City A,District B,Main St,Property 262,"262 Main St, City A, CA",38.71899478593037,-121.76910302592648
+Broker C,Townhouse,628014,4,4,4934,263 Main St,CA,263 Main St,County B,City A,District A,Oak Ave,Property 263,"263 Main St, City A, CA",38.11084615337894,-122.09039427033777
+Broker C,Single Family,451296,2,1,3084,264 Main St,NY,264 Main St,County B,City B,District B,Pine Blvd,Property 264,"264 Main St, City A, CA",38.33559448137568,-122.02794572920553
+Broker B,Single Family,127723,3,2,567,265 Main St,CA,265 Main St,County B,City A,District A,Main St,Property 265,"265 Main St, City A, CA",37.86995653683257,-122.1572870279832
+Broker B,Single Family,858470,3,4,2096,266 Main St,NY,266 Main St,County A,City A,District B,Pine Blvd,Property 266,"266 Main St, City A, CA",37.975369047766364,-122.07635599420699
+Broker C,Condo,986926,5,3,4978,267 Main St,WA,267 Main St,County B,City A,District B,Pine Blvd,Property 267,"267 Main St, City A, CA",38.18836576671016,-122.00869959941345
+Broker C,Condo,764468,1,3,518,268 Main St,FL,268 Main St,County A,City B,District B,Oak Ave,Property 268,"268 Main St, City A, CA",37.981102715901784,-121.69898393090766
+Broker B,Townhouse,308786,3,2,3230,269 Main St,TX,269 Main St,County B,City A,District C,Pine Blvd,Property 269,"269 Main St, City A, CA",38.65146049078872,-121.9078638057652
+Broker A,Single Family,659931,1,3,4021,270 Main St,CA,270 Main St,County C,City B,District C,Oak Ave,Property 270,"270 Main St, City A, CA",37.9331862560591,-121.47583478284302
+Broker A,Single Family,786684,4,1,1072,271 Main St,WA,271 Main St,County A,City A,District B,Main St,Property 271,"271 Main St, City A, CA",38.23056082155309,-122.37751960616121
+Broker B,Townhouse,990328,1,4,2758,272 Main St,FL,272 Main St,County C,City A,District A,Pine Blvd,Property 272,"272 Main St, City A, CA",38.38059924045988,-121.91633167736796
+Broker A,Single Family,314432,4,1,3402,273 Main St,WA,273 Main St,County B,City A,District A,Main St,Property 273,"273 Main St, City A, CA",38.46676390816085,-121.83517521116828
+Broker B,Single Family,239999,2,1,1150,274 Main St,CA,274 Main St,County B,City B,District B,Main St,Property 274,"274 Main St, City A, CA",38.15796936972651,-121.49920301392572
+Broker A,Condo,980112,2,3,3087,275 Main St,TX,275 Main St,County B,City B,District C,Main St,Property 275,"275 Main St, City A, CA",38.64399906872473,-122.37024147637857
+Broker A,Townhouse,458690,5,1,3762,276 Main St,WA,276 Main St,County A,City A,District A,Pine Blvd,Property 276,"276 Main St, City A, CA",38.343219151077925,-121.84590041506478
+Broker C,Townhouse,179973,3,3,1838,277 Main St,NY,277 Main St,County C,City C,District C,Oak Ave,Property 277,"277 Main St, City A, CA",38.21440778044755,-121.56577007147204
+Broker C,Townhouse,949881,5,4,4134,278 Main St,FL,278 Main St,County A,City B,District A,Pine Blvd,Property 278,"278 Main St, City A, CA",37.842140634052036,-122.17747227188076
+Broker A,Townhouse,734122,4,4,3327,279 Main St,WA,279 Main St,County A,City B,District B,Main St,Property 279,"279 Main St, City A, CA",38.23958946844517,-121.54310765147606
+Broker A,Condo,860674,5,1,2717,280 Main St,FL,280 Main St,County B,City A,District C,Oak Ave,Property 280,"280 Main St, City A, CA",38.59563584081573,-122.4003565907257
+Broker C,Condo,553449,1,2,4039,281 Main St,NY,281 Main St,County C,City C,District A,Main St,Property 281,"281 Main St, City A, CA",38.38944101822132,-121.68694537086627
+Broker C,Single Family,387681,4,3,1537,282 Main St,TX,282 Main St,County B,City A,District B,Oak Ave,Property 282,"282 Main St, City A, CA",38.60706245372912,-121.48628677883134
+Broker C,Single Family,594509,2,3,4883,283 Main St,TX,283 Main St,County A,City B,District B,Pine Blvd,Property 283,"283 Main St, City A, CA",38.26891167059931,-121.76220233835993
+Broker B,Single Family,964008,3,1,4478,284 Main St,NY,284 Main St,County B,City B,District B,Oak Ave,Property 284,"284 Main St, City A, CA",37.893361705094485,-121.98037075601955
+Broker A,Single Family,731810,4,3,3461,285 Main St,FL,285 Main St,County C,City A,District C,Pine Blvd,Property 285,"285 Main St, City A, CA",37.788539845835885,-122.37451898352728
+Broker C,Condo,646900,4,3,3726,286 Main St,WA,286 Main St,County B,City A,District C,Main St,Property 286,"286 Main St, City A, CA",38.0781195467186,-121.49928618667737
+Broker A,Townhouse,325049,1,2,1598,287 Main St,NY,287 Main St,County C,City C,District B,Oak Ave,Property 287,"287 Main St, City A, CA",38.47289047149779,-121.94910377730842
+Broker B,Condo,368615,3,2,2824,288 Main St,CA,288 Main St,County C,City C,District C,Main St,Property 288,"288 Main St, City A, CA",38.5651599039417,-122.39040325566405
+Broker B,Single Family,266703,2,1,1439,289 Main St,FL,289 Main St,County B,City B,District A,Oak Ave,Property 289,"289 Main St, City A, CA",38.07065283462033,-121.72957892867123
+Broker C,Condo,864357,4,2,4216,290 Main St,TX,290 Main St,County A,City C,District B,Pine Blvd,Property 290,"290 Main St, City A, CA",38.27055392088325,-121.93756274642374
+Broker B,Townhouse,847419,4,1,3914,291 Main St,NY,291 Main St,County B,City C,District B,Oak Ave,Property 291,"291 Main St, City A, CA",38.196018904434084,-122.29505468255759
+Broker A,Townhouse,131348,1,4,1948,292 Main St,TX,292 Main St,County A,City B,District C,Oak Ave,Property 292,"292 Main St, City A, CA",38.18542278435143,-122.20512819068973
+Broker C,Condo,295804,5,1,1070,293 Main St,FL,293 Main St,County A,City B,District B,Pine Blvd,Property 293,"293 Main St, City A, CA",38.00624871320015,-122.35490931954415
+Broker A,Condo,887609,2,4,3404,294 Main St,TX,294 Main St,County B,City B,District A,Pine Blvd,Property 294,"294 Main St, City A, CA",37.91127110502946,-121.84510646029142
+Broker A,Condo,235832,3,1,3005,295 Main St,NY,295 Main St,County A,City B,District C,Pine Blvd,Property 295,"295 Main St, City A, CA",37.97158855823122,-121.79737052074799
+Broker B,Single Family,394923,4,3,1417,296 Main St,FL,296 Main St,County A,City A,District C,Oak Ave,Property 296,"296 Main St, City A, CA",37.83023238716335,-121.91365770164455
+Broker B,Condo,383780,4,2,2374,297 Main St,CA,297 Main St,County B,City B,District B,Main St,Property 297,"297 Main St, City A, CA",37.97303074182358,-121.60229786699738
+Broker B,Condo,706177,2,4,2178,298 Main St,NY,298 Main St,County B,City B,District B,Oak Ave,Property 298,"298 Main St, City A, CA",37.78410089762538,-121.55839117869198
+Broker B,Condo,153551,5,1,1115,299 Main St,WA,299 Main St,County B,City B,District B,Oak Ave,Property 299,"299 Main St, City A, CA",38.40215840063598,-121.80377560331686
+Broker B,Townhouse,504772,4,2,2249,300 Main St,NY,300 Main St,County A,City C,District C,Main St,Property 300,"300 Main St, City A, CA",38.091275407387684,-122.40664352029256
+Broker C,Townhouse,766923,2,1,4325,301 Main St,FL,301 Main St,County C,City B,District B,Pine Blvd,Property 301,"301 Main St, City A, CA",38.748044711426914,-121.72417034425226
+Broker A,Single Family,671107,1,2,4688,302 Main St,NY,302 Main St,County A,City A,District A,Oak Ave,Property 302,"302 Main St, City A, CA",37.9686170507763,-122.00140078307965
+Broker A,Single Family,435914,5,2,2977,303 Main St,CA,303 Main St,County C,City A,District B,Main St,Property 303,"303 Main St, City A, CA",38.120728570309595,-121.85384251677361
+Broker A,Townhouse,520182,3,1,4005,304 Main St,CA,304 Main St,County B,City B,District B,Pine Blvd,Property 304,"304 Main St, City A, CA",38.13274115864154,-121.77031939798111
+Broker A,Townhouse,312781,4,4,3975,305 Main St,WA,305 Main St,County C,City A,District C,Pine Blvd,Property 305,"305 Main St, City A, CA",37.783351496062465,-122.06916338567292
+Broker B,Townhouse,553105,2,4,1635,306 Main St,TX,306 Main St,County B,City C,District B,Oak Ave,Property 306,"306 Main St, City A, CA",38.614107953039465,-121.5023014948282
+Broker A,Condo,782347,1,3,4500,307 Main St,FL,307 Main St,County B,City B,District C,Pine Blvd,Property 307,"307 Main St, City A, CA",37.80689446014433,-122.28542513325021
+Broker C,Condo,965146,3,2,874,308 Main St,FL,308 Main St,County C,City A,District B,Pine Blvd,Property 308,"308 Main St, City A, CA",38.715079834729245,-121.74788819271896
+Broker C,Townhouse,813708,2,3,706,309 Main St,TX,309 Main St,County B,City A,District A,Main St,Property 309,"309 Main St, City A, CA",38.66697435109362,-122.41504042004341
+Broker A,Condo,648884,2,3,1819,310 Main St,CA,310 Main St,County C,City B,District A,Main St,Property 310,"310 Main St, City A, CA",38.310421916085964,-121.49474889459482
+Broker A,Condo,950538,3,1,1641,311 Main St,CA,311 Main St,County B,City A,District C,Pine Blvd,Property 311,"311 Main St, City A, CA",38.318495574911296,-122.3068958667619
+Broker C,Single Family,159182,1,1,3190,312 Main St,NY,312 Main St,County A,City B,District C,Main St,Property 312,"312 Main St, City A, CA",38.42867792295616,-122.32451576985243
+Broker C,Townhouse,449307,1,1,3755,313 Main St,WA,313 Main St,County A,City A,District B,Pine Blvd,Property 313,"313 Main St, City A, CA",38.16195001193489,-122.08639236694775
+Broker B,Townhouse,401454,5,2,589,314 Main St,WA,314 Main St,County B,City C,District B,Oak Ave,Property 314,"314 Main St, City A, CA",38.422122283397854,-122.04583371396092
+Broker C,Condo,418232,4,1,4608,315 Main St,WA,315 Main St,County B,City A,District A,Main St,Property 315,"315 Main St, City A, CA",37.81966838868849,-122.20509992767711
+Broker B,Townhouse,753091,3,1,3520,316 Main St,NY,316 Main St,County C,City A,District B,Pine Blvd,Property 316,"316 Main St, City A, CA",37.82894762734973,-121.83427833907287
+Broker B,Single Family,239978,3,2,2357,317 Main St,WA,317 Main St,County A,City B,District A,Pine Blvd,Property 317,"317 Main St, City A, CA",38.232130419619544,-121.97648590195803
+Broker B,Single Family,923346,3,2,1304,318 Main St,TX,318 Main St,County C,City A,District C,Main St,Property 318,"318 Main St, City A, CA",38.324522301106036,-122.38522441095891
+Broker B,Single Family,996782,1,4,1444,319 Main St,NY,319 Main St,County B,City B,District B,Main St,Property 319,"319 Main St, City A, CA",38.66271764033582,-122.0997479377447
+Broker B,Townhouse,669667,4,1,3289,320 Main St,TX,320 Main St,County B,City C,District C,Oak Ave,Property 320,"320 Main St, City A, CA",37.8795606339079,-121.60896708642683
+Broker A,Townhouse,571828,5,1,4375,321 Main St,NY,321 Main St,County C,City B,District B,Pine Blvd,Property 321,"321 Main St, City A, CA",38.597547927193894,-121.72969846513813
+Broker C,Townhouse,870188,2,1,2110,322 Main St,WA,322 Main St,County B,City B,District A,Oak Ave,Property 322,"322 Main St, City A, CA",37.98494733729207,-121.69452914642011
+Broker B,Townhouse,358517,2,4,3423,323 Main St,TX,323 Main St,County A,City A,District C,Oak Ave,Property 323,"323 Main St, City A, CA",38.168983648510036,-121.72128307591647
+Broker C,Townhouse,540097,3,1,4382,324 Main St,TX,324 Main St,County C,City C,District C,Oak Ave,Property 324,"324 Main St, City A, CA",38.09150243482742,-122.10842697861696
+Broker C,Single Family,408557,4,4,3721,325 Main St,TX,325 Main St,County A,City B,District B,Main St,Property 325,"325 Main St, City A, CA",38.1750552728654,-122.31973607792322
+Broker B,Condo,237084,1,3,4891,326 Main St,NY,326 Main St,County A,City A,District C,Oak Ave,Property 326,"326 Main St, City A, CA",37.92539549807259,-122.1469328159669
+Broker A,Single Family,805475,4,4,2887,327 Main St,FL,327 Main St,County A,City A,District A,Main St,Property 327,"327 Main St, City A, CA",38.27847007440356,-121.58761469981484
+Broker B,Townhouse,893583,4,3,1441,328 Main St,WA,328 Main St,County C,City B,District C,Main St,Property 328,"328 Main St, City A, CA",38.57654258983137,-121.43892920221693
+Broker A,Single Family,682004,1,1,3066,329 Main St,TX,329 Main St,County B,City A,District C,Oak Ave,Property 329,"329 Main St, City A, CA",38.2164340103789,-121.92555298525843
+Broker C,Townhouse,980179,3,3,1475,330 Main St,FL,330 Main St,County A,City B,District B,Oak Ave,Property 330,"330 Main St, City A, CA",38.265513575898204,-122.40969964507696
+Broker A,Townhouse,848013,4,4,1454,331 Main St,WA,331 Main St,County A,City B,District C,Pine Blvd,Property 331,"331 Main St, City A, CA",38.62366758528132,-122.27935518786576
+Broker A,Single Family,791738,2,2,1762,332 Main St,WA,332 Main St,County A,City B,District B,Oak Ave,Property 332,"332 Main St, City A, CA",38.480958114638035,-122.09731942468373
+Broker A,Townhouse,798012,1,3,1443,333 Main St,TX,333 Main St,County B,City C,District B,Pine Blvd,Property 333,"333 Main St, City A, CA",38.265354408519784,-121.84081465140704
+Broker C,Condo,303502,5,3,2702,334 Main St,TX,334 Main St,County B,City B,District C,Oak Ave,Property 334,"334 Main St, City A, CA",38.03259564818918,-122.34430635419469
+Broker C,Townhouse,244539,3,1,3827,335 Main St,NY,335 Main St,County C,City A,District A,Oak Ave,Property 335,"335 Main St, City A, CA",38.65982674684497,-121.47604270129011
+Broker A,Condo,524226,1,4,4774,336 Main St,FL,336 Main St,County B,City C,District B,Oak Ave,Property 336,"336 Main St, City A, CA",38.35192040169056,-122.0543163267156
+Broker A,Condo,621863,5,3,2759,337 Main St,FL,337 Main St,County C,City A,District C,Oak Ave,Property 337,"337 Main St, City A, CA",37.99604761011069,-121.50681578207518
+Broker B,Townhouse,221999,5,3,2328,338 Main St,TX,338 Main St,County C,City C,District B,Pine Blvd,Property 338,"338 Main St, City A, CA",38.044019752638015,-121.63887819724297
+Broker A,Single Family,214793,4,3,1757,339 Main St,WA,339 Main St,County C,City C,District A,Pine Blvd,Property 339,"339 Main St, City A, CA",38.57803308893625,-121.66396272748442
+Broker B,Condo,557373,4,3,964,340 Main St,TX,340 Main St,County C,City C,District A,Oak Ave,Property 340,"340 Main St, City A, CA",37.81904556208746,-121.81268042021776
+Broker A,Single Family,470321,4,2,3794,341 Main St,WA,341 Main St,County C,City C,District B,Oak Ave,Property 341,"341 Main St, City A, CA",38.76699218702882,-121.79261618294815
+Broker B,Condo,112289,1,4,1730,342 Main St,WA,342 Main St,County A,City A,District A,Pine Blvd,Property 342,"342 Main St, City A, CA",37.905251679714794,-121.78139676478375
+Broker C,Townhouse,800336,1,1,3154,343 Main St,TX,343 Main St,County B,City B,District C,Main St,Property 343,"343 Main St, City A, CA",38.57096852539694,-121.79067861297442
+Broker A,Townhouse,798956,3,1,1384,344 Main St,CA,344 Main St,County A,City A,District C,Main St,Property 344,"344 Main St, City A, CA",38.16967531677169,-121.86567176860163
+Broker A,Condo,855801,4,2,4305,345 Main St,FL,345 Main St,County C,City B,District B,Main St,Property 345,"345 Main St, City A, CA",38.26711618328747,-121.4329859815171
+Broker A,Townhouse,357368,5,4,4356,346 Main St,WA,346 Main St,County B,City A,District A,Pine Blvd,Property 346,"346 Main St, City A, CA",38.65555057746458,-121.6871094325743
+Broker A,Condo,186365,2,3,3635,347 Main St,WA,347 Main St,County A,City C,District C,Pine Blvd,Property 347,"347 Main St, City A, CA",38.18781118958922,-121.64245361160748
+Broker B,Townhouse,854950,3,2,1424,348 Main St,CA,348 Main St,County A,City C,District C,Main St,Property 348,"348 Main St, City A, CA",38.312393753673234,-121.54693718491632
+Broker A,Single Family,275211,1,4,2046,349 Main St,NY,349 Main St,County C,City B,District C,Main St,Property 349,"349 Main St, City A, CA",37.82419966240917,-122.20376023727415
+Broker C,Townhouse,279785,3,3,1594,350 Main St,CA,350 Main St,County A,City B,District B,Oak Ave,Property 350,"350 Main St, City A, CA",37.777247473867455,-122.33559584090493
+Broker C,Single Family,172588,3,2,2911,351 Main St,CA,351 Main St,County A,City A,District B,Pine Blvd,Property 351,"351 Main St, City A, CA",38.01969987300173,-121.9365055634014
+Broker A,Townhouse,163646,3,4,3117,352 Main St,WA,352 Main St,County A,City B,District C,Pine Blvd,Property 352,"352 Main St, City A, CA",38.45548309291877,-121.90531930438073
+Broker C,Single Family,365798,3,1,1262,353 Main St,FL,353 Main St,County A,City A,District C,Main St,Property 353,"353 Main St, City A, CA",37.89616489335914,-121.59021822005008
+Broker A,Townhouse,582238,2,1,2823,354 Main St,CA,354 Main St,County A,City B,District A,Main St,Property 354,"354 Main St, City A, CA",37.888661958804555,-121.97561642071766
+Broker A,Single Family,905175,4,4,4645,355 Main St,NY,355 Main St,County C,City B,District A,Pine Blvd,Property 355,"355 Main St, City A, CA",38.1858606080359,-121.84854697445569
+Broker C,Condo,934800,5,1,3275,356 Main St,TX,356 Main St,County C,City B,District A,Oak Ave,Property 356,"356 Main St, City A, CA",38.422737038608226,-121.89232906148654
+Broker A,Condo,845385,3,4,3655,357 Main St,CA,357 Main St,County A,City C,District B,Main St,Property 357,"357 Main St, City A, CA",38.48697199224793,-122.38119721624261
+Broker C,Single Family,829532,3,3,4470,358 Main St,CA,358 Main St,County C,City C,District C,Pine Blvd,Property 358,"358 Main St, City A, CA",37.953350674098374,-121.80418510340309
+Broker B,Townhouse,219735,3,4,2540,359 Main St,NY,359 Main St,County C,City A,District B,Pine Blvd,Property 359,"359 Main St, City A, CA",37.854488147372045,-121.59135671422574
+Broker A,Single Family,255683,4,3,1083,360 Main St,FL,360 Main St,County B,City B,District C,Oak Ave,Property 360,"360 Main St, City A, CA",38.715297033945546,-122.2618994519242
+Broker B,Townhouse,732259,1,2,4831,361 Main St,CA,361 Main St,County A,City A,District A,Oak Ave,Property 361,"361 Main St, City A, CA",38.0355663825621,-121.8250682660734
+Broker C,Condo,636437,1,4,2603,362 Main St,CA,362 Main St,County C,City B,District A,Main St,Property 362,"362 Main St, City A, CA",38.62824649760873,-121.82578945555358
+Broker B,Townhouse,462246,2,2,2442,363 Main St,FL,363 Main St,County C,City C,District A,Main St,Property 363,"363 Main St, City A, CA",38.63839145046282,-122.25521503594364
+Broker B,Condo,421333,1,1,4955,364 Main St,NY,364 Main St,County A,City C,District A,Main St,Property 364,"364 Main St, City A, CA",38.54742259176255,-122.29593642626926
+Broker C,Townhouse,863264,3,3,609,365 Main St,CA,365 Main St,County B,City B,District C,Pine Blvd,Property 365,"365 Main St, City A, CA",37.94373360665257,-121.43934805702351
+Broker B,Townhouse,957463,3,4,691,366 Main St,FL,366 Main St,County A,City B,District A,Main St,Property 366,"366 Main St, City A, CA",38.596701459254206,-122.02568083034696
+Broker B,Townhouse,666956,3,2,1403,367 Main St,CA,367 Main St,County B,City C,District C,Pine Blvd,Property 367,"367 Main St, City A, CA",38.54415055924159,-122.19197827127647
+Broker C,Single Family,506889,2,3,1361,368 Main St,TX,368 Main St,County A,City C,District C,Main St,Property 368,"368 Main St, City A, CA",38.37162299010622,-122.24807545554562
+Broker B,Single Family,712492,3,3,1583,369 Main St,WA,369 Main St,County A,City A,District B,Oak Ave,Property 369,"369 Main St, City A, CA",38.11210203516895,-121.75179828641676
+Broker C,Condo,311830,1,1,1149,370 Main St,TX,370 Main St,County A,City C,District A,Oak Ave,Property 370,"370 Main St, City A, CA",38.037408604266545,-121.80995470267271
+Broker B,Condo,296501,4,1,4634,371 Main St,CA,371 Main St,County A,City B,District A,Pine Blvd,Property 371,"371 Main St, City A, CA",37.896789212080364,-121.77584787701258
+Broker C,Single Family,516885,4,3,4111,372 Main St,NY,372 Main St,County B,City A,District B,Oak Ave,Property 372,"372 Main St, City A, CA",38.28465706690088,-122.33139397248854
+Broker C,Condo,265140,5,3,1136,373 Main St,WA,373 Main St,County B,City B,District C,Pine Blvd,Property 373,"373 Main St, City A, CA",38.36016087550985,-121.52586541650156
+Broker B,Single Family,844149,1,4,1536,374 Main St,TX,374 Main St,County C,City A,District A,Pine Blvd,Property 374,"374 Main St, City A, CA",38.13423899051579,-122.03013360319095
+Broker B,Townhouse,240507,3,3,4631,375 Main St,FL,375 Main St,County A,City B,District C,Oak Ave,Property 375,"375 Main St, City A, CA",38.25025906768087,-122.10603059356964
+Broker B,Condo,325160,4,4,2648,376 Main St,NY,376 Main St,County B,City C,District B,Pine Blvd,Property 376,"376 Main St, City A, CA",38.13841445736927,-121.95703855275225
+Broker A,Condo,283321,1,3,4365,377 Main St,TX,377 Main St,County B,City B,District C,Oak Ave,Property 377,"377 Main St, City A, CA",38.415906057320704,-122.02933393425236
+Broker A,Single Family,661672,4,1,3657,378 Main St,FL,378 Main St,County B,City A,District A,Main St,Property 378,"378 Main St, City A, CA",38.676159207796566,-121.55582299686085
+Broker A,Condo,621998,3,4,4087,379 Main St,CA,379 Main St,County A,City B,District C,Main St,Property 379,"379 Main St, City A, CA",37.938820262046946,-121.4901390248021
+Broker C,Condo,706217,4,2,3794,380 Main St,FL,380 Main St,County C,City A,District C,Oak Ave,Property 380,"380 Main St, City A, CA",38.15630880990312,-122.11594678355038
+Broker B,Townhouse,700441,5,1,4761,381 Main St,TX,381 Main St,County B,City B,District A,Oak Ave,Property 381,"381 Main St, City A, CA",37.915768603950866,-121.55546419254004
+Broker C,Condo,859416,5,4,2930,382 Main St,TX,382 Main St,County A,City C,District A,Oak Ave,Property 382,"382 Main St, City A, CA",38.399843770407834,-121.63787687046693
+Broker A,Townhouse,175388,4,4,2379,383 Main St,CA,383 Main St,County B,City C,District C,Oak Ave,Property 383,"383 Main St, City A, CA",38.5037705094886,-121.48859232765524
+Broker B,Single Family,655689,1,2,4466,384 Main St,FL,384 Main St,County B,City B,District C,Main St,Property 384,"384 Main St, City A, CA",38.706812732597456,-122.1736496878141
+Broker C,Condo,618727,1,4,4213,385 Main St,FL,385 Main St,County C,City B,District B,Pine Blvd,Property 385,"385 Main St, City A, CA",38.053771926260964,-121.84244084987901
+Broker B,Townhouse,827191,1,3,4626,386 Main St,CA,386 Main St,County B,City B,District A,Pine Blvd,Property 386,"386 Main St, City A, CA",38.72511120586543,-122.14485541525956
+Broker C,Single Family,743791,4,2,4606,387 Main St,FL,387 Main St,County B,City A,District C,Main St,Property 387,"387 Main St, City A, CA",37.838162671820676,-121.59530550951563
+Broker B,Condo,332601,1,1,2511,388 Main St,CA,388 Main St,County A,City B,District A,Pine Blvd,Property 388,"388 Main St, City A, CA",38.37791386336459,-122.41407580942894
+Broker A,Single Family,227834,3,1,3873,389 Main St,NY,389 Main St,County A,City B,District B,Main St,Property 389,"389 Main St, City A, CA",37.83203271934333,-121.8545808371136
+Broker A,Condo,134084,5,3,2643,390 Main St,TX,390 Main St,County C,City A,District C,Pine Blvd,Property 390,"390 Main St, City A, CA",38.668674187761944,-122.08019656872808
+Broker B,Single Family,351459,3,1,3000,391 Main St,NY,391 Main St,County A,City C,District C,Oak Ave,Property 391,"391 Main St, City A, CA",38.304709057070056,-122.09671629292218
+Broker C,Single Family,734929,1,4,1789,392 Main St,WA,392 Main St,County A,City B,District C,Oak Ave,Property 392,"392 Main St, City A, CA",38.4442483507628,-121.77449367613508
+Broker A,Townhouse,205111,3,4,1947,393 Main St,WA,393 Main St,County C,City B,District A,Oak Ave,Property 393,"393 Main St, City A, CA",38.60647392591046,-121.567915550686
+Broker A,Single Family,549042,1,3,3699,394 Main St,WA,394 Main St,County B,City C,District B,Main St,Property 394,"394 Main St, City A, CA",37.925210622483974,-121.81020460860667
+Broker A,Condo,529667,4,1,2443,395 Main St,CA,395 Main St,County C,City C,District A,Main St,Property 395,"395 Main St, City A, CA",37.813491561938136,-121.56622702135327
+Broker B,Condo,762587,3,1,3683,396 Main St,FL,396 Main St,County A,City A,District C,Pine Blvd,Property 396,"396 Main St, City A, CA",38.65378114591285,-122.15480288811897
+Broker B,Townhouse,262982,4,3,3716,397 Main St,NY,397 Main St,County C,City B,District B,Pine Blvd,Property 397,"397 Main St, City A, CA",38.08983322745893,-121.89989814523501
+Broker C,Condo,398185,4,2,3636,398 Main St,NY,398 Main St,County B,City B,District C,Pine Blvd,Property 398,"398 Main St, City A, CA",37.903878907927165,-121.96886346093292
+Broker C,Condo,975352,2,1,3818,399 Main St,NY,399 Main St,County C,City A,District C,Main St,Property 399,"399 Main St, City A, CA",38.243361237087086,-122.4077551004969
+Broker C,Condo,427825,1,2,3282,400 Main St,NY,400 Main St,County A,City C,District A,Pine Blvd,Property 400,"400 Main St, City A, CA",38.37320607569602,-121.86258785685925
+Broker B,Single Family,334386,5,1,1490,401 Main St,WA,401 Main St,County A,City A,District C,Oak Ave,Property 401,"401 Main St, City A, CA",37.80587060342251,-121.75787567585382
+Broker B,Single Family,443715,1,1,2653,402 Main St,NY,402 Main St,County C,City C,District B,Pine Blvd,Property 402,"402 Main St, City A, CA",38.04979565825709,-121.82748559558092
+Broker C,Condo,296553,5,1,725,403 Main St,FL,403 Main St,County B,City A,District C,Oak Ave,Property 403,"403 Main St, City A, CA",37.8076998742769,-121.68312010121657
+Broker C,Townhouse,561792,1,1,1276,404 Main St,WA,404 Main St,County C,City C,District C,Main St,Property 404,"404 Main St, City A, CA",38.1952353891955,-121.84806047154692
+Broker B,Single Family,601174,4,4,3337,405 Main St,NY,405 Main St,County B,City A,District A,Oak Ave,Property 405,"405 Main St, City A, CA",38.670000029066244,-122.35264974514924
+Broker C,Townhouse,884625,3,2,1187,406 Main St,CA,406 Main St,County B,City C,District B,Oak Ave,Property 406,"406 Main St, City A, CA",38.75755241149357,-122.30295447591529
+Broker A,Condo,751844,3,2,1029,407 Main St,TX,407 Main St,County C,City C,District A,Oak Ave,Property 407,"407 Main St, City A, CA",38.41194755350363,-121.82292542245604
+Broker B,Condo,295246,2,1,3942,408 Main St,TX,408 Main St,County B,City C,District C,Main St,Property 408,"408 Main St, City A, CA",37.936537693784594,-122.14442080802635
+Broker C,Single Family,650448,5,1,2653,409 Main St,TX,409 Main St,County A,City C,District A,Main St,Property 409,"409 Main St, City A, CA",38.680749389999306,-122.33975487096524
+Broker B,Condo,346242,5,2,1794,410 Main St,WA,410 Main St,County C,City C,District A,Main St,Property 410,"410 Main St, City A, CA",38.29114782320006,-121.98979725655146
+Broker A,Single Family,611083,5,4,2026,411 Main St,NY,411 Main St,County B,City B,District A,Main St,Property 411,"411 Main St, City A, CA",37.92864931210292,-121.86507740191634
+Broker B,Condo,117633,4,3,3396,412 Main St,WA,412 Main St,County A,City C,District A,Pine Blvd,Property 412,"412 Main St, City A, CA",38.69662666945166,-122.09065401165039
+Broker B,Condo,903446,5,3,3603,413 Main St,FL,413 Main St,County C,City B,District C,Main St,Property 413,"413 Main St, City A, CA",38.532369050723105,-121.69896629777422
+Broker B,Single Family,966964,3,2,2940,414 Main St,CA,414 Main St,County A,City C,District C,Oak Ave,Property 414,"414 Main St, City A, CA",38.50660527272316,-121.77562939189875
+Broker B,Single Family,149104,4,1,4635,415 Main St,CA,415 Main St,County A,City B,District B,Main St,Property 415,"415 Main St, City A, CA",38.484080703794405,-122.08658163890833
+Broker A,Single Family,963663,1,1,4302,416 Main St,TX,416 Main St,County A,City B,District A,Pine Blvd,Property 416,"416 Main St, City A, CA",37.975239821096444,-121.66452747109143
+Broker B,Condo,168388,5,4,1344,417 Main St,TX,417 Main St,County B,City A,District A,Pine Blvd,Property 417,"417 Main St, City A, CA",37.98590669170753,-121.77070495746696
+Broker B,Condo,640302,5,3,946,418 Main St,TX,418 Main St,County C,City C,District B,Pine Blvd,Property 418,"418 Main St, City A, CA",38.46319299842726,-121.7819546212821
+Broker C,Townhouse,192578,1,4,4415,419 Main St,NY,419 Main St,County C,City A,District A,Oak Ave,Property 419,"419 Main St, City A, CA",37.9946227501104,-121.86597229921293
+Broker B,Single Family,789115,5,3,3609,420 Main St,FL,420 Main St,County B,City A,District B,Main St,Property 420,"420 Main St, City A, CA",38.21357169680305,-122.40801033191144
+Broker C,Condo,664678,1,2,1734,421 Main St,FL,421 Main St,County C,City C,District C,Main St,Property 421,"421 Main St, City A, CA",38.55690182559395,-121.72289281652311
+Broker A,Condo,385855,4,3,726,422 Main St,FL,422 Main St,County A,City A,District B,Main St,Property 422,"422 Main St, City A, CA",38.558852518097844,-122.04335820889084
+Broker A,Single Family,191658,3,4,4643,423 Main St,FL,423 Main St,County C,City C,District A,Oak Ave,Property 423,"423 Main St, City A, CA",38.228161772525866,-121.47679028984135
+Broker A,Townhouse,157993,1,4,3459,424 Main St,TX,424 Main St,County B,City A,District B,Oak Ave,Property 424,"424 Main St, City A, CA",38.567089938275245,-121.60141522892279
+Broker A,Single Family,305768,2,4,2330,425 Main St,CA,425 Main St,County A,City C,District C,Pine Blvd,Property 425,"425 Main St, City A, CA",38.61352179619806,-121.83170553046868
+Broker C,Townhouse,258285,1,2,4279,426 Main St,TX,426 Main St,County B,City C,District A,Pine Blvd,Property 426,"426 Main St, City A, CA",38.429675751284265,-122.16721801818073
+Broker B,Condo,871148,5,3,686,427 Main St,FL,427 Main St,County A,City C,District C,Main St,Property 427,"427 Main St, City A, CA",38.00332585230842,-122.21568260672232
+Broker A,Townhouse,551000,4,3,3377,428 Main St,TX,428 Main St,County A,City B,District C,Oak Ave,Property 428,"428 Main St, City A, CA",38.04891178038555,-122.07901516232245
+Broker B,Condo,893853,4,4,3035,429 Main St,FL,429 Main St,County C,City A,District B,Oak Ave,Property 429,"429 Main St, City A, CA",38.08974115540874,-121.94283205641997
+Broker C,Single Family,842296,1,3,2432,430 Main St,WA,430 Main St,County A,City B,District C,Main St,Property 430,"430 Main St, City A, CA",37.89170410773396,-122.12333448996105
+Broker C,Single Family,642015,3,1,3424,431 Main St,CA,431 Main St,County B,City A,District A,Main St,Property 431,"431 Main St, City A, CA",38.04805962036995,-121.90447050460752
+Broker C,Single Family,998850,2,1,1348,432 Main St,WA,432 Main St,County C,City A,District C,Pine Blvd,Property 432,"432 Main St, City A, CA",37.98441922431253,-122.25402957448681
+Broker A,Townhouse,628646,4,1,2532,433 Main St,NY,433 Main St,County B,City A,District C,Pine Blvd,Property 433,"433 Main St, City A, CA",38.2302287498086,-121.4416871871745
+Broker B,Condo,427252,5,3,1752,434 Main St,TX,434 Main St,County A,City B,District B,Pine Blvd,Property 434,"434 Main St, City A, CA",38.68333754787227,-122.311475445035
+Broker B,Single Family,357681,5,2,2381,435 Main St,NY,435 Main St,County B,City A,District C,Main St,Property 435,"435 Main St, City A, CA",37.87938031675396,-121.48745586034562
+Broker B,Single Family,194018,3,2,769,436 Main St,TX,436 Main St,County B,City B,District B,Main St,Property 436,"436 Main St, City A, CA",38.4951679239474,-121.5058219885973
+Broker C,Condo,486601,4,2,2130,437 Main St,WA,437 Main St,County A,City C,District B,Pine Blvd,Property 437,"437 Main St, City A, CA",38.46218300441313,-121.89403951818049
+Broker A,Single Family,394054,1,2,4905,438 Main St,FL,438 Main St,County C,City A,District A,Pine Blvd,Property 438,"438 Main St, City A, CA",37.87065419866336,-121.69448972816392
+Broker C,Condo,751176,5,1,3703,439 Main St,FL,439 Main St,County B,City A,District A,Oak Ave,Property 439,"439 Main St, City A, CA",38.6974724049058,-121.9833517020274
+Broker C,Condo,329104,3,1,2074,440 Main St,TX,440 Main St,County A,City C,District A,Oak Ave,Property 440,"440 Main St, City A, CA",38.34337220215682,-121.78936542245756
+Broker B,Condo,942186,4,4,3392,441 Main St,FL,441 Main St,County C,City C,District A,Pine Blvd,Property 441,"441 Main St, City A, CA",38.13862552113569,-122.07882406257887
+Broker C,Condo,293510,4,3,2195,442 Main St,WA,442 Main St,County C,City A,District B,Pine Blvd,Property 442,"442 Main St, City A, CA",38.53143858349531,-122.11824098021455
+Broker B,Condo,209847,4,3,3758,443 Main St,FL,443 Main St,County C,City C,District C,Oak Ave,Property 443,"443 Main St, City A, CA",38.03226545840164,-121.84117021383048
+Broker A,Townhouse,544717,4,2,3762,444 Main St,WA,444 Main St,County B,City B,District A,Pine Blvd,Property 444,"444 Main St, City A, CA",38.46840983704632,-121.92127032581601
+Broker B,Single Family,554162,4,1,1945,445 Main St,NY,445 Main St,County B,City B,District A,Oak Ave,Property 445,"445 Main St, City A, CA",37.81461120757225,-121.83986363085002
+Broker A,Townhouse,924899,5,2,719,446 Main St,WA,446 Main St,County B,City A,District A,Oak Ave,Property 446,"446 Main St, City A, CA",38.61430803760928,-122.13273941871297
+Broker B,Single Family,396037,3,4,552,447 Main St,CA,447 Main St,County C,City B,District C,Oak Ave,Property 447,"447 Main St, City A, CA",38.22307084702132,-122.052442168183
+Broker C,Townhouse,176329,4,3,2257,448 Main St,CA,448 Main St,County B,City B,District A,Main St,Property 448,"448 Main St, City A, CA",38.411592914357946,-122.3355020393711
+Broker C,Condo,131007,2,3,2166,449 Main St,CA,449 Main St,County A,City A,District C,Main St,Property 449,"449 Main St, City A, CA",37.996137819806684,-122.36712362772779
+Broker A,Single Family,794892,2,2,3285,450 Main St,TX,450 Main St,County B,City C,District B,Pine Blvd,Property 450,"450 Main St, City A, CA",38.45197371265845,-122.16594287032699
+Broker A,Single Family,416397,3,4,1219,451 Main St,TX,451 Main St,County B,City A,District B,Oak Ave,Property 451,"451 Main St, City A, CA",38.54714027589328,-122.34515314066945
+Broker A,Townhouse,112323,1,3,905,452 Main St,TX,452 Main St,County C,City B,District B,Main St,Property 452,"452 Main St, City A, CA",38.2481131868844,-122.31562529136525
+Broker B,Townhouse,997767,1,4,2794,453 Main St,WA,453 Main St,County B,City A,District C,Pine Blvd,Property 453,"453 Main St, City A, CA",38.392626924061794,-121.60647159460606
+Broker B,Single Family,212356,1,4,571,454 Main St,TX,454 Main St,County A,City A,District A,Pine Blvd,Property 454,"454 Main St, City A, CA",38.2312259238224,-122.38052630298331
+Broker A,Townhouse,735232,2,2,2553,455 Main St,NY,455 Main St,County C,City B,District A,Pine Blvd,Property 455,"455 Main St, City A, CA",38.668991369257846,-121.76045720606525
+Broker C,Townhouse,304451,1,1,1729,456 Main St,CA,456 Main St,County A,City B,District A,Pine Blvd,Property 456,"456 Main St, City A, CA",38.272769180514324,-122.1468422511846
+Broker B,Townhouse,378600,5,2,2067,457 Main St,WA,457 Main St,County C,City A,District A,Pine Blvd,Property 457,"457 Main St, City A, CA",38.61670870902882,-121.54785431929187
+Broker B,Condo,655655,4,1,4182,458 Main St,CA,458 Main St,County C,City B,District A,Oak Ave,Property 458,"458 Main St, City A, CA",38.57625205827025,-121.9344077154225
+Broker B,Condo,154624,2,4,3453,459 Main St,TX,459 Main St,County B,City B,District C,Pine Blvd,Property 459,"459 Main St, City A, CA",38.18540482134836,-122.11382354067217
+Broker A,Townhouse,503322,3,1,4982,460 Main St,WA,460 Main St,County A,City B,District B,Oak Ave,Property 460,"460 Main St, City A, CA",38.00498449185748,-121.90176106431056
+Broker A,Townhouse,334565,3,4,1198,461 Main St,FL,461 Main St,County C,City B,District A,Main St,Property 461,"461 Main St, City A, CA",38.18098213255978,-122.03744198095472
+Broker A,Condo,168008,4,3,1326,462 Main St,NY,462 Main St,County B,City B,District B,Pine Blvd,Property 462,"462 Main St, City A, CA",38.601117375775225,-121.85509893533016
+Broker A,Condo,477539,2,3,848,463 Main St,TX,463 Main St,County C,City B,District C,Main St,Property 463,"463 Main St, City A, CA",38.0025325358194,-122.30486713167365
+Broker A,Single Family,216492,1,3,4408,464 Main St,TX,464 Main St,County C,City C,District C,Oak Ave,Property 464,"464 Main St, City A, CA",38.29933634585775,-121.42240949718745
+Broker C,Single Family,172240,1,2,807,465 Main St,NY,465 Main St,County C,City A,District A,Oak Ave,Property 465,"465 Main St, City A, CA",38.58099674796075,-121.99384412230327
+Broker C,Condo,426459,5,2,3916,466 Main St,NY,466 Main St,County C,City B,District C,Main St,Property 466,"466 Main St, City A, CA",38.12837747512838,-122.07116936029263
+Broker A,Townhouse,825947,5,4,2834,467 Main St,FL,467 Main St,County C,City A,District B,Pine Blvd,Property 467,"467 Main St, City A, CA",38.4171096370027,-121.70919015168373
+Broker B,Townhouse,372900,1,3,3309,468 Main St,TX,468 Main St,County C,City C,District A,Pine Blvd,Property 468,"468 Main St, City A, CA",38.02053157404882,-122.05550059350466
+Broker A,Townhouse,561227,3,2,4058,469 Main St,TX,469 Main St,County B,City B,District A,Main St,Property 469,"469 Main St, City A, CA",37.88417944536816,-121.58612569497124
+Broker C,Townhouse,398522,3,3,4978,470 Main St,CA,470 Main St,County C,City A,District B,Main St,Property 470,"470 Main St, City A, CA",38.56928422509286,-121.96512927563957
+Broker C,Single Family,235327,5,2,3977,471 Main St,WA,471 Main St,County A,City B,District A,Main St,Property 471,"471 Main St, City A, CA",37.87386862340871,-121.69984158673456
+Broker B,Condo,749991,4,1,3186,472 Main St,WA,472 Main St,County B,City B,District A,Pine Blvd,Property 472,"472 Main St, City A, CA",38.04628139507959,-122.31194678355811
+Broker C,Townhouse,942981,1,1,3485,473 Main St,CA,473 Main St,County A,City B,District B,Pine Blvd,Property 473,"473 Main St, City A, CA",38.63000942199744,-121.57328081444489
+Broker A,Single Family,265575,5,3,775,474 Main St,WA,474 Main St,County C,City B,District A,Pine Blvd,Property 474,"474 Main St, City A, CA",38.12136928707867,-121.68368201322188
+Broker B,Townhouse,960226,5,4,3047,475 Main St,NY,475 Main St,County A,City B,District A,Main St,Property 475,"475 Main St, City A, CA",38.74794534951416,-122.20768322153803
+Broker A,Condo,599499,1,2,3264,476 Main St,WA,476 Main St,County C,City B,District B,Pine Blvd,Property 476,"476 Main St, City A, CA",38.75463433477386,-122.27411399025421
+Broker A,Single Family,593948,1,2,836,477 Main St,WA,477 Main St,County C,City B,District C,Oak Ave,Property 477,"477 Main St, City A, CA",38.04317602045356,-122.10310765127437
+Broker B,Condo,407257,3,1,2473,478 Main St,CA,478 Main St,County B,City C,District B,Main St,Property 478,"478 Main St, City A, CA",37.81587822224989,-121.44332941396809
+Broker A,Condo,698357,4,1,3479,479 Main St,FL,479 Main St,County B,City C,District A,Pine Blvd,Property 479,"479 Main St, City A, CA",38.47996328420538,-122.16256842543294
+Broker C,Single Family,329189,4,4,4468,480 Main St,WA,480 Main St,County C,City B,District B,Main St,Property 480,"480 Main St, City A, CA",38.22588650264834,-121.96327279105336
+Broker A,Single Family,498465,1,4,1410,481 Main St,WA,481 Main St,County B,City B,District A,Oak Ave,Property 481,"481 Main St, City A, CA",37.87565284395958,-122.38937977428266
+Broker B,Single Family,351051,2,4,2496,482 Main St,FL,482 Main St,County A,City C,District A,Oak Ave,Property 482,"482 Main St, City A, CA",38.482422818978044,-122.02217247043376
+Broker B,Single Family,749829,5,3,3629,483 Main St,CA,483 Main St,County B,City C,District B,Main St,Property 483,"483 Main St, City A, CA",37.80607490911192,-121.8480799845669
+Broker B,Single Family,813936,5,1,4704,484 Main St,FL,484 Main St,County B,City C,District A,Main St,Property 484,"484 Main St, City A, CA",38.645096690492245,-121.46627538749203
+Broker A,Single Family,611778,1,3,4257,485 Main St,CA,485 Main St,County A,City B,District C,Oak Ave,Property 485,"485 Main St, City A, CA",37.9135525291133,-121.90266395505994
+Broker B,Single Family,880641,2,1,827,486 Main St,NY,486 Main St,County B,City A,District A,Main St,Property 486,"486 Main St, City A, CA",37.902211878746726,-121.60029267382231
+Broker B,Townhouse,371830,3,1,2299,487 Main St,CA,487 Main St,County C,City A,District B,Oak Ave,Property 487,"487 Main St, City A, CA",37.950572297968584,-121.8722723574311
+Broker A,Condo,605629,1,2,814,488 Main St,NY,488 Main St,County A,City A,District C,Oak Ave,Property 488,"488 Main St, City A, CA",38.735166358492066,-122.37861498656447
+Broker C,Single Family,415507,1,1,4045,489 Main St,NY,489 Main St,County C,City A,District C,Pine Blvd,Property 489,"489 Main St, City A, CA",38.46806936025385,-122.10439172481023
+Broker A,Townhouse,459687,5,1,1634,490 Main St,CA,490 Main St,County A,City B,District A,Main St,Property 490,"490 Main St, City A, CA",38.57627153546364,-121.8438504921689
+Broker B,Townhouse,756021,1,3,3246,491 Main St,TX,491 Main St,County C,City A,District B,Main St,Property 491,"491 Main St, City A, CA",38.17253498573275,-121.46880603406888
+Broker B,Townhouse,275915,1,1,2020,492 Main St,CA,492 Main St,County C,City C,District A,Pine Blvd,Property 492,"492 Main St, City A, CA",38.111212727504956,-121.56026964024876
+Broker A,Condo,719961,1,3,655,493 Main St,WA,493 Main St,County B,City C,District A,Oak Ave,Property 493,"493 Main St, City A, CA",38.00938400678317,-122.19104438582114
+Broker C,Single Family,554179,5,4,2224,494 Main St,WA,494 Main St,County C,City A,District B,Main St,Property 494,"494 Main St, City A, CA",38.25554802831241,-122.19929016998083
+Broker B,Townhouse,142828,3,1,3843,495 Main St,TX,495 Main St,County B,City C,District B,Pine Blvd,Property 495,"495 Main St, City A, CA",38.32672873353417,-122.21822703288609
+Broker B,Condo,935036,3,1,1386,496 Main St,NY,496 Main St,County A,City B,District A,Pine Blvd,Property 496,"496 Main St, City A, CA",38.40667484365276,-121.4969011036975
+Broker B,Condo,372670,1,3,3573,497 Main St,TX,497 Main St,County C,City A,District C,Main St,Property 497,"497 Main St, City A, CA",38.0320185039987,-121.56673384689827
+Broker A,Condo,955342,5,4,3305,498 Main St,WA,498 Main St,County C,City A,District A,Pine Blvd,Property 498,"498 Main St, City A, CA",38.72355408090299,-121.64451656774705
+Broker B,Townhouse,125592,3,2,1221,499 Main St,TX,499 Main St,County A,City B,District C,Oak Ave,Property 499,"499 Main St, City A, CA",37.94465849820714,-122.02666488577577
+Broker C,Single Family,391126,3,4,1412,500 Main St,CA,500 Main St,County A,City C,District A,Pine Blvd,Property 500,"500 Main St, City A, CA",38.74055317476641,-121.91501929570123
+Broker B,Townhouse,886639,3,3,3857,501 Main St,TX,501 Main St,County C,City B,District B,Oak Ave,Property 501,"501 Main St, City A, CA",37.789756122507505,-121.95506825520485
+Broker B,Townhouse,332041,5,4,1370,502 Main St,NY,502 Main St,County A,City B,District C,Oak Ave,Property 502,"502 Main St, City A, CA",38.256025691816845,-122.16600189244062
+Broker C,Single Family,450877,5,3,4608,503 Main St,CA,503 Main St,County B,City C,District B,Main St,Property 503,"503 Main St, City A, CA",38.10826783811657,-121.91437195385123
+Broker B,Single Family,854296,1,3,997,504 Main St,FL,504 Main St,County A,City B,District B,Pine Blvd,Property 504,"504 Main St, City A, CA",38.224023413930254,-122.38890345214725
+Broker A,Single Family,224982,4,2,2256,505 Main St,WA,505 Main St,County A,City C,District B,Oak Ave,Property 505,"505 Main St, City A, CA",38.34556457898079,-122.28758962650254
+Broker A,Condo,356911,3,1,1617,506 Main St,WA,506 Main St,County C,City C,District B,Oak Ave,Property 506,"506 Main St, City A, CA",38.21048915801271,-121.53281040383105
+Broker A,Single Family,168619,4,3,3909,507 Main St,TX,507 Main St,County B,City B,District B,Pine Blvd,Property 507,"507 Main St, City A, CA",38.189746850301596,-121.66772023296858
+Broker C,Townhouse,784688,5,3,3328,508 Main St,CA,508 Main St,County A,City C,District A,Oak Ave,Property 508,"508 Main St, City A, CA",38.507623415413306,-121.9965315909409
+Broker B,Single Family,408623,5,2,2147,509 Main St,FL,509 Main St,County B,City B,District C,Pine Blvd,Property 509,"509 Main St, City A, CA",38.46077627508647,-121.90224963771612
+Broker A,Townhouse,601643,5,3,3483,510 Main St,CA,510 Main St,County B,City C,District A,Main St,Property 510,"510 Main St, City A, CA",38.60817128203585,-122.04940111404002
+Broker C,Condo,251175,4,1,642,511 Main St,WA,511 Main St,County B,City A,District A,Oak Ave,Property 511,"511 Main St, City A, CA",38.0248589812395,-121.67862013283933
+Broker B,Townhouse,270963,5,2,3261,512 Main St,CA,512 Main St,County C,City C,District A,Oak Ave,Property 512,"512 Main St, City A, CA",38.384428509754066,-121.63521282076792
+Broker C,Townhouse,241826,1,1,3935,513 Main St,FL,513 Main St,County A,City C,District B,Pine Blvd,Property 513,"513 Main St, City A, CA",38.36009478539285,-121.65611480979683
+Broker A,Single Family,855343,5,1,2931,514 Main St,TX,514 Main St,County C,City B,District A,Pine Blvd,Property 514,"514 Main St, City A, CA",38.144637810872695,-121.69678827516555
+Broker A,Single Family,967869,2,2,2348,515 Main St,NY,515 Main St,County A,City C,District C,Pine Blvd,Property 515,"515 Main St, City A, CA",38.260957541902684,-122.2148956613072
+Broker A,Townhouse,198540,4,3,3196,516 Main St,CA,516 Main St,County A,City A,District A,Pine Blvd,Property 516,"516 Main St, City A, CA",38.08868214330573,-122.08143002075951
+Broker C,Single Family,959414,2,1,2217,517 Main St,NY,517 Main St,County C,City A,District B,Oak Ave,Property 517,"517 Main St, City A, CA",37.91674439761699,-121.94955456501633
+Broker C,Condo,727035,5,1,3572,518 Main St,WA,518 Main St,County B,City C,District C,Main St,Property 518,"518 Main St, City A, CA",37.98870121066273,-122.08860700857234
+Broker A,Condo,286994,1,1,1567,519 Main St,TX,519 Main St,County B,City C,District C,Main St,Property 519,"519 Main St, City A, CA",37.8804136464012,-121.66445979984167
+Broker C,Single Family,410375,3,1,3286,520 Main St,TX,520 Main St,County A,City A,District C,Main St,Property 520,"520 Main St, City A, CA",38.45796957519013,-122.09004647575004
+Broker A,Condo,129301,5,2,4291,521 Main St,CA,521 Main St,County C,City B,District C,Main St,Property 521,"521 Main St, City A, CA",38.43562739310915,-122.28116791321466
+Broker A,Single Family,322724,1,2,1788,522 Main St,TX,522 Main St,County B,City A,District A,Pine Blvd,Property 522,"522 Main St, City A, CA",38.725506371579876,-122.02035954795168
+Broker B,Townhouse,614003,4,4,4371,523 Main St,CA,523 Main St,County B,City A,District B,Oak Ave,Property 523,"523 Main St, City A, CA",38.504578413647245,-121.43948556721762
+Broker C,Townhouse,293783,2,4,2306,524 Main St,CA,524 Main St,County A,City C,District C,Oak Ave,Property 524,"524 Main St, City A, CA",37.82694583875613,-122.19351858706642
+Broker A,Condo,796683,2,1,2004,525 Main St,NY,525 Main St,County A,City C,District C,Oak Ave,Property 525,"525 Main St, City A, CA",38.659145173928955,-121.80724134105677
+Broker A,Single Family,118752,2,3,3808,526 Main St,TX,526 Main St,County C,City A,District B,Pine Blvd,Property 526,"526 Main St, City A, CA",38.63757516294573,-121.9864269501603
+Broker C,Single Family,837565,4,1,3451,527 Main St,CA,527 Main St,County A,City B,District A,Oak Ave,Property 527,"527 Main St, City A, CA",38.2182203207727,-122.34837543235066
+Broker B,Condo,984884,1,3,571,528 Main St,NY,528 Main St,County B,City A,District C,Pine Blvd,Property 528,"528 Main St, City A, CA",38.36076305052792,-121.93152339400194
+Broker B,Townhouse,768755,4,1,2190,529 Main St,FL,529 Main St,County B,City A,District A,Oak Ave,Property 529,"529 Main St, City A, CA",38.75097833247252,-121.71723567135169
+Broker A,Condo,317029,2,4,1844,530 Main St,NY,530 Main St,County B,City B,District A,Main St,Property 530,"530 Main St, City A, CA",38.30720436384817,-121.90618002417217
+Broker C,Townhouse,156273,5,4,3803,531 Main St,NY,531 Main St,County B,City A,District A,Pine Blvd,Property 531,"531 Main St, City A, CA",38.68022182837609,-121.54729393625341
+Broker B,Single Family,358503,3,3,3613,532 Main St,CA,532 Main St,County C,City A,District A,Oak Ave,Property 532,"532 Main St, City A, CA",37.85793875781019,-122.13046298334241
+Broker C,Townhouse,716166,4,1,1382,533 Main St,WA,533 Main St,County C,City C,District C,Main St,Property 533,"533 Main St, City A, CA",37.965951868708686,-122.33315082869603
+Broker C,Condo,891327,4,3,4734,534 Main St,WA,534 Main St,County A,City B,District C,Main St,Property 534,"534 Main St, City A, CA",38.21565494344132,-121.48283438834198
+Broker A,Single Family,219968,1,4,3162,535 Main St,WA,535 Main St,County A,City C,District A,Main St,Property 535,"535 Main St, City A, CA",38.359656808337306,-122.04120365047177
+Broker B,Condo,477844,1,1,2004,536 Main St,NY,536 Main St,County A,City C,District A,Pine Blvd,Property 536,"536 Main St, City A, CA",38.5911278518628,-121.84299444854636
+Broker A,Condo,700847,4,1,2963,537 Main St,CA,537 Main St,County C,City B,District B,Pine Blvd,Property 537,"537 Main St, City A, CA",38.76316211514319,-121.6273968738698
+Broker B,Townhouse,110699,2,3,3053,538 Main St,TX,538 Main St,County B,City B,District B,Oak Ave,Property 538,"538 Main St, City A, CA",38.16375149647412,-122.09508633612441
+Broker B,Condo,296133,3,2,1232,539 Main St,NY,539 Main St,County A,City A,District B,Main St,Property 539,"539 Main St, City A, CA",37.82231563614009,-121.70323546182239
+Broker B,Townhouse,634003,1,3,2248,540 Main St,NY,540 Main St,County B,City C,District C,Oak Ave,Property 540,"540 Main St, City A, CA",38.576071503295324,-122.28398115018217
+Broker B,Single Family,119169,2,4,4424,541 Main St,CA,541 Main St,County A,City B,District B,Oak Ave,Property 541,"541 Main St, City A, CA",38.37928071908281,-122.1281062527945
+Broker B,Townhouse,618652,5,4,923,542 Main St,FL,542 Main St,County A,City C,District C,Main St,Property 542,"542 Main St, City A, CA",37.973442858868204,-122.27468936386347
+Broker C,Single Family,218413,1,4,3978,543 Main St,NY,543 Main St,County A,City C,District C,Oak Ave,Property 543,"543 Main St, City A, CA",38.26972845662142,-121.60816944159863
+Broker A,Townhouse,743552,2,4,2091,544 Main St,FL,544 Main St,County A,City B,District C,Pine Blvd,Property 544,"544 Main St, City A, CA",38.517210245533725,-122.19675076477321
+Broker C,Condo,367926,2,4,4985,545 Main St,FL,545 Main St,County A,City A,District C,Oak Ave,Property 545,"545 Main St, City A, CA",38.54531178706865,-121.70199644459478
+Broker B,Townhouse,843537,3,2,4937,546 Main St,WA,546 Main St,County B,City C,District B,Main St,Property 546,"546 Main St, City A, CA",38.27451841199876,-121.47610160275434
+Broker A,Townhouse,622988,3,1,992,547 Main St,CA,547 Main St,County A,City B,District A,Pine Blvd,Property 547,"547 Main St, City A, CA",38.08011453012886,-121.89162779093112
+Broker B,Single Family,224481,5,3,691,548 Main St,FL,548 Main St,County B,City A,District A,Pine Blvd,Property 548,"548 Main St, City A, CA",38.7486425820385,-121.8793708077393
+Broker A,Condo,315400,2,3,998,549 Main St,CA,549 Main St,County C,City C,District A,Oak Ave,Property 549,"549 Main St, City A, CA",38.43826261095649,-121.95836643190218
+Broker C,Townhouse,659873,2,4,1756,550 Main St,WA,550 Main St,County A,City B,District B,Oak Ave,Property 550,"550 Main St, City A, CA",38.1831375193463,-122.09350985660636
+Broker A,Condo,917114,3,3,2468,551 Main St,CA,551 Main St,County B,City C,District A,Pine Blvd,Property 551,"551 Main St, City A, CA",38.055363224204655,-121.94374496907508
+Broker A,Townhouse,278936,1,4,4822,552 Main St,NY,552 Main St,County C,City B,District B,Oak Ave,Property 552,"552 Main St, City A, CA",38.50600298300356,-121.81659246773323
+Broker A,Townhouse,492136,1,2,2686,553 Main St,FL,553 Main St,County C,City B,District B,Main St,Property 553,"553 Main St, City A, CA",38.01708344559377,-121.43340842782933
+Broker A,Condo,970848,4,2,1316,554 Main St,CA,554 Main St,County C,City C,District B,Oak Ave,Property 554,"554 Main St, City A, CA",37.94660998897369,-121.48163544068177
+Broker A,Townhouse,548330,3,1,3720,555 Main St,TX,555 Main St,County B,City C,District A,Oak Ave,Property 555,"555 Main St, City A, CA",38.304733888962076,-121.55724704170687
+Broker B,Condo,489954,4,2,1973,556 Main St,CA,556 Main St,County A,City B,District A,Pine Blvd,Property 556,"556 Main St, City A, CA",38.064887392644145,-121.53026946429513
+Broker A,Townhouse,138067,3,2,1586,557 Main St,FL,557 Main St,County A,City A,District A,Oak Ave,Property 557,"557 Main St, City A, CA",38.403805144923616,-121.95155081670795
+Broker A,Single Family,798045,5,1,4699,558 Main St,WA,558 Main St,County B,City C,District C,Oak Ave,Property 558,"558 Main St, City A, CA",37.892838674874234,-121.76195567282254
+Broker C,Condo,877622,2,3,2374,559 Main St,WA,559 Main St,County A,City B,District B,Oak Ave,Property 559,"559 Main St, City A, CA",38.42984110456732,-121.52433327706377
+Broker A,Townhouse,118073,5,4,1370,560 Main St,FL,560 Main St,County B,City B,District C,Main St,Property 560,"560 Main St, City A, CA",38.0581965279977,-122.02644923500864
+Broker C,Townhouse,136035,3,4,2542,561 Main St,NY,561 Main St,County A,City A,District B,Oak Ave,Property 561,"561 Main St, City A, CA",37.77514293443451,-121.45763752165453
+Broker B,Single Family,296049,2,3,772,562 Main St,NY,562 Main St,County C,City A,District A,Main St,Property 562,"562 Main St, City A, CA",37.90183605767418,-122.00361393793081
+Broker A,Condo,333782,1,1,1529,563 Main St,WA,563 Main St,County A,City A,District B,Main St,Property 563,"563 Main St, City A, CA",38.7085153778351,-121.81831733460677
+Broker C,Townhouse,714661,1,3,3718,564 Main St,WA,564 Main St,County B,City C,District B,Main St,Property 564,"564 Main St, City A, CA",38.64225463911536,-121.70959528672762
+Broker C,Single Family,969794,4,2,4569,565 Main St,FL,565 Main St,County B,City B,District C,Main St,Property 565,"565 Main St, City A, CA",38.00850903203624,-121.46880798692406
+Broker B,Townhouse,714805,3,1,1551,566 Main St,NY,566 Main St,County C,City B,District B,Pine Blvd,Property 566,"566 Main St, City A, CA",38.5532719045455,-122.17478372594773
+Broker A,Condo,689738,3,1,4533,567 Main St,WA,567 Main St,County B,City B,District A,Main St,Property 567,"567 Main St, City A, CA",38.38347159317398,-121.67326902176136
+Broker A,Townhouse,634670,1,1,2073,568 Main St,NY,568 Main St,County A,City A,District B,Oak Ave,Property 568,"568 Main St, City A, CA",38.74580471144987,-121.89858441385591
+Broker C,Townhouse,826331,5,4,3690,569 Main St,WA,569 Main St,County A,City B,District B,Main St,Property 569,"569 Main St, City A, CA",38.14850565953406,-122.15084285937935
+Broker A,Townhouse,557828,2,3,4888,570 Main St,CA,570 Main St,County C,City C,District B,Oak Ave,Property 570,"570 Main St, City A, CA",38.45636061251717,-121.64279316020361
+Broker C,Townhouse,845715,5,1,4297,571 Main St,TX,571 Main St,County B,City A,District C,Main St,Property 571,"571 Main St, City A, CA",37.838435722423924,-121.86717771982615
+Broker A,Single Family,161929,5,1,3789,572 Main St,CA,572 Main St,County C,City A,District B,Pine Blvd,Property 572,"572 Main St, City A, CA",38.17114734681641,-121.75842617935032
+Broker C,Single Family,857771,1,1,4247,573 Main St,WA,573 Main St,County A,City A,District B,Main St,Property 573,"573 Main St, City A, CA",38.73871766118818,-122.09649893142209
+Broker A,Condo,852878,1,3,2605,574 Main St,TX,574 Main St,County C,City A,District C,Main St,Property 574,"574 Main St, City A, CA",38.31388087445012,-121.93812604817239
+Broker B,Single Family,985296,1,4,807,575 Main St,TX,575 Main St,County B,City C,District C,Pine Blvd,Property 575,"575 Main St, City A, CA",38.062779503334845,-121.80204574901192
+Broker A,Single Family,767689,4,2,3859,576 Main St,WA,576 Main St,County C,City B,District C,Main St,Property 576,"576 Main St, City A, CA",37.895170963128606,-122.01448918573016
+Broker A,Condo,880965,5,4,3676,577 Main St,WA,577 Main St,County B,City C,District C,Oak Ave,Property 577,"577 Main St, City A, CA",38.47842834018153,-122.2210274601523
+Broker B,Single Family,387313,3,1,1751,578 Main St,NY,578 Main St,County B,City B,District A,Main St,Property 578,"578 Main St, City A, CA",38.41975604342973,-121.4577595076847
+Broker A,Single Family,187468,2,4,3247,579 Main St,WA,579 Main St,County A,City C,District A,Main St,Property 579,"579 Main St, City A, CA",38.14883871360378,-121.90793245995738
+Broker B,Condo,134594,4,4,2017,580 Main St,FL,580 Main St,County A,City A,District B,Main St,Property 580,"580 Main St, City A, CA",38.72584135186584,-121.68547962971229
+Broker A,Condo,291703,3,2,1878,581 Main St,WA,581 Main St,County A,City A,District A,Pine Blvd,Property 581,"581 Main St, City A, CA",37.79710281298785,-122.00835280644394
+Broker C,Condo,145033,5,3,2461,582 Main St,FL,582 Main St,County B,City C,District B,Main St,Property 582,"582 Main St, City A, CA",38.078623851631825,-122.06426823597428
+Broker C,Townhouse,687421,1,3,4805,583 Main St,WA,583 Main St,County C,City C,District A,Main St,Property 583,"583 Main St, City A, CA",38.69596948629958,-122.01223570153287
+Broker A,Townhouse,173861,5,4,3363,584 Main St,NY,584 Main St,County B,City B,District C,Oak Ave,Property 584,"584 Main St, City A, CA",38.09583543831944,-122.01020335621435
+Broker A,Condo,807650,2,4,3156,585 Main St,FL,585 Main St,County A,City C,District C,Main St,Property 585,"585 Main St, City A, CA",38.027152833855176,-121.87521988405804
+Broker A,Condo,393894,4,3,2994,586 Main St,CA,586 Main St,County A,City C,District A,Main St,Property 586,"586 Main St, City A, CA",38.309120409931246,-121.87593013001863
+Broker C,Condo,664749,4,3,4505,587 Main St,FL,587 Main St,County C,City B,District A,Main St,Property 587,"587 Main St, City A, CA",38.598701749920544,-121.92224618411713
+Broker A,Townhouse,567016,2,2,4063,588 Main St,NY,588 Main St,County A,City B,District B,Main St,Property 588,"588 Main St, City A, CA",37.87804676087836,-122.28461421508256
+Broker C,Townhouse,178222,3,1,1422,589 Main St,FL,589 Main St,County A,City B,District B,Oak Ave,Property 589,"589 Main St, City A, CA",38.71792070964574,-121.92332452149947
+Broker B,Single Family,736308,3,4,4732,590 Main St,WA,590 Main St,County A,City C,District B,Oak Ave,Property 590,"590 Main St, City A, CA",38.569972881181165,-122.25029609957934
+Broker C,Single Family,910658,4,3,4962,591 Main St,WA,591 Main St,County C,City B,District C,Pine Blvd,Property 591,"591 Main St, City A, CA",37.956150255551556,-122.29326421370423
+Broker C,Condo,893153,4,4,3459,592 Main St,NY,592 Main St,County B,City A,District C,Main St,Property 592,"592 Main St, City A, CA",38.48690796119816,-121.48675428265882
+Broker B,Townhouse,644897,1,4,683,593 Main St,TX,593 Main St,County A,City A,District C,Pine Blvd,Property 593,"593 Main St, City A, CA",38.15985872263756,-121.8144499868523
+Broker C,Townhouse,754801,3,3,3858,594 Main St,WA,594 Main St,County C,City A,District C,Pine Blvd,Property 594,"594 Main St, City A, CA",38.17719467807632,-121.7599099418754
+Broker A,Townhouse,303981,2,2,1898,595 Main St,CA,595 Main St,County A,City C,District B,Main St,Property 595,"595 Main St, City A, CA",38.55819009243887,-122.01760632966663
+Broker A,Condo,204211,3,4,3296,596 Main St,NY,596 Main St,County C,City A,District C,Oak Ave,Property 596,"596 Main St, City A, CA",38.737684807980735,-121.51041910808513
+Broker C,Single Family,286321,1,2,1036,597 Main St,FL,597 Main St,County A,City C,District C,Oak Ave,Property 597,"597 Main St, City A, CA",37.9015558728472,-121.78146951042034
+Broker A,Condo,542111,4,3,1773,598 Main St,FL,598 Main St,County C,City C,District C,Main St,Property 598,"598 Main St, City A, CA",38.195530236878824,-121.6502301304764
+Broker C,Single Family,587689,4,1,3467,599 Main St,CA,599 Main St,County A,City A,District C,Main St,Property 599,"599 Main St, City A, CA",38.2558416080843,-122.05083753097229
+Broker A,Single Family,960952,1,1,3549,600 Main St,WA,600 Main St,County B,City B,District A,Oak Ave,Property 600,"600 Main St, City A, CA",38.151211816955,-121.45938811918087
+Broker A,Condo,556956,2,4,1596,601 Main St,NY,601 Main St,County A,City C,District B,Main St,Property 601,"601 Main St, City A, CA",38.13808912371623,-121.59893870984168
+Broker C,Single Family,950741,4,3,1805,602 Main St,CA,602 Main St,County C,City A,District B,Main St,Property 602,"602 Main St, City A, CA",37.8271686675616,-121.56545153698545
+Broker A,Single Family,129984,5,2,1415,603 Main St,WA,603 Main St,County A,City C,District C,Main St,Property 603,"603 Main St, City A, CA",38.46043862056263,-122.24720573257424
+Broker C,Townhouse,743235,4,4,3581,604 Main St,NY,604 Main St,County B,City B,District A,Oak Ave,Property 604,"604 Main St, City A, CA",38.21111441712005,-122.14843679212878
+Broker A,Single Family,829182,5,3,4747,605 Main St,FL,605 Main St,County A,City B,District B,Pine Blvd,Property 605,"605 Main St, City A, CA",37.96969380264393,-122.13377340031641
+Broker A,Condo,105901,1,3,1528,606 Main St,NY,606 Main St,County C,City A,District B,Pine Blvd,Property 606,"606 Main St, City A, CA",38.59093350230207,-122.14849077675312
+Broker B,Condo,262624,1,2,2477,607 Main St,TX,607 Main St,County C,City C,District C,Main St,Property 607,"607 Main St, City A, CA",38.57746074815163,-121.56399183789571
+Broker B,Single Family,322317,4,4,3854,608 Main St,NY,608 Main St,County B,City C,District C,Oak Ave,Property 608,"608 Main St, City A, CA",38.2612916280889,-122.3875152047914
+Broker C,Townhouse,393199,3,3,3011,609 Main St,TX,609 Main St,County C,City C,District B,Main St,Property 609,"609 Main St, City A, CA",38.073350661147764,-122.34330001101922
+Broker B,Townhouse,793045,5,3,770,610 Main St,NY,610 Main St,County A,City C,District B,Oak Ave,Property 610,"610 Main St, City A, CA",38.41299272579646,-122.14548512937009
+Broker C,Single Family,245788,2,3,1686,611 Main St,TX,611 Main St,County A,City A,District A,Main St,Property 611,"611 Main St, City A, CA",38.063052135777404,-122.21952702535056
+Broker B,Single Family,738387,4,2,4700,612 Main St,FL,612 Main St,County A,City B,District B,Oak Ave,Property 612,"612 Main St, City A, CA",38.01090793032371,-122.18754038611715
+Broker A,Condo,635426,2,4,4264,613 Main St,WA,613 Main St,County C,City A,District B,Oak Ave,Property 613,"613 Main St, City A, CA",38.50541465402633,-121.6214568107467
+Broker C,Single Family,790658,4,4,2898,614 Main St,TX,614 Main St,County A,City C,District C,Pine Blvd,Property 614,"614 Main St, City A, CA",37.81522523972095,-121.85627340610795
+Broker C,Townhouse,123429,3,4,4735,615 Main St,TX,615 Main St,County A,City C,District B,Main St,Property 615,"615 Main St, City A, CA",37.86966847103459,-122.41362933870703
+Broker A,Single Family,674488,3,4,4682,616 Main St,FL,616 Main St,County A,City B,District C,Pine Blvd,Property 616,"616 Main St, City A, CA",37.78168817402359,-121.9900772342958
+Broker C,Condo,302380,3,1,2211,617 Main St,TX,617 Main St,County B,City C,District B,Pine Blvd,Property 617,"617 Main St, City A, CA",37.92784318647543,-122.01151507314964
+Broker C,Condo,541460,3,1,2730,618 Main St,CA,618 Main St,County C,City A,District B,Oak Ave,Property 618,"618 Main St, City A, CA",37.84389000871046,-122.30545473055545
+Broker B,Condo,872577,1,4,628,619 Main St,FL,619 Main St,County C,City A,District B,Main St,Property 619,"619 Main St, City A, CA",38.77070236777992,-121.74325821139854
+Broker C,Condo,345127,1,2,1769,620 Main St,CA,620 Main St,County C,City B,District A,Oak Ave,Property 620,"620 Main St, City A, CA",38.06370996995409,-121.7173028116205
+Broker A,Condo,987700,5,1,4172,621 Main St,FL,621 Main St,County B,City A,District C,Oak Ave,Property 621,"621 Main St, City A, CA",37.92416801266925,-121.6985067809479
+Broker B,Single Family,860801,2,3,2101,622 Main St,TX,622 Main St,County C,City A,District A,Oak Ave,Property 622,"622 Main St, City A, CA",38.01589625799592,-121.6909290544414
+Broker B,Single Family,117347,4,1,4470,623 Main St,CA,623 Main St,County B,City A,District B,Main St,Property 623,"623 Main St, City A, CA",38.711025571540134,-122.4193471730677
+Broker A,Single Family,772280,4,3,4744,624 Main St,TX,624 Main St,County B,City A,District A,Main St,Property 624,"624 Main St, City A, CA",38.2950602230244,-121.46547919615327
+Broker A,Single Family,656110,1,4,1127,625 Main St,FL,625 Main St,County C,City C,District C,Oak Ave,Property 625,"625 Main St, City A, CA",38.13971809630786,-121.60519123294533
+Broker B,Condo,664396,4,1,4297,626 Main St,TX,626 Main St,County A,City A,District B,Main St,Property 626,"626 Main St, City A, CA",38.648291457909224,-121.51541830341071
+Broker C,Townhouse,582315,1,2,2544,627 Main St,CA,627 Main St,County A,City B,District A,Oak Ave,Property 627,"627 Main St, City A, CA",38.16989027054903,-122.40375670469257
+Broker B,Single Family,107967,5,1,4052,628 Main St,CA,628 Main St,County C,City B,District A,Main St,Property 628,"628 Main St, City A, CA",38.109908569957696,-121.48554120421426
+Broker A,Townhouse,997151,2,1,2841,629 Main St,TX,629 Main St,County C,City A,District C,Main St,Property 629,"629 Main St, City A, CA",37.982182522549735,-121.6096114713119
+Broker B,Single Family,636159,5,1,3714,630 Main St,NY,630 Main St,County B,City B,District A,Pine Blvd,Property 630,"630 Main St, City A, CA",38.152696823909416,-121.5821808570413
+Broker A,Single Family,325371,3,4,749,631 Main St,FL,631 Main St,County C,City A,District C,Oak Ave,Property 631,"631 Main St, City A, CA",38.09158435601693,-122.32611261527802
+Broker B,Townhouse,308524,3,2,3425,632 Main St,FL,632 Main St,County B,City B,District B,Pine Blvd,Property 632,"632 Main St, City A, CA",38.452203959298146,-121.6806219710814
+Broker C,Condo,829630,3,1,1474,633 Main St,TX,633 Main St,County C,City B,District B,Pine Blvd,Property 633,"633 Main St, City A, CA",38.06448270467073,-121.45948331035791
+Broker B,Single Family,264685,5,2,1825,634 Main St,NY,634 Main St,County A,City A,District A,Oak Ave,Property 634,"634 Main St, City A, CA",38.35209974642257,-121.74085265858183
+Broker B,Single Family,652467,4,4,1483,635 Main St,CA,635 Main St,County A,City A,District B,Oak Ave,Property 635,"635 Main St, City A, CA",37.84079216503198,-121.84883859537538
+Broker A,Single Family,351537,2,3,1388,636 Main St,WA,636 Main St,County C,City C,District B,Main St,Property 636,"636 Main St, City A, CA",37.966189156696515,-121.473770322251
+Broker A,Townhouse,807548,3,1,3437,637 Main St,WA,637 Main St,County B,City A,District A,Oak Ave,Property 637,"637 Main St, City A, CA",38.18230527161135,-121.97646287826556
+Broker A,Condo,941531,3,2,2617,638 Main St,TX,638 Main St,County A,City A,District B,Pine Blvd,Property 638,"638 Main St, City A, CA",38.711849253908696,-121.82010643368952
+Broker B,Townhouse,659550,3,2,3172,639 Main St,NY,639 Main St,County B,City C,District A,Pine Blvd,Property 639,"639 Main St, City A, CA",38.1521519857157,-121.94306170650563
+Broker C,Townhouse,964645,2,4,1826,640 Main St,NY,640 Main St,County C,City A,District C,Oak Ave,Property 640,"640 Main St, City A, CA",38.438974121199834,-121.4865537786397
+Broker A,Condo,479551,3,1,970,641 Main St,FL,641 Main St,County C,City A,District C,Pine Blvd,Property 641,"641 Main St, City A, CA",38.0299872224214,-122.3433152732345
+Broker A,Townhouse,571082,2,3,2487,642 Main St,CA,642 Main St,County A,City C,District C,Main St,Property 642,"642 Main St, City A, CA",37.90193357597323,-121.91828029917465
+Broker B,Condo,972701,3,2,590,643 Main St,NY,643 Main St,County C,City A,District A,Pine Blvd,Property 643,"643 Main St, City A, CA",37.833436600080056,-121.73244755861455
+Broker A,Single Family,160545,5,1,1029,644 Main St,WA,644 Main St,County A,City A,District A,Main St,Property 644,"644 Main St, City A, CA",38.08031349854275,-121.62749346157776
+Broker C,Condo,334555,5,3,4559,645 Main St,CA,645 Main St,County B,City C,District B,Pine Blvd,Property 645,"645 Main St, City A, CA",37.93256102679691,-121.83638135255586
+Broker C,Single Family,323894,2,2,3273,646 Main St,CA,646 Main St,County A,City C,District B,Main St,Property 646,"646 Main St, City A, CA",37.94891044801613,-121.51048225587854
+Broker A,Townhouse,827506,5,2,2186,647 Main St,TX,647 Main St,County A,City B,District B,Main St,Property 647,"647 Main St, City A, CA",38.535659308386954,-121.47740855311612
+Broker A,Townhouse,402066,2,3,691,648 Main St,NY,648 Main St,County B,City A,District B,Oak Ave,Property 648,"648 Main St, City A, CA",37.790738070944876,-122.35508077680642
+Broker B,Single Family,667201,5,3,2486,649 Main St,TX,649 Main St,County A,City B,District B,Main St,Property 649,"649 Main St, City A, CA",38.33271012573544,-122.01702946045862
+Broker C,Townhouse,459177,5,4,4123,650 Main St,NY,650 Main St,County A,City B,District A,Oak Ave,Property 650,"650 Main St, City A, CA",38.154361380593464,-122.39594097827884
+Broker C,Condo,466936,2,1,2685,651 Main St,FL,651 Main St,County C,City C,District A,Pine Blvd,Property 651,"651 Main St, City A, CA",38.28144999990855,-122.08998334262556
+Broker A,Single Family,350497,4,1,4940,652 Main St,TX,652 Main St,County B,City A,District C,Pine Blvd,Property 652,"652 Main St, City A, CA",38.33773023721461,-121.88253178202939
+Broker B,Townhouse,543057,5,4,1508,653 Main St,TX,653 Main St,County A,City A,District C,Pine Blvd,Property 653,"653 Main St, City A, CA",38.08826769445728,-121.50860506949005
+Broker C,Single Family,801692,3,2,4283,654 Main St,WA,654 Main St,County B,City C,District C,Main St,Property 654,"654 Main St, City A, CA",38.07000886018429,-121.57284567753459
+Broker C,Condo,585278,4,3,4798,655 Main St,TX,655 Main St,County B,City B,District C,Pine Blvd,Property 655,"655 Main St, City A, CA",38.508301849334906,-122.29190027332801
+Broker B,Condo,256104,2,3,4787,656 Main St,NY,656 Main St,County A,City C,District A,Pine Blvd,Property 656,"656 Main St, City A, CA",38.64617698812116,-122.3263696252591
+Broker B,Townhouse,793206,4,3,2552,657 Main St,WA,657 Main St,County C,City A,District A,Oak Ave,Property 657,"657 Main St, City A, CA",37.96748163245853,-121.83013266124333
+Broker C,Condo,814834,1,2,3808,658 Main St,TX,658 Main St,County B,City C,District A,Oak Ave,Property 658,"658 Main St, City A, CA",37.87251876053515,-121.88728202754122
+Broker C,Single Family,144936,1,3,2216,659 Main St,TX,659 Main St,County A,City A,District B,Pine Blvd,Property 659,"659 Main St, City A, CA",38.67269580639203,-122.15302235856997
+Broker B,Condo,785154,5,3,810,660 Main St,FL,660 Main St,County B,City B,District B,Pine Blvd,Property 660,"660 Main St, City A, CA",38.1247954636474,-121.51994691544616
+Broker C,Single Family,816948,5,4,1760,661 Main St,TX,661 Main St,County C,City A,District C,Main St,Property 661,"661 Main St, City A, CA",38.32621739066282,-121.49203359053844
+Broker A,Single Family,302056,3,2,4432,662 Main St,CA,662 Main St,County C,City B,District B,Main St,Property 662,"662 Main St, City A, CA",38.134443144520006,-122.01678856165984
+Broker A,Condo,325469,4,1,3768,663 Main St,WA,663 Main St,County C,City B,District A,Pine Blvd,Property 663,"663 Main St, City A, CA",37.90070233634605,-121.52909744288648
+Broker B,Townhouse,128141,1,4,1084,664 Main St,CA,664 Main St,County A,City A,District C,Oak Ave,Property 664,"664 Main St, City A, CA",38.36423164494773,-122.03545110573702
+Broker B,Condo,237478,5,4,3299,665 Main St,WA,665 Main St,County A,City A,District C,Pine Blvd,Property 665,"665 Main St, City A, CA",38.30004085176963,-121.6825831681703
+Broker B,Single Family,197359,4,1,859,666 Main St,FL,666 Main St,County C,City B,District B,Main St,Property 666,"666 Main St, City A, CA",37.9778935591912,-121.94345778245227
+Broker A,Single Family,254363,5,4,3366,667 Main St,TX,667 Main St,County A,City C,District C,Oak Ave,Property 667,"667 Main St, City A, CA",38.22676904465228,-122.2968168434928
+Broker C,Condo,665856,5,2,2511,668 Main St,TX,668 Main St,County C,City A,District B,Oak Ave,Property 668,"668 Main St, City A, CA",38.57184750401565,-121.49146579876297
+Broker A,Townhouse,721827,1,3,4506,669 Main St,TX,669 Main St,County A,City B,District B,Main St,Property 669,"669 Main St, City A, CA",38.3653261031079,-121.96530340662245
+Broker C,Townhouse,671139,1,2,2125,670 Main St,WA,670 Main St,County C,City B,District C,Pine Blvd,Property 670,"670 Main St, City A, CA",37.871817327067,-121.68491295967759
+Broker A,Single Family,593158,5,1,3264,671 Main St,TX,671 Main St,County B,City C,District B,Pine Blvd,Property 671,"671 Main St, City A, CA",38.32292149722914,-122.0522261855687
+Broker C,Single Family,679111,2,1,1390,672 Main St,CA,672 Main St,County C,City A,District B,Pine Blvd,Property 672,"672 Main St, City A, CA",38.47763829928959,-122.40051912142376
+Broker A,Townhouse,123312,5,4,1231,673 Main St,TX,673 Main St,County C,City B,District B,Main St,Property 673,"673 Main St, City A, CA",38.56760340578075,-122.31886964130815
+Broker B,Condo,527387,5,2,4461,674 Main St,FL,674 Main St,County A,City C,District B,Oak Ave,Property 674,"674 Main St, City A, CA",38.40401757863427,-121.92318052051007
+Broker A,Single Family,534995,3,2,3004,675 Main St,CA,675 Main St,County A,City B,District C,Main St,Property 675,"675 Main St, City A, CA",37.927558164540784,-121.72943564287364
+Broker C,Single Family,824188,3,1,1114,676 Main St,TX,676 Main St,County A,City A,District A,Pine Blvd,Property 676,"676 Main St, City A, CA",38.48507326659016,-122.08466467342072
+Broker A,Townhouse,600531,3,2,4306,677 Main St,TX,677 Main St,County A,City C,District A,Main St,Property 677,"677 Main St, City A, CA",38.45224184608152,-121.72391154082234
+Broker A,Condo,985155,2,1,2219,678 Main St,NY,678 Main St,County A,City B,District B,Oak Ave,Property 678,"678 Main St, City A, CA",37.79932688294063,-121.72076441056804
+Broker A,Townhouse,898843,2,2,2087,679 Main St,WA,679 Main St,County A,City C,District B,Main St,Property 679,"679 Main St, City A, CA",38.18664766759024,-121.71546409267216
+Broker B,Condo,596037,5,2,2111,680 Main St,CA,680 Main St,County B,City A,District B,Pine Blvd,Property 680,"680 Main St, City A, CA",38.10785024696238,-121.92687814597949
+Broker A,Condo,349062,3,2,1396,681 Main St,NY,681 Main St,County C,City C,District A,Oak Ave,Property 681,"681 Main St, City A, CA",38.444312064253644,-121.50451384987849
+Broker B,Condo,943441,2,1,777,682 Main St,FL,682 Main St,County C,City A,District B,Main St,Property 682,"682 Main St, City A, CA",37.991035812310926,-121.93020348201938
+Broker B,Single Family,508638,1,4,2136,683 Main St,WA,683 Main St,County C,City B,District C,Main St,Property 683,"683 Main St, City A, CA",38.36577192297426,-121.96913480650336
+Broker A,Townhouse,535684,5,2,2658,684 Main St,CA,684 Main St,County B,City A,District C,Oak Ave,Property 684,"684 Main St, City A, CA",38.68810596181417,-122.22001918098937
+Broker A,Townhouse,656659,4,1,2932,685 Main St,TX,685 Main St,County C,City B,District C,Oak Ave,Property 685,"685 Main St, City A, CA",38.57270237220861,-122.11174491264366
+Broker A,Condo,157022,5,1,4404,686 Main St,CA,686 Main St,County B,City B,District A,Pine Blvd,Property 686,"686 Main St, City A, CA",38.696357736216534,-122.37706550748169
+Broker C,Single Family,433373,4,2,3762,687 Main St,TX,687 Main St,County B,City A,District B,Oak Ave,Property 687,"687 Main St, City A, CA",38.75340596693269,-121.78586470638382
+Broker A,Single Family,199071,3,2,1949,688 Main St,WA,688 Main St,County B,City B,District B,Pine Blvd,Property 688,"688 Main St, City A, CA",37.78557012700617,-122.1708642560729
+Broker B,Townhouse,282268,4,4,1732,689 Main St,TX,689 Main St,County C,City C,District B,Main St,Property 689,"689 Main St, City A, CA",38.39764127637748,-122.11524474551453
+Broker A,Single Family,458918,3,1,4617,690 Main St,FL,690 Main St,County B,City B,District A,Pine Blvd,Property 690,"690 Main St, City A, CA",38.18773939775891,-121.64858547833568
+Broker C,Single Family,589626,1,1,1177,691 Main St,TX,691 Main St,County C,City A,District A,Main St,Property 691,"691 Main St, City A, CA",38.634754490335126,-122.09217881683854
+Broker A,Condo,388859,4,3,3158,692 Main St,FL,692 Main St,County C,City C,District A,Oak Ave,Property 692,"692 Main St, City A, CA",38.02671470200914,-122.17720410798685
+Broker C,Single Family,914037,5,1,2528,693 Main St,WA,693 Main St,County A,City C,District A,Main St,Property 693,"693 Main St, City A, CA",38.755929489115076,-122.2503422508663
+Broker C,Condo,724141,3,4,4258,694 Main St,WA,694 Main St,County A,City B,District C,Oak Ave,Property 694,"694 Main St, City A, CA",38.38860796954375,-121.64454159781803
+Broker A,Townhouse,655462,5,3,2537,695 Main St,CA,695 Main St,County B,City B,District A,Main St,Property 695,"695 Main St, City A, CA",38.56843740222883,-122.28969374200997
+Broker B,Single Family,597660,2,3,3149,696 Main St,FL,696 Main St,County B,City A,District A,Main St,Property 696,"696 Main St, City A, CA",37.86049955282277,-121.96564623974965
+Broker C,Townhouse,176373,3,3,1156,697 Main St,FL,697 Main St,County C,City C,District A,Main St,Property 697,"697 Main St, City A, CA",37.95835788475887,-121.9124698839228
+Broker A,Townhouse,955684,4,2,665,698 Main St,NY,698 Main St,County B,City A,District B,Main St,Property 698,"698 Main St, City A, CA",38.533303673034204,-121.73201008731428
+Broker A,Single Family,293021,3,2,1089,699 Main St,NY,699 Main St,County B,City B,District B,Pine Blvd,Property 699,"699 Main St, City A, CA",37.79688652203932,-121.786116517667
+Broker B,Single Family,293718,5,1,3321,700 Main St,NY,700 Main St,County C,City C,District B,Main St,Property 700,"700 Main St, City A, CA",38.591777985893785,-121.60867932705482
+Broker C,Townhouse,694305,1,3,4758,701 Main St,TX,701 Main St,County B,City A,District C,Pine Blvd,Property 701,"701 Main St, City A, CA",37.78884901869191,-122.37464856607376
+Broker C,Single Family,163037,3,4,1762,702 Main St,NY,702 Main St,County B,City A,District C,Oak Ave,Property 702,"702 Main St, City A, CA",38.43201883906128,-122.1229592752206
+Broker A,Condo,714106,4,2,571,703 Main St,FL,703 Main St,County C,City A,District A,Oak Ave,Property 703,"703 Main St, City A, CA",38.13999392023181,-122.13926588122462
+Broker A,Condo,630836,2,4,4016,704 Main St,TX,704 Main St,County C,City A,District B,Pine Blvd,Property 704,"704 Main St, City A, CA",38.3863948527192,-122.27338309440789
+Broker B,Single Family,741269,1,4,4080,705 Main St,WA,705 Main St,County A,City A,District C,Oak Ave,Property 705,"705 Main St, City A, CA",38.470931406989116,-122.13022174614355
+Broker B,Townhouse,334213,2,2,768,706 Main St,CA,706 Main St,County C,City C,District B,Oak Ave,Property 706,"706 Main St, City A, CA",38.11737521918631,-122.10963468585709
+Broker C,Single Family,304366,3,2,2276,707 Main St,NY,707 Main St,County A,City A,District C,Main St,Property 707,"707 Main St, City A, CA",37.882862448110835,-121.89751553807251
+Broker C,Single Family,602420,5,2,2962,708 Main St,WA,708 Main St,County B,City C,District C,Main St,Property 708,"708 Main St, City A, CA",37.844545867748266,-121.75569552107373
+Broker A,Townhouse,254249,5,2,1768,709 Main St,FL,709 Main St,County C,City A,District A,Main St,Property 709,"709 Main St, City A, CA",38.36383602256255,-122.03829948638818
+Broker C,Townhouse,386166,4,3,1515,710 Main St,CA,710 Main St,County C,City B,District A,Pine Blvd,Property 710,"710 Main St, City A, CA",38.295555353734116,-121.69992976868662
+Broker B,Condo,730585,5,3,3222,711 Main St,WA,711 Main St,County C,City B,District C,Pine Blvd,Property 711,"711 Main St, City A, CA",38.517101009121134,-122.08323466142042
+Broker B,Townhouse,760902,1,3,1583,712 Main St,CA,712 Main St,County B,City A,District A,Oak Ave,Property 712,"712 Main St, City A, CA",38.28463551000394,-122.12911632268523
+Broker A,Condo,322084,5,3,4601,713 Main St,NY,713 Main St,County A,City B,District C,Main St,Property 713,"713 Main St, City A, CA",38.19734579003088,-121.87821194414298
+Broker B,Townhouse,589536,4,1,906,714 Main St,FL,714 Main St,County B,City C,District C,Pine Blvd,Property 714,"714 Main St, City A, CA",38.172987178236234,-122.39568363969421
+Broker B,Single Family,160428,3,3,3576,715 Main St,CA,715 Main St,County B,City A,District B,Pine Blvd,Property 715,"715 Main St, City A, CA",37.80134690259767,-122.339610876366
+Broker B,Condo,778100,3,2,1485,716 Main St,WA,716 Main St,County C,City C,District A,Main St,Property 716,"716 Main St, City A, CA",38.11045720169666,-122.00143045641347
+Broker B,Condo,421497,5,4,4103,717 Main St,NY,717 Main St,County A,City A,District A,Pine Blvd,Property 717,"717 Main St, City A, CA",38.7509201575245,-121.47648728860824
+Broker A,Condo,737420,2,3,4985,718 Main St,NY,718 Main St,County B,City B,District A,Main St,Property 718,"718 Main St, City A, CA",38.64845557622709,-121.69788822015657
+Broker A,Single Family,287604,3,1,1209,719 Main St,WA,719 Main St,County C,City C,District B,Oak Ave,Property 719,"719 Main St, City A, CA",38.10427806703422,-122.33127343049944
+Broker C,Single Family,640340,5,2,3118,720 Main St,WA,720 Main St,County B,City B,District B,Oak Ave,Property 720,"720 Main St, City A, CA",38.362695405066376,-121.57308198721913
+Broker B,Single Family,200689,4,4,1911,721 Main St,CA,721 Main St,County B,City B,District B,Oak Ave,Property 721,"721 Main St, City A, CA",38.6221967455355,-121.68709922939182
+Broker C,Single Family,802436,5,4,1985,722 Main St,TX,722 Main St,County C,City A,District A,Main St,Property 722,"722 Main St, City A, CA",38.21617433675007,-121.80845347429734
+Broker A,Single Family,546636,3,3,3450,723 Main St,NY,723 Main St,County C,City C,District A,Pine Blvd,Property 723,"723 Main St, City A, CA",37.79285786375015,-121.59910703939082
+Broker A,Condo,756031,4,4,3434,724 Main St,CA,724 Main St,County A,City B,District A,Oak Ave,Property 724,"724 Main St, City A, CA",37.84941046181864,-122.01529015225704
+Broker A,Single Family,362307,5,3,4614,725 Main St,WA,725 Main St,County B,City A,District B,Oak Ave,Property 725,"725 Main St, City A, CA",38.28529272134871,-122.19789894914614
+Broker A,Condo,403568,1,3,1503,726 Main St,CA,726 Main St,County C,City A,District B,Oak Ave,Property 726,"726 Main St, City A, CA",38.74433937567588,-121.90737661089123
+Broker A,Single Family,602754,4,2,2966,727 Main St,WA,727 Main St,County C,City A,District C,Pine Blvd,Property 727,"727 Main St, City A, CA",38.46810954221887,-121.87055824440652
+Broker A,Townhouse,563547,1,2,2966,728 Main St,FL,728 Main St,County A,City B,District B,Pine Blvd,Property 728,"728 Main St, City A, CA",37.84581619143857,-121.88107362799009
+Broker A,Condo,503850,2,1,2438,729 Main St,WA,729 Main St,County A,City A,District C,Main St,Property 729,"729 Main St, City A, CA",37.964260875791865,-121.8543262085199
+Broker B,Townhouse,235870,4,2,2439,730 Main St,WA,730 Main St,County C,City C,District A,Oak Ave,Property 730,"730 Main St, City A, CA",38.54622314321685,-121.47069508176081
+Broker C,Condo,384564,1,2,2135,731 Main St,WA,731 Main St,County A,City C,District B,Pine Blvd,Property 731,"731 Main St, City A, CA",38.61633975995625,-121.51715437690376
+Broker A,Townhouse,610259,3,3,2198,732 Main St,TX,732 Main St,County C,City B,District A,Main St,Property 732,"732 Main St, City A, CA",38.392594586188594,-121.54368296344106
+Broker B,Single Family,744863,3,2,2591,733 Main St,WA,733 Main St,County B,City C,District A,Oak Ave,Property 733,"733 Main St, City A, CA",38.41932316962982,-121.61798318909136
+Broker B,Single Family,882518,2,3,2395,734 Main St,NY,734 Main St,County A,City A,District A,Pine Blvd,Property 734,"734 Main St, City A, CA",37.803237450383385,-121.4759718927347
+Broker C,Single Family,391444,4,3,4740,735 Main St,NY,735 Main St,County B,City B,District A,Pine Blvd,Property 735,"735 Main St, City A, CA",38.60343025958151,-122.32090535832059
+Broker A,Condo,976313,4,2,3898,736 Main St,CA,736 Main St,County B,City A,District B,Main St,Property 736,"736 Main St, City A, CA",38.56317520817083,-122.15427673855426
+Broker C,Townhouse,110749,4,1,1573,737 Main St,TX,737 Main St,County B,City B,District A,Oak Ave,Property 737,"737 Main St, City A, CA",38.03393514410335,-121.92434405434541
+Broker A,Single Family,728419,2,1,2902,738 Main St,CA,738 Main St,County C,City B,District C,Oak Ave,Property 738,"738 Main St, City A, CA",38.48357671996551,-121.5728655068766
+Broker B,Townhouse,780481,4,4,3712,739 Main St,NY,739 Main St,County B,City A,District B,Pine Blvd,Property 739,"739 Main St, City A, CA",37.989754606425,-121.91423428847726
+Broker B,Townhouse,399631,3,4,4537,740 Main St,NY,740 Main St,County B,City C,District A,Oak Ave,Property 740,"740 Main St, City A, CA",37.81523016105152,-121.6713652606584
+Broker B,Single Family,325019,1,2,1651,741 Main St,FL,741 Main St,County B,City C,District B,Main St,Property 741,"741 Main St, City A, CA",37.97603654259038,-122.28044009475109
+Broker B,Single Family,526577,3,1,2945,742 Main St,WA,742 Main St,County C,City B,District C,Pine Blvd,Property 742,"742 Main St, City A, CA",37.953528876754305,-122.16698618702344
+Broker C,Townhouse,907655,3,3,2456,743 Main St,NY,743 Main St,County B,City A,District A,Pine Blvd,Property 743,"743 Main St, City A, CA",38.11264799673485,-121.68762390496232
+Broker A,Single Family,697218,1,4,4407,744 Main St,CA,744 Main St,County B,City A,District C,Main St,Property 744,"744 Main St, City A, CA",38.19334949717546,-122.25466599111228
+Broker A,Single Family,769416,3,3,1307,745 Main St,CA,745 Main St,County A,City B,District A,Pine Blvd,Property 745,"745 Main St, City A, CA",38.28343889149771,-122.06804406534506
+Broker C,Single Family,390524,2,4,686,746 Main St,WA,746 Main St,County C,City C,District C,Oak Ave,Property 746,"746 Main St, City A, CA",38.25165387550833,-122.15453374218643
+Broker A,Condo,912467,1,2,1807,747 Main St,WA,747 Main St,County B,City A,District A,Oak Ave,Property 747,"747 Main St, City A, CA",38.04557460596529,-122.06953830577751
+Broker B,Townhouse,917052,3,1,2784,748 Main St,FL,748 Main St,County A,City C,District B,Pine Blvd,Property 748,"748 Main St, City A, CA",37.80407066857408,-121.71107595092202
+Broker A,Townhouse,356553,5,4,1257,749 Main St,TX,749 Main St,County C,City C,District A,Main St,Property 749,"749 Main St, City A, CA",38.38000162223715,-122.05155281885719
+Broker B,Condo,548532,3,1,4731,750 Main St,CA,750 Main St,County C,City B,District B,Main St,Property 750,"750 Main St, City A, CA",38.170644829847355,-121.86413667739205
+Broker C,Townhouse,819401,2,3,4354,751 Main St,WA,751 Main St,County C,City B,District A,Oak Ave,Property 751,"751 Main St, City A, CA",38.07357215738755,-122.31946812294558
+Broker A,Single Family,479504,4,2,4766,752 Main St,CA,752 Main St,County C,City C,District A,Main St,Property 752,"752 Main St, City A, CA",38.641841042830514,-121.61438230676536
+Broker C,Townhouse,153352,3,1,2706,753 Main St,WA,753 Main St,County C,City A,District C,Pine Blvd,Property 753,"753 Main St, City A, CA",38.521643307798165,-122.04951137435187
+Broker A,Single Family,524127,4,2,4058,754 Main St,NY,754 Main St,County C,City A,District C,Pine Blvd,Property 754,"754 Main St, City A, CA",38.632665548372444,-121.77086584096665
+Broker B,Condo,263856,5,1,2080,755 Main St,CA,755 Main St,County B,City B,District C,Oak Ave,Property 755,"755 Main St, City A, CA",38.269882794712466,-121.69401039833816
+Broker C,Single Family,103191,3,3,1461,756 Main St,NY,756 Main St,County B,City C,District A,Oak Ave,Property 756,"756 Main St, City A, CA",37.90583125212678,-122.2097390778883
+Broker A,Townhouse,976968,1,3,4347,757 Main St,CA,757 Main St,County B,City A,District A,Oak Ave,Property 757,"757 Main St, City A, CA",38.47112143612127,-121.53472501504665
+Broker B,Townhouse,728864,4,2,4075,758 Main St,TX,758 Main St,County B,City A,District A,Main St,Property 758,"758 Main St, City A, CA",37.98097377993718,-121.80317574839304
+Broker C,Townhouse,295713,5,3,1375,759 Main St,FL,759 Main St,County A,City B,District B,Pine Blvd,Property 759,"759 Main St, City A, CA",38.21612966909172,-121.99067485824851
+Broker C,Condo,542939,1,4,2918,760 Main St,NY,760 Main St,County B,City C,District B,Pine Blvd,Property 760,"760 Main St, City A, CA",37.83990078894889,-122.23706481642178
+Broker A,Condo,103631,1,1,4698,761 Main St,WA,761 Main St,County C,City A,District A,Pine Blvd,Property 761,"761 Main St, City A, CA",38.600208402422986,-121.47709906209879
+Broker A,Townhouse,237244,1,3,1501,762 Main St,TX,762 Main St,County B,City B,District C,Oak Ave,Property 762,"762 Main St, City A, CA",37.9008406410475,-121.66433179586836
+Broker A,Single Family,404224,1,4,3884,763 Main St,CA,763 Main St,County B,City A,District C,Pine Blvd,Property 763,"763 Main St, City A, CA",38.67799750704931,-122.21137543726675
+Broker B,Condo,320169,3,2,4566,764 Main St,NY,764 Main St,County C,City A,District C,Main St,Property 764,"764 Main St, City A, CA",38.63913060226156,-122.08168922527577
+Broker A,Townhouse,714641,3,4,3345,765 Main St,CA,765 Main St,County B,City A,District A,Main St,Property 765,"765 Main St, City A, CA",38.239482764439245,-121.60972574191192
+Broker C,Townhouse,513497,3,2,1981,766 Main St,CA,766 Main St,County B,City B,District C,Pine Blvd,Property 766,"766 Main St, City A, CA",38.51926820430399,-121.72372233678466
+Broker C,Condo,652959,5,2,3801,767 Main St,CA,767 Main St,County B,City C,District A,Oak Ave,Property 767,"767 Main St, City A, CA",38.39434507381816,-121.65361570728427
+Broker A,Condo,747099,5,1,1157,768 Main St,FL,768 Main St,County A,City B,District B,Pine Blvd,Property 768,"768 Main St, City A, CA",38.57797564233775,-121.97819889778707
+Broker A,Condo,806791,5,1,3280,769 Main St,FL,769 Main St,County B,City C,District C,Main St,Property 769,"769 Main St, City A, CA",38.20670510078592,-121.70292373735784
+Broker C,Single Family,321972,2,4,922,770 Main St,WA,770 Main St,County C,City A,District B,Main St,Property 770,"770 Main St, City A, CA",38.56070848424435,-122.03290627713608
+Broker B,Single Family,877499,5,1,4181,771 Main St,NY,771 Main St,County C,City C,District C,Main St,Property 771,"771 Main St, City A, CA",38.23735681706515,-122.2081370830618
+Broker A,Townhouse,489878,3,1,4766,772 Main St,TX,772 Main St,County B,City A,District A,Pine Blvd,Property 772,"772 Main St, City A, CA",38.715865787842795,-121.78672296515863
+Broker A,Condo,848321,3,1,3210,773 Main St,TX,773 Main St,County B,City A,District A,Main St,Property 773,"773 Main St, City A, CA",38.26127210082515,-121.4433860744012
+Broker C,Single Family,608679,2,4,952,774 Main St,TX,774 Main St,County B,City B,District A,Oak Ave,Property 774,"774 Main St, City A, CA",38.237519271933735,-122.10879902860466
+Broker A,Condo,521818,2,3,2897,775 Main St,CA,775 Main St,County C,City A,District A,Pine Blvd,Property 775,"775 Main St, City A, CA",38.55997186156352,-121.95843040778746
+Broker B,Townhouse,844149,5,1,2475,776 Main St,FL,776 Main St,County C,City B,District C,Pine Blvd,Property 776,"776 Main St, City A, CA",38.59647769176084,-121.74539862893015
+Broker C,Single Family,937831,4,1,2157,777 Main St,NY,777 Main St,County A,City C,District B,Main St,Property 777,"777 Main St, City A, CA",38.329389114321174,-121.87789371787751
+Broker A,Single Family,778832,2,4,3041,778 Main St,CA,778 Main St,County A,City C,District A,Main St,Property 778,"778 Main St, City A, CA",37.95469781349508,-121.57597220429095
+Broker C,Single Family,804590,1,3,3575,779 Main St,FL,779 Main St,County A,City A,District C,Oak Ave,Property 779,"779 Main St, City A, CA",38.24265823095758,-121.65765729353048
+Broker A,Townhouse,107099,3,1,3664,780 Main St,FL,780 Main St,County C,City B,District B,Pine Blvd,Property 780,"780 Main St, City A, CA",38.74297250290968,-122.36110279613764
+Broker A,Condo,873974,1,2,3466,781 Main St,NY,781 Main St,County A,City A,District A,Main St,Property 781,"781 Main St, City A, CA",38.52788619303919,-121.42097876607622
+Broker A,Single Family,518647,3,4,2553,782 Main St,NY,782 Main St,County B,City B,District B,Oak Ave,Property 782,"782 Main St, City A, CA",38.586062603879135,-121.66699754628053
+Broker B,Townhouse,680780,3,1,787,783 Main St,NY,783 Main St,County B,City B,District A,Main St,Property 783,"783 Main St, City A, CA",37.807725498819245,-121.55549668370588
+Broker B,Condo,196722,2,1,3717,784 Main St,CA,784 Main St,County C,City B,District B,Pine Blvd,Property 784,"784 Main St, City A, CA",38.24275946263416,-121.76820228790464
+Broker C,Townhouse,654399,2,2,4354,785 Main St,WA,785 Main St,County A,City C,District B,Main St,Property 785,"785 Main St, City A, CA",38.421521133657556,-121.56311487195323
+Broker A,Condo,163936,1,2,1947,786 Main St,NY,786 Main St,County B,City B,District A,Pine Blvd,Property 786,"786 Main St, City A, CA",38.60493268362808,-122.30701702507129
+Broker A,Townhouse,777974,3,4,1107,787 Main St,WA,787 Main St,County C,City C,District C,Main St,Property 787,"787 Main St, City A, CA",37.824173653582776,-122.07166216444068
+Broker B,Condo,323332,1,4,2264,788 Main St,CA,788 Main St,County A,City B,District B,Pine Blvd,Property 788,"788 Main St, City A, CA",38.627338885641876,-121.54297905639551
+Broker A,Single Family,825836,4,2,1725,789 Main St,WA,789 Main St,County B,City C,District A,Oak Ave,Property 789,"789 Main St, City A, CA",38.323300936741916,-122.2177447887331
+Broker B,Condo,873319,1,4,1735,790 Main St,TX,790 Main St,County A,City C,District B,Pine Blvd,Property 790,"790 Main St, City A, CA",37.972213970576064,-122.34115790141998
+Broker A,Townhouse,423064,5,2,1529,791 Main St,WA,791 Main St,County C,City C,District B,Oak Ave,Property 791,"791 Main St, City A, CA",38.092155216449704,-121.63128106005477
+Broker C,Townhouse,587510,1,1,3171,792 Main St,NY,792 Main St,County A,City A,District C,Pine Blvd,Property 792,"792 Main St, City A, CA",38.05682955175156,-121.5839138443567
+Broker A,Condo,163530,5,2,4462,793 Main St,CA,793 Main St,County C,City B,District B,Oak Ave,Property 793,"793 Main St, City A, CA",38.30575903428848,-122.25674778181009
+Broker A,Single Family,529440,5,2,3677,794 Main St,NY,794 Main St,County A,City A,District B,Main St,Property 794,"794 Main St, City A, CA",37.82658567991113,-121.56505401721728
+Broker B,Single Family,369932,5,3,4222,795 Main St,TX,795 Main St,County B,City B,District A,Pine Blvd,Property 795,"795 Main St, City A, CA",37.93343615849992,-121.73263220440283
+Broker A,Condo,652370,4,2,1975,796 Main St,NY,796 Main St,County C,City B,District A,Main St,Property 796,"796 Main St, City A, CA",38.58759304337578,-121.89931731678341
+Broker A,Condo,713858,1,2,3396,797 Main St,NY,797 Main St,County C,City A,District C,Oak Ave,Property 797,"797 Main St, City A, CA",37.90750399074681,-121.5891498072186
+Broker B,Townhouse,725303,1,3,1308,798 Main St,NY,798 Main St,County C,City C,District B,Pine Blvd,Property 798,"798 Main St, City A, CA",38.00829626945813,-122.00015075068103
+Broker C,Single Family,832176,4,4,1478,799 Main St,FL,799 Main St,County A,City B,District B,Pine Blvd,Property 799,"799 Main St, City A, CA",38.22827060560416,-122.2254060437766
+Broker C,Condo,970020,3,3,2963,800 Main St,TX,800 Main St,County A,City C,District B,Main St,Property 800,"800 Main St, City A, CA",38.292020888113335,-122.13454732338938
+Broker B,Single Family,247603,2,1,1225,801 Main St,NY,801 Main St,County B,City A,District C,Pine Blvd,Property 801,"801 Main St, City A, CA",38.53851047961416,-121.91423598170668
+Broker B,Condo,974772,1,3,3001,802 Main St,NY,802 Main St,County C,City C,District B,Pine Blvd,Property 802,"802 Main St, City A, CA",38.22223242666619,-121.88806920732682
+Broker B,Condo,718727,2,1,3862,803 Main St,NY,803 Main St,County C,City B,District A,Main St,Property 803,"803 Main St, City A, CA",38.56476462103554,-121.61381917355877
+Broker B,Single Family,241214,4,4,1716,804 Main St,CA,804 Main St,County A,City B,District C,Pine Blvd,Property 804,"804 Main St, City A, CA",38.39324630704546,-121.62804727634766
+Broker B,Condo,739341,3,3,4551,805 Main St,FL,805 Main St,County A,City B,District A,Main St,Property 805,"805 Main St, City A, CA",37.887999739423826,-121.83803344279542
+Broker C,Condo,672643,3,3,2697,806 Main St,CA,806 Main St,County B,City A,District A,Main St,Property 806,"806 Main St, City A, CA",37.93123143839284,-121.63861451663452
+Broker C,Townhouse,503082,3,4,3306,807 Main St,FL,807 Main St,County B,City B,District C,Main St,Property 807,"807 Main St, City A, CA",38.211933725449775,-122.22762654170633
+Broker B,Condo,301139,4,1,1278,808 Main St,NY,808 Main St,County A,City A,District A,Main St,Property 808,"808 Main St, City A, CA",38.17178939308904,-122.3693354729067
+Broker A,Condo,858994,5,3,1472,809 Main St,TX,809 Main St,County C,City C,District B,Main St,Property 809,"809 Main St, City A, CA",38.5184442696373,-121.5457661773653
+Broker B,Condo,749714,5,1,3310,810 Main St,WA,810 Main St,County B,City B,District C,Oak Ave,Property 810,"810 Main St, City A, CA",38.35563713979735,-122.34384550623723
+Broker A,Townhouse,688315,2,3,2623,811 Main St,WA,811 Main St,County A,City B,District A,Oak Ave,Property 811,"811 Main St, City A, CA",38.163033081002254,-122.172711570256
+Broker B,Single Family,551122,5,2,1098,812 Main St,NY,812 Main St,County A,City B,District B,Main St,Property 812,"812 Main St, City A, CA",37.94566028345039,-121.72408105037562
+Broker B,Townhouse,259210,5,3,3841,813 Main St,CA,813 Main St,County C,City C,District B,Oak Ave,Property 813,"813 Main St, City A, CA",38.0017371023255,-122.00995206237269
+Broker C,Townhouse,192601,3,4,724,814 Main St,TX,814 Main St,County A,City B,District A,Oak Ave,Property 814,"814 Main St, City A, CA",38.350401018469064,-121.54308603008448
+Broker A,Single Family,129956,3,4,1340,815 Main St,FL,815 Main St,County A,City A,District B,Pine Blvd,Property 815,"815 Main St, City A, CA",38.1983388048998,-122.12142020533773
+Broker A,Townhouse,338340,2,1,2314,816 Main St,NY,816 Main St,County B,City C,District C,Main St,Property 816,"816 Main St, City A, CA",38.289827508860675,-122.40752865333063
+Broker C,Single Family,729085,1,3,1606,817 Main St,TX,817 Main St,County A,City C,District A,Oak Ave,Property 817,"817 Main St, City A, CA",37.94557743530223,-122.11874435943925
+Broker C,Townhouse,569511,2,1,624,818 Main St,TX,818 Main St,County A,City C,District B,Pine Blvd,Property 818,"818 Main St, City A, CA",38.437806252344565,-121.84132495081516
+Broker C,Single Family,760799,2,1,3746,819 Main St,FL,819 Main St,County B,City C,District B,Pine Blvd,Property 819,"819 Main St, City A, CA",38.62743874085597,-122.0434616245967
+Broker C,Condo,928965,4,2,3431,820 Main St,TX,820 Main St,County C,City C,District A,Main St,Property 820,"820 Main St, City A, CA",38.0328395067869,-121.88452724424124
+Broker A,Townhouse,521486,4,2,4625,821 Main St,CA,821 Main St,County C,City A,District A,Main St,Property 821,"821 Main St, City A, CA",38.26641422583183,-121.54280188116498
+Broker A,Townhouse,703103,2,4,3471,822 Main St,CA,822 Main St,County B,City C,District A,Pine Blvd,Property 822,"822 Main St, City A, CA",38.7504273290209,-121.50691494576962
+Broker B,Townhouse,139279,2,1,2517,823 Main St,CA,823 Main St,County B,City B,District A,Main St,Property 823,"823 Main St, City A, CA",38.10814174055073,-122.15342593534588
+Broker B,Townhouse,471931,2,4,2915,824 Main St,TX,824 Main St,County C,City C,District C,Main St,Property 824,"824 Main St, City A, CA",38.36994634492376,-121.9572595267301
+Broker C,Condo,248702,5,3,3596,825 Main St,CA,825 Main St,County C,City C,District A,Pine Blvd,Property 825,"825 Main St, City A, CA",37.86509570020025,-121.87025598475854
+Broker C,Townhouse,161063,4,1,2109,826 Main St,FL,826 Main St,County C,City C,District C,Pine Blvd,Property 826,"826 Main St, City A, CA",38.38091500247945,-121.47028754311175
+Broker C,Condo,873887,2,1,1217,827 Main St,TX,827 Main St,County C,City C,District C,Main St,Property 827,"827 Main St, City A, CA",37.86453177330462,-121.42078268083561
+Broker B,Condo,354311,3,3,4061,828 Main St,WA,828 Main St,County C,City C,District A,Oak Ave,Property 828,"828 Main St, City A, CA",38.73413543532382,-122.18399275115847
+Broker B,Condo,752184,3,3,1516,829 Main St,TX,829 Main St,County B,City A,District C,Main St,Property 829,"829 Main St, City A, CA",38.49056265207231,-121.69242012865418
+Broker B,Condo,790504,5,4,4065,830 Main St,FL,830 Main St,County A,City A,District A,Oak Ave,Property 830,"830 Main St, City A, CA",38.56305978813571,-122.0413689377668
+Broker B,Single Family,545377,5,4,4970,831 Main St,WA,831 Main St,County C,City C,District A,Pine Blvd,Property 831,"831 Main St, City A, CA",38.47900436077164,-122.41129180311378
+Broker B,Single Family,589934,1,3,2460,832 Main St,TX,832 Main St,County C,City A,District B,Oak Ave,Property 832,"832 Main St, City A, CA",38.364629036076465,-122.4101474775641
+Broker B,Townhouse,619089,1,4,1548,833 Main St,CA,833 Main St,County A,City B,District A,Pine Blvd,Property 833,"833 Main St, City A, CA",38.22481278108551,-121.95883399243775
+Broker B,Single Family,846434,1,3,1857,834 Main St,NY,834 Main St,County A,City C,District B,Main St,Property 834,"834 Main St, City A, CA",38.633273379761064,-121.93106508699566
+Broker C,Single Family,308432,5,1,3926,835 Main St,NY,835 Main St,County A,City B,District C,Main St,Property 835,"835 Main St, City A, CA",38.73173566754306,-122.39683030342655
+Broker C,Townhouse,282051,5,1,615,836 Main St,CA,836 Main St,County A,City B,District B,Pine Blvd,Property 836,"836 Main St, City A, CA",38.27393617290409,-121.7324725832257
+Broker C,Townhouse,197661,5,2,2595,837 Main St,NY,837 Main St,County A,City C,District C,Pine Blvd,Property 837,"837 Main St, City A, CA",38.70643504915527,-122.12539661140504
+Broker C,Townhouse,797960,3,1,2301,838 Main St,NY,838 Main St,County A,City B,District A,Pine Blvd,Property 838,"838 Main St, City A, CA",38.35823290998852,-121.85950689846405
+Broker B,Single Family,552776,5,3,2646,839 Main St,CA,839 Main St,County B,City B,District C,Main St,Property 839,"839 Main St, City A, CA",38.31328418689644,-122.11848092683458
+Broker A,Single Family,571256,3,4,2120,840 Main St,CA,840 Main St,County A,City B,District C,Main St,Property 840,"840 Main St, City A, CA",38.22938273295536,-122.2522656851307
+Broker B,Townhouse,223257,1,2,3450,841 Main St,TX,841 Main St,County A,City C,District A,Oak Ave,Property 841,"841 Main St, City A, CA",37.98418776153012,-122.01222626140112
+Broker A,Condo,972637,1,4,4292,842 Main St,TX,842 Main St,County B,City C,District C,Pine Blvd,Property 842,"842 Main St, City A, CA",37.77861966081806,-122.1871266352095
+Broker C,Townhouse,369054,1,3,3441,843 Main St,CA,843 Main St,County A,City B,District A,Oak Ave,Property 843,"843 Main St, City A, CA",38.01640622685606,-121.88459902308082
+Broker B,Condo,933289,2,1,1477,844 Main St,FL,844 Main St,County C,City C,District B,Main St,Property 844,"844 Main St, City A, CA",38.28462317160357,-122.22057146971352
+Broker C,Condo,659252,2,2,3566,845 Main St,NY,845 Main St,County C,City C,District A,Oak Ave,Property 845,"845 Main St, City A, CA",38.154859952259756,-121.91099402335537
+Broker B,Townhouse,518443,4,3,1283,846 Main St,TX,846 Main St,County A,City B,District A,Oak Ave,Property 846,"846 Main St, City A, CA",38.223385228002634,-122.26202148513113
+Broker C,Townhouse,903585,4,2,740,847 Main St,NY,847 Main St,County B,City C,District C,Main St,Property 847,"847 Main St, City A, CA",38.755548219564055,-121.7484252905142
+Broker A,Townhouse,421909,4,2,2053,848 Main St,WA,848 Main St,County C,City A,District B,Main St,Property 848,"848 Main St, City A, CA",38.12517237066933,-121.66546231555857
+Broker A,Single Family,854444,2,1,1512,849 Main St,CA,849 Main St,County B,City C,District A,Pine Blvd,Property 849,"849 Main St, City A, CA",38.22708293936011,-122.30900576575006
+Broker A,Condo,732500,2,3,686,850 Main St,FL,850 Main St,County C,City A,District B,Oak Ave,Property 850,"850 Main St, City A, CA",37.908415551352824,-121.95159758796265
+Broker B,Single Family,663359,4,4,2381,851 Main St,WA,851 Main St,County A,City B,District B,Main St,Property 851,"851 Main St, City A, CA",37.82285773243699,-122.34852829934512
+Broker A,Single Family,212990,4,2,930,852 Main St,WA,852 Main St,County B,City C,District C,Main St,Property 852,"852 Main St, City A, CA",38.5503095145925,-121.82121755445799
+Broker B,Townhouse,169519,5,2,738,853 Main St,WA,853 Main St,County B,City B,District A,Oak Ave,Property 853,"853 Main St, City A, CA",38.34558317507198,-122.15499570207035
+Broker A,Single Family,109503,4,4,2845,854 Main St,CA,854 Main St,County B,City B,District C,Main St,Property 854,"854 Main St, City A, CA",38.5356048060439,-121.89177554316129
+Broker A,Townhouse,291775,5,3,575,855 Main St,TX,855 Main St,County C,City B,District A,Pine Blvd,Property 855,"855 Main St, City A, CA",37.924762798886555,-121.9019389906157
+Broker B,Condo,719745,3,2,1856,856 Main St,CA,856 Main St,County C,City B,District B,Pine Blvd,Property 856,"856 Main St, City A, CA",38.34672877118269,-121.4950456538062
+Broker B,Townhouse,813226,2,2,2830,857 Main St,TX,857 Main St,County C,City B,District A,Oak Ave,Property 857,"857 Main St, City A, CA",38.02854247434138,-121.87031677743127
+Broker A,Single Family,247977,4,2,2402,858 Main St,WA,858 Main St,County A,City C,District A,Pine Blvd,Property 858,"858 Main St, City A, CA",38.002961816900026,-121.83640152028168
+Broker B,Single Family,670126,2,3,4513,859 Main St,WA,859 Main St,County C,City A,District B,Main St,Property 859,"859 Main St, City A, CA",37.786426014052985,-122.01774687423561
+Broker A,Townhouse,551495,2,3,2559,860 Main St,FL,860 Main St,County A,City C,District B,Main St,Property 860,"860 Main St, City A, CA",37.90524072356907,-121.47032039681719
+Broker B,Townhouse,713777,2,4,640,861 Main St,TX,861 Main St,County B,City C,District A,Main St,Property 861,"861 Main St, City A, CA",38.0841681114997,-121.64221409056039
+Broker C,Single Family,126806,3,3,2289,862 Main St,WA,862 Main St,County B,City C,District C,Main St,Property 862,"862 Main St, City A, CA",37.89177876059094,-122.13399470969715
+Broker C,Condo,276072,1,3,4126,863 Main St,NY,863 Main St,County A,City C,District A,Oak Ave,Property 863,"863 Main St, City A, CA",38.76075844041094,-121.57519041422377
+Broker C,Condo,515384,4,1,516,864 Main St,FL,864 Main St,County C,City A,District B,Pine Blvd,Property 864,"864 Main St, City A, CA",38.083532648523956,-121.9870036398149
+Broker C,Townhouse,170119,1,4,4848,865 Main St,CA,865 Main St,County A,City C,District C,Pine Blvd,Property 865,"865 Main St, City A, CA",37.90522394670233,-121.5907328564664
+Broker C,Condo,925146,1,2,964,866 Main St,FL,866 Main St,County B,City B,District B,Main St,Property 866,"866 Main St, City A, CA",37.97398231282796,-121.59651193170649
+Broker A,Single Family,285165,1,3,4971,867 Main St,NY,867 Main St,County B,City C,District B,Oak Ave,Property 867,"867 Main St, City A, CA",38.36260322834148,-122.23052981323714
+Broker C,Townhouse,941851,2,2,2327,868 Main St,TX,868 Main St,County A,City C,District C,Main St,Property 868,"868 Main St, City A, CA",37.83894352386479,-121.71825886861642
+Broker C,Single Family,729720,5,2,3528,869 Main St,CA,869 Main St,County C,City A,District B,Main St,Property 869,"869 Main St, City A, CA",38.637334130141156,-122.12875703069346
+Broker C,Single Family,570641,2,1,1019,870 Main St,CA,870 Main St,County C,City A,District B,Oak Ave,Property 870,"870 Main St, City A, CA",38.73639967923715,-122.12190733000733
+Broker C,Condo,979381,2,3,589,871 Main St,TX,871 Main St,County A,City B,District B,Oak Ave,Property 871,"871 Main St, City A, CA",38.021647420667385,-122.12305192311942
+Broker B,Townhouse,571027,1,4,3351,872 Main St,FL,872 Main St,County A,City C,District B,Main St,Property 872,"872 Main St, City A, CA",38.22499526859086,-121.69383175244005
+Broker A,Townhouse,507507,2,3,3343,873 Main St,WA,873 Main St,County C,City C,District B,Pine Blvd,Property 873,"873 Main St, City A, CA",37.797034451029496,-122.18957395820746
+Broker C,Condo,802164,1,2,2384,874 Main St,FL,874 Main St,County B,City C,District B,Main St,Property 874,"874 Main St, City A, CA",38.415610224727224,-122.41849416475391
+Broker C,Single Family,963403,5,4,4671,875 Main St,NY,875 Main St,County A,City B,District B,Pine Blvd,Property 875,"875 Main St, City A, CA",38.18882605805259,-121.70416314651736
+Broker C,Single Family,979903,4,3,1425,876 Main St,WA,876 Main St,County C,City A,District B,Pine Blvd,Property 876,"876 Main St, City A, CA",38.044958466101555,-122.24821525616487
+Broker A,Single Family,951378,1,2,4234,877 Main St,FL,877 Main St,County C,City B,District B,Oak Ave,Property 877,"877 Main St, City A, CA",37.98173711061661,-122.31491760469216
+Broker B,Single Family,985421,5,2,1469,878 Main St,TX,878 Main St,County B,City C,District A,Oak Ave,Property 878,"878 Main St, City A, CA",38.428923077658766,-122.18188387940593
+Broker A,Townhouse,184080,4,1,1594,879 Main St,NY,879 Main St,County B,City A,District A,Main St,Property 879,"879 Main St, City A, CA",38.19111703103232,-122.0394994776773
+Broker B,Townhouse,352791,3,1,3695,880 Main St,NY,880 Main St,County B,City A,District B,Pine Blvd,Property 880,"880 Main St, City A, CA",37.954559289029916,-121.9434936725268
+Broker C,Condo,177794,1,1,1904,881 Main St,NY,881 Main St,County B,City B,District A,Pine Blvd,Property 881,"881 Main St, City A, CA",38.46400908148683,-122.37482995928737
+Broker C,Condo,392985,1,2,3864,882 Main St,WA,882 Main St,County B,City A,District C,Main St,Property 882,"882 Main St, City A, CA",38.339972283036694,-121.44882666737263
+Broker A,Townhouse,224447,3,3,4790,883 Main St,CA,883 Main St,County A,City A,District A,Main St,Property 883,"883 Main St, City A, CA",38.6335720549295,-121.70333694658044
+Broker A,Townhouse,220029,3,1,4482,884 Main St,WA,884 Main St,County C,City C,District B,Main St,Property 884,"884 Main St, City A, CA",37.892375898876494,-122.09620593467567
+Broker B,Single Family,279830,1,3,4823,885 Main St,FL,885 Main St,County A,City C,District B,Oak Ave,Property 885,"885 Main St, City A, CA",38.56056660194446,-122.1007027427146
+Broker B,Single Family,607942,3,1,4513,886 Main St,CA,886 Main St,County A,City A,District A,Main St,Property 886,"886 Main St, City A, CA",38.44841678681726,-121.97085745063154
+Broker A,Condo,438416,2,4,3592,887 Main St,FL,887 Main St,County A,City A,District B,Main St,Property 887,"887 Main St, City A, CA",37.8899109368281,-121.79315517723697
+Broker B,Townhouse,661931,4,4,4659,888 Main St,CA,888 Main St,County A,City B,District C,Pine Blvd,Property 888,"888 Main St, City A, CA",38.469720729871725,-122.27302693341103
+Broker A,Condo,406094,4,1,2574,889 Main St,WA,889 Main St,County A,City B,District C,Main St,Property 889,"889 Main St, City A, CA",38.216447288879834,-122.23047018623504
+Broker B,Townhouse,287921,4,2,784,890 Main St,NY,890 Main St,County B,City A,District B,Pine Blvd,Property 890,"890 Main St, City A, CA",38.71988478555585,-121.55996541716644
+Broker A,Single Family,462644,2,1,1687,891 Main St,TX,891 Main St,County B,City C,District C,Pine Blvd,Property 891,"891 Main St, City A, CA",37.9165113506179,-122.16314507611092
+Broker A,Condo,783404,3,1,4469,892 Main St,NY,892 Main St,County C,City A,District C,Oak Ave,Property 892,"892 Main St, City A, CA",38.41773339081574,-122.03920500202481
+Broker A,Condo,598685,5,2,3465,893 Main St,WA,893 Main St,County A,City A,District A,Main St,Property 893,"893 Main St, City A, CA",38.15688004546295,-121.54812814904987
+Broker B,Townhouse,487732,3,4,4819,894 Main St,CA,894 Main St,County C,City C,District C,Main St,Property 894,"894 Main St, City A, CA",38.73171467059088,-121.75625217060018
+Broker B,Single Family,640285,1,3,1283,895 Main St,NY,895 Main St,County B,City C,District A,Pine Blvd,Property 895,"895 Main St, City A, CA",38.10487489529028,-122.07768812065831
+Broker B,Condo,966183,4,1,1449,896 Main St,WA,896 Main St,County B,City B,District B,Oak Ave,Property 896,"896 Main St, City A, CA",38.7370859094918,-121.73570045427537
+Broker A,Single Family,722893,3,2,4439,897 Main St,FL,897 Main St,County B,City B,District A,Oak Ave,Property 897,"897 Main St, City A, CA",38.676385851100754,-122.39971678461858
+Broker B,Condo,941965,5,1,544,898 Main St,TX,898 Main St,County A,City B,District B,Main St,Property 898,"898 Main St, City A, CA",38.045283235310656,-121.68375733998863
+Broker B,Single Family,444710,1,2,2310,899 Main St,NY,899 Main St,County A,City B,District B,Pine Blvd,Property 899,"899 Main St, City A, CA",38.57844177682643,-121.93238395948376
+Broker A,Townhouse,850230,2,3,2581,900 Main St,CA,900 Main St,County B,City C,District B,Main St,Property 900,"900 Main St, City A, CA",38.77050420180351,-121.60621785271553
+Broker C,Condo,769931,2,3,3998,901 Main St,FL,901 Main St,County C,City A,District B,Main St,Property 901,"901 Main St, City A, CA",38.027563002171284,-121.46476234799353
+Broker A,Condo,732543,5,4,1329,902 Main St,WA,902 Main St,County C,City B,District B,Main St,Property 902,"902 Main St, City A, CA",38.21167716932332,-121.49361145050543
+Broker B,Single Family,884586,1,2,2409,903 Main St,TX,903 Main St,County B,City B,District A,Main St,Property 903,"903 Main St, City A, CA",38.29508073656676,-121.51013495654466
+Broker A,Single Family,551157,4,2,3081,904 Main St,CA,904 Main St,County C,City C,District B,Pine Blvd,Property 904,"904 Main St, City A, CA",38.06983113580387,-121.90723004406611
+Broker C,Condo,158005,3,4,1191,905 Main St,WA,905 Main St,County B,City C,District C,Oak Ave,Property 905,"905 Main St, City A, CA",37.79016483964603,-122.05925788586106
+Broker A,Townhouse,317322,1,4,4519,906 Main St,WA,906 Main St,County C,City A,District C,Main St,Property 906,"906 Main St, City A, CA",37.99502924419753,-121.95436467526932
+Broker B,Single Family,289784,2,2,1431,907 Main St,NY,907 Main St,County B,City A,District B,Main St,Property 907,"907 Main St, City A, CA",38.05683688434176,-121.72950399668663
+Broker C,Single Family,667829,5,4,3906,908 Main St,NY,908 Main St,County C,City C,District C,Main St,Property 908,"908 Main St, City A, CA",38.21849970131819,-121.53540222312881
+Broker B,Single Family,123387,5,3,647,909 Main St,CA,909 Main St,County A,City B,District A,Main St,Property 909,"909 Main St, City A, CA",37.946002478413405,-122.21241369699987
+Broker C,Condo,980412,3,1,1532,910 Main St,WA,910 Main St,County B,City B,District A,Oak Ave,Property 910,"910 Main St, City A, CA",38.64815435669168,-121.50120684153829
+Broker C,Condo,804268,5,3,1811,911 Main St,NY,911 Main St,County B,City B,District B,Oak Ave,Property 911,"911 Main St, City A, CA",38.479811132731335,-121.6042197680301
+Broker A,Condo,185457,5,4,887,912 Main St,TX,912 Main St,County C,City A,District B,Oak Ave,Property 912,"912 Main St, City A, CA",37.86010047755966,-121.44054398482176
+Broker A,Condo,244129,1,2,3621,913 Main St,TX,913 Main St,County B,City B,District B,Oak Ave,Property 913,"913 Main St, City A, CA",38.424992451139936,-121.53914822671831
+Broker B,Townhouse,688316,4,2,2373,914 Main St,WA,914 Main St,County B,City B,District C,Main St,Property 914,"914 Main St, City A, CA",38.428556476405625,-122.13946267030809
+Broker A,Townhouse,743534,3,3,4088,915 Main St,NY,915 Main St,County B,City C,District C,Pine Blvd,Property 915,"915 Main St, City A, CA",38.73112117364363,-122.31344408865594
+Broker A,Condo,417875,1,2,1415,916 Main St,CA,916 Main St,County A,City B,District A,Oak Ave,Property 916,"916 Main St, City A, CA",37.777920871356166,-122.3071589280084
+Broker C,Townhouse,780218,4,4,2378,917 Main St,CA,917 Main St,County A,City C,District C,Oak Ave,Property 917,"917 Main St, City A, CA",38.02283244980581,-122.12817668142172
+Broker A,Single Family,279761,1,3,4248,918 Main St,CA,918 Main St,County C,City B,District A,Main St,Property 918,"918 Main St, City A, CA",38.70269147937532,-121.80521627601546
+Broker C,Single Family,668926,1,2,777,919 Main St,TX,919 Main St,County A,City A,District C,Main St,Property 919,"919 Main St, City A, CA",38.707033915398284,-121.61507967390283
+Broker C,Single Family,584814,5,1,2477,920 Main St,NY,920 Main St,County C,City B,District A,Main St,Property 920,"920 Main St, City A, CA",38.49548641937064,-121.52014969301842
+Broker C,Condo,277558,4,1,2359,921 Main St,NY,921 Main St,County A,City B,District B,Main St,Property 921,"921 Main St, City A, CA",38.54066332104754,-121.79564661563076
+Broker B,Single Family,644855,3,4,3536,922 Main St,TX,922 Main St,County C,City C,District C,Pine Blvd,Property 922,"922 Main St, City A, CA",37.86638295792965,-122.41376868725195
+Broker B,Townhouse,522955,3,2,3871,923 Main St,CA,923 Main St,County A,City C,District A,Pine Blvd,Property 923,"923 Main St, City A, CA",38.288775834778235,-122.23308322348146
+Broker B,Condo,682092,4,4,2682,924 Main St,CA,924 Main St,County A,City C,District C,Oak Ave,Property 924,"924 Main St, City A, CA",38.006482991289005,-122.31967379614663
+Broker C,Townhouse,470965,5,3,1670,925 Main St,WA,925 Main St,County C,City B,District B,Pine Blvd,Property 925,"925 Main St, City A, CA",37.95611804361362,-122.05607552443098
+Broker B,Single Family,103754,2,1,989,926 Main St,FL,926 Main St,County B,City B,District A,Oak Ave,Property 926,"926 Main St, City A, CA",38.585203299123336,-121.91804900636625
+Broker B,Single Family,651332,1,3,3025,927 Main St,NY,927 Main St,County B,City A,District C,Oak Ave,Property 927,"927 Main St, City A, CA",37.90993813668055,-122.37600282142144
+Broker A,Single Family,167260,5,2,1682,928 Main St,NY,928 Main St,County A,City B,District C,Pine Blvd,Property 928,"928 Main St, City A, CA",38.243551636996386,-122.07092202420434
+Broker B,Condo,166912,4,4,4979,929 Main St,NY,929 Main St,County C,City A,District B,Oak Ave,Property 929,"929 Main St, City A, CA",38.71347823958604,-122.24022032537468
+Broker B,Townhouse,356695,1,4,4758,930 Main St,FL,930 Main St,County B,City C,District B,Main St,Property 930,"930 Main St, City A, CA",37.960732055565344,-121.77232983374113
+Broker C,Condo,632994,3,4,2988,931 Main St,WA,931 Main St,County C,City C,District A,Oak Ave,Property 931,"931 Main St, City A, CA",38.752893423738236,-121.95512763067566
+Broker C,Condo,895326,2,3,2376,932 Main St,FL,932 Main St,County B,City C,District C,Main St,Property 932,"932 Main St, City A, CA",38.769187985761064,-121.92408235306608
+Broker C,Single Family,446130,3,1,2962,933 Main St,CA,933 Main St,County C,City A,District C,Pine Blvd,Property 933,"933 Main St, City A, CA",38.330517154682404,-121.99170821196654
+Broker C,Condo,968374,4,3,2130,934 Main St,CA,934 Main St,County A,City B,District B,Pine Blvd,Property 934,"934 Main St, City A, CA",37.94504274017716,-121.46338028951342
+Broker C,Condo,806972,1,3,787,935 Main St,NY,935 Main St,County C,City C,District B,Oak Ave,Property 935,"935 Main St, City A, CA",38.0910048879409,-122.20466487487843
+Broker C,Single Family,129725,4,2,4782,936 Main St,TX,936 Main St,County B,City B,District A,Main St,Property 936,"936 Main St, City A, CA",38.19939283267654,-121.90273574015612
+Broker B,Condo,236998,1,2,2407,937 Main St,NY,937 Main St,County A,City B,District C,Oak Ave,Property 937,"937 Main St, City A, CA",38.08422422435822,-121.68338263163466
+Broker C,Single Family,204555,5,2,1661,938 Main St,TX,938 Main St,County C,City C,District C,Pine Blvd,Property 938,"938 Main St, City A, CA",38.05553557987652,-121.86255558686544
+Broker C,Single Family,361486,2,1,629,939 Main St,FL,939 Main St,County B,City A,District A,Oak Ave,Property 939,"939 Main St, City A, CA",38.74712970921636,-121.4903791142832
+Broker A,Single Family,895928,5,1,2863,940 Main St,CA,940 Main St,County A,City B,District A,Oak Ave,Property 940,"940 Main St, City A, CA",37.928264827415745,-122.04143164435871
+Broker B,Single Family,680735,5,2,643,941 Main St,TX,941 Main St,County C,City C,District B,Main St,Property 941,"941 Main St, City A, CA",38.50822790871686,-121.95572419422682
+Broker B,Condo,988036,4,2,515,942 Main St,FL,942 Main St,County B,City B,District B,Pine Blvd,Property 942,"942 Main St, City A, CA",37.775310289439176,-122.33087768478526
+Broker B,Single Family,785166,2,1,744,943 Main St,CA,943 Main St,County C,City B,District A,Oak Ave,Property 943,"943 Main St, City A, CA",38.37108266940238,-121.81040088894807
+Broker C,Single Family,974631,1,4,1426,944 Main St,TX,944 Main St,County C,City B,District A,Main St,Property 944,"944 Main St, City A, CA",38.69084300395406,-122.13118803155189
+Broker C,Condo,665609,1,1,3678,945 Main St,NY,945 Main St,County A,City B,District C,Oak Ave,Property 945,"945 Main St, City A, CA",38.06283409409322,-122.25909096048443
+Broker C,Condo,877401,3,1,2676,946 Main St,NY,946 Main St,County A,City B,District A,Main St,Property 946,"946 Main St, City A, CA",37.96042597525772,-121.87486870709549
+Broker A,Townhouse,333103,1,1,1386,947 Main St,NY,947 Main St,County B,City A,District A,Main St,Property 947,"947 Main St, City A, CA",38.42657979487843,-121.88708973662008
+Broker C,Condo,515872,4,2,840,948 Main St,FL,948 Main St,County A,City A,District C,Oak Ave,Property 948,"948 Main St, City A, CA",38.487501407298396,-122.34352835877594
+Broker A,Condo,155147,5,4,2551,949 Main St,NY,949 Main St,County B,City C,District A,Pine Blvd,Property 949,"949 Main St, City A, CA",38.462930518951985,-121.72118454650553
+Broker B,Townhouse,715684,5,1,3898,950 Main St,WA,950 Main St,County C,City A,District B,Pine Blvd,Property 950,"950 Main St, City A, CA",38.09421688002138,-121.79562780934914
+Broker C,Condo,542882,5,2,4450,951 Main St,CA,951 Main St,County C,City A,District B,Main St,Property 951,"951 Main St, City A, CA",38.027102402159336,-122.2303827172535
+Broker A,Condo,575584,2,3,805,952 Main St,FL,952 Main St,County B,City A,District C,Pine Blvd,Property 952,"952 Main St, City A, CA",38.730818799962044,-121.94996513784595
+Broker A,Condo,400931,1,3,1407,953 Main St,NY,953 Main St,County C,City B,District A,Main St,Property 953,"953 Main St, City A, CA",38.69819950826993,-121.69907708352143
+Broker C,Condo,344839,4,1,3154,954 Main St,CA,954 Main St,County A,City B,District B,Pine Blvd,Property 954,"954 Main St, City A, CA",38.232216609892824,-121.88996425945872
+Broker B,Townhouse,556162,2,3,4292,955 Main St,TX,955 Main St,County C,City C,District B,Oak Ave,Property 955,"955 Main St, City A, CA",38.621093866154375,-122.02391092381643
+Broker B,Condo,646015,3,4,4542,956 Main St,NY,956 Main St,County A,City C,District B,Pine Blvd,Property 956,"956 Main St, City A, CA",38.2272234776343,-122.09706154191905
+Broker B,Condo,863711,4,3,1871,957 Main St,CA,957 Main St,County B,City C,District B,Main St,Property 957,"957 Main St, City A, CA",38.19928901807251,-121.80900613335594
+Broker A,Townhouse,195081,4,3,820,958 Main St,WA,958 Main St,County B,City B,District A,Main St,Property 958,"958 Main St, City A, CA",37.9316629475993,-121.48029130168976
+Broker A,Single Family,484865,4,4,4559,959 Main St,TX,959 Main St,County C,City A,District A,Pine Blvd,Property 959,"959 Main St, City A, CA",38.20130605649197,-121.74765515952251
+Broker A,Townhouse,865418,5,1,1631,960 Main St,WA,960 Main St,County C,City A,District A,Oak Ave,Property 960,"960 Main St, City A, CA",38.31231693859981,-122.34465409636368
+Broker A,Single Family,692344,4,1,3078,961 Main St,CA,961 Main St,County A,City B,District A,Main St,Property 961,"961 Main St, City A, CA",37.79740432742869,-121.95871502651786
+Broker B,Townhouse,758441,1,4,4542,962 Main St,WA,962 Main St,County A,City C,District B,Main St,Property 962,"962 Main St, City A, CA",38.219013005175405,-121.52857586848937
+Broker C,Townhouse,789556,4,4,3867,963 Main St,CA,963 Main St,County C,City C,District C,Main St,Property 963,"963 Main St, City A, CA",38.556256218395205,-122.32493757419891
+Broker A,Condo,792095,5,4,1317,964 Main St,CA,964 Main St,County C,City C,District C,Main St,Property 964,"964 Main St, City A, CA",38.454946056374276,-121.43052428786245
+Broker A,Single Family,860109,4,3,511,965 Main St,WA,965 Main St,County B,City B,District B,Main St,Property 965,"965 Main St, City A, CA",38.410056988863936,-121.47033060635458
+Broker B,Condo,180102,3,4,694,966 Main St,CA,966 Main St,County B,City C,District B,Oak Ave,Property 966,"966 Main St, City A, CA",38.684455428437204,-122.34112551927012
+Broker C,Single Family,256570,3,2,3037,967 Main St,NY,967 Main St,County B,City C,District C,Pine Blvd,Property 967,"967 Main St, City A, CA",37.79293200982523,-121.48598667955044
+Broker C,Townhouse,701153,5,3,3342,968 Main St,CA,968 Main St,County C,City B,District C,Oak Ave,Property 968,"968 Main St, City A, CA",38.331947586192236,-122.05626740974053
+Broker B,Townhouse,787016,1,1,2729,969 Main St,FL,969 Main St,County C,City A,District B,Oak Ave,Property 969,"969 Main St, City A, CA",38.56224884840971,-121.57469083292413
+Broker B,Single Family,167695,1,1,3509,970 Main St,CA,970 Main St,County C,City B,District B,Main St,Property 970,"970 Main St, City A, CA",38.31623538270127,-122.00101666228673
+Broker C,Condo,531116,2,1,2577,971 Main St,FL,971 Main St,County B,City B,District A,Oak Ave,Property 971,"971 Main St, City A, CA",38.098795552580384,-121.97854488729747
+Broker A,Condo,621608,5,3,4367,972 Main St,CA,972 Main St,County C,City B,District A,Main St,Property 972,"972 Main St, City A, CA",37.91115056509198,-121.78515690902245
+Broker C,Condo,217235,4,2,943,973 Main St,CA,973 Main St,County A,City B,District C,Oak Ave,Property 973,"973 Main St, City A, CA",38.66246307181619,-121.64492258072401
+Broker B,Condo,540917,5,4,797,974 Main St,WA,974 Main St,County C,City A,District B,Main St,Property 974,"974 Main St, City A, CA",38.24566239238761,-122.38561084905174
+Broker A,Townhouse,733065,2,4,1344,975 Main St,NY,975 Main St,County C,City C,District C,Main St,Property 975,"975 Main St, City A, CA",38.653015196985706,-121.82624400447285
+Broker A,Townhouse,119033,5,1,1515,976 Main St,NY,976 Main St,County C,City B,District A,Oak Ave,Property 976,"976 Main St, City A, CA",38.36075212243317,-122.23266700590263
+Broker B,Townhouse,616409,5,1,1884,977 Main St,TX,977 Main St,County C,City A,District A,Oak Ave,Property 977,"977 Main St, City A, CA",38.449092116615006,-122.07345048213679
+Broker B,Townhouse,766165,2,3,1897,978 Main St,WA,978 Main St,County C,City C,District C,Pine Blvd,Property 978,"978 Main St, City A, CA",38.579161154378454,-122.07143133384479
+Broker B,Townhouse,791211,1,2,1053,979 Main St,WA,979 Main St,County A,City C,District A,Pine Blvd,Property 979,"979 Main St, City A, CA",38.434055544600135,-121.95033965977885
+Broker C,Condo,651120,4,4,2850,980 Main St,NY,980 Main St,County A,City C,District B,Pine Blvd,Property 980,"980 Main St, City A, CA",38.17295484067894,-122.08526358812382
+Broker C,Condo,294509,2,3,1769,981 Main St,WA,981 Main St,County C,City B,District C,Oak Ave,Property 981,"981 Main St, City A, CA",38.28853338392865,-122.31203888154933
+Broker A,Condo,477869,3,4,1760,982 Main St,NY,982 Main St,County B,City B,District B,Oak Ave,Property 982,"982 Main St, City A, CA",38.57794552467588,-122.27377126147455
+Broker B,Condo,245016,1,1,684,983 Main St,WA,983 Main St,County C,City C,District B,Main St,Property 983,"983 Main St, City A, CA",38.14855029637299,-122.3859620144389
+Broker A,Townhouse,382017,3,4,2910,984 Main St,CA,984 Main St,County C,City C,District A,Pine Blvd,Property 984,"984 Main St, City A, CA",38.1630214567685,-121.94915091467124
+Broker A,Townhouse,664660,1,2,4931,985 Main St,NY,985 Main St,County C,City C,District B,Main St,Property 985,"985 Main St, City A, CA",37.870590116058004,-121.46495230514701
+Broker A,Townhouse,189464,4,2,2709,986 Main St,NY,986 Main St,County B,City C,District C,Main St,Property 986,"986 Main St, City A, CA",38.68948443522175,-122.30372477635188
+Broker A,Single Family,770739,4,1,4172,987 Main St,FL,987 Main St,County B,City C,District B,Main St,Property 987,"987 Main St, City A, CA",37.86593631494544,-121.47313550699691
+Broker B,Condo,217322,5,2,2381,988 Main St,WA,988 Main St,County B,City C,District B,Main St,Property 988,"988 Main St, City A, CA",38.42310917744856,-121.6860384852679
+Broker A,Condo,792111,3,2,4796,989 Main St,WA,989 Main St,County A,City A,District B,Pine Blvd,Property 989,"989 Main St, City A, CA",38.1880944788028,-121.78190119706584
+Broker B,Townhouse,986514,1,3,1021,990 Main St,NY,990 Main St,County B,City C,District B,Main St,Property 990,"990 Main St, City A, CA",38.18051939025545,-121.77412224467643
+Broker B,Condo,845182,4,4,2387,991 Main St,CA,991 Main St,County A,City B,District B,Oak Ave,Property 991,"991 Main St, City A, CA",38.45445183657269,-121.59267235160371
+Broker C,Condo,891542,2,1,3052,992 Main St,CA,992 Main St,County A,City B,District A,Oak Ave,Property 992,"992 Main St, City A, CA",37.84199373262988,-122.31248013562018
+Broker B,Townhouse,547557,4,1,4309,993 Main St,CA,993 Main St,County B,City B,District C,Oak Ave,Property 993,"993 Main St, City A, CA",38.368605782951434,-121.91464567643446
+Broker C,Single Family,898519,2,1,4655,994 Main St,WA,994 Main St,County B,City C,District A,Pine Blvd,Property 994,"994 Main St, City A, CA",38.546931785972355,-121.72230886173924
+Broker B,Single Family,516978,1,1,4916,995 Main St,FL,995 Main St,County B,City B,District C,Main St,Property 995,"995 Main St, City A, CA",38.6031127578866,-121.83257955492643
+Broker B,Single Family,969049,4,1,3979,996 Main St,NY,996 Main St,County A,City A,District C,Pine Blvd,Property 996,"996 Main St, City A, CA",37.94543038939378,-121.5866209289767
+Broker B,Townhouse,724771,4,2,1909,997 Main St,TX,997 Main St,County C,City C,District C,Main St,Property 997,"997 Main St, City A, CA",38.67231905007817,-122.34712829098865
+Broker C,Condo,623886,1,3,2194,998 Main St,FL,998 Main St,County B,City B,District C,Pine Blvd,Property 998,"998 Main St, City A, CA",38.43104609184744,-121.72869896050084
+Broker C,Townhouse,633884,4,1,1026,999 Main St,TX,999 Main St,County B,City A,District C,Pine Blvd,Property 999,"999 Main St, City A, CA",38.656754800820686,-121.88537226961527
+Broker A,Townhouse,334627,2,3,3160,1000 Main St,FL,1000 Main St,County B,City A,District B,Main St,Property 1000,"1000 Main St, City A, CA",38.2601807171102,-122.04023913602005

@@ -1,0 +1,54 @@
+version: '3.8'
+
+services:
+  train:
+    build: .
+    container_name: housing_model_train
+    volumes:
+      - .:/app
+    environment:
+      - MONGODB_URI=mongodb://mongodb:27017/
+      - DB_NAME=housing_data
+    depends_on:
+      - mongodb
+    command: python src/train.py
+    networks:
+      - housing_network
+
+  jupyter:
+    build: .
+    container_name: housing_jupyter
+    volumes:
+      - .:/app
+    ports:
+      - "8888:8888"
+    environment:
+      - MONGODB_URI=mongodb://mongodb:27017/
+      - DB_NAME=housing_data
+    depends_on:
+      - mongodb
+    command: >
+      bash -c "pip install jupyter notebook &&
+              python -m jupyter notebook --ip=0.0.0.0 --port=8888 --no-browser --allow-root --NotebookApp.token='' --NotebookApp.password=''"
+    networks:
+      - housing_network
+
+  mongodb:
+    image: mongo:6.0
+    container_name: housing_mongodb
+    restart: always
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongodb_data:/data/db
+    environment:
+      - MONGO_INITDB_DATABASE=housing_data
+    networks:
+      - housing_network
+
+volumes:
+  mongodb_data:
+
+networks:
+  housing_network:
+    driver: bridge
