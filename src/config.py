@@ -5,9 +5,9 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # MongoDB Configuration
-MONGODB_URI = os.getenv("MONGODB_URI", "mongodb://localhost:27017/")
-DB_NAME = os.getenv("DB_NAME", "housing_data")
-COLLECTION_NAME = "properties"
+# MONGODB_URI = os.getenv("MONGODB_URI", "mongodb://localhost:27017/")
+# DB_NAME = os.getenv("DB_NAME", "housing_data")
+# COLLECTION_NAME = "properties"
 
 # Model Configuration
 MODEL_NAME = os.getenv("MODEL_NAME", "housing_price_model")
